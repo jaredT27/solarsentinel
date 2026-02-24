@@ -1,0 +1,114 @@
+# ═══════════════════════════════════════════════════════════════
+# Solar Sentinel Enhanced — Configuration
+# ═══════════════════════════════════════════════════════════════
+# All non-secret settings live here.  Actual secrets (API tokens)
+# stay in .env for security.  Edit this file to add states,
+# adjust thresholds, or configure Telegram channels.
+# ═══════════════════════════════════════════════════════════════
+
+# ── Telegram Channel Routing ──────────────────────────────────
+# "all"          → every alert lands here (your main subscriber channel)
+# "admin"        → daily health reports & error notifications (you only)
+# Per-state keys → optional dedicated channels for single-state subscribers
+#
+# Pricing model:
+#   $49/mo  → subscriber gets access to one state channel (e.g. IL)
+#   $99/mo  → 5-State Bundle
+#   $149/mo → all-access (the "all" channel)
+telegram:
+  admin_chat_id: "-1003840152476"
+  channels:
+    all: "-1003707091212"
+    # ── Per-state channels (optional) ──
+    # Uncomment and set IDs as you onboard subscribers:
+    # IL: "-100IL_CHANNEL_ID"
+    # IN: "-100IN_CHANNEL_ID"
+    # TX: "-100TX_CHANNEL_ID"
+    # CA: "-100CA_CHANNEL_ID"
+    # NY: "-100NY_CHANNEL_ID"
+    # NJ: "-100NJ_CHANNEL_ID"
+    # OH: "-100OH_CHANNEL_ID"
+    # MA: "-100MA_CHANNEL_ID"
+
+# ── States to Monitor ─────────────────────────────────────────
+# Each entry maps a US state to the ISO that manages its
+# interconnection queue.  Set iso to null for states that need
+# a custom scraper (e.g. Florida).
+#
+# To add a new state: just append an entry here — no code changes.
+states:
+  - name: Illinois
+    iso: MISO
+    tag: "#IL"
+  - name: Indiana
+    iso: MISO
+    tag: "#IN"
+  - name: Texas
+    iso: ERCOT
+    tag: "#TX"
+  - name: California
+    iso: CAISO
+    tag: "#CA"
+  - name: New York
+    iso: NYISO
+    tag: "#NY"
+  - name: New Jersey
+    iso: PJM
+    tag: "#NJ"
+  - name: Ohio
+    iso: PJM
+    tag: "#OH"
+  - name: Massachusetts
+    iso: ISONE
+    tag: "#MA"
+  - name: Florida
+    iso: null
+    tag: "#FL"
+
+# ── Filter Settings ───────────────────────────────────────────
+filters:
+  min_capacity_mw: 5.0
+  generation_types:
+    - solar
+    - battery
+    - bess
+    - photovoltaic
+    - storage
+  # When true, snapshots retain ALL statuses (Active, Withdrawn, etc.)
+  # so the diff engine can detect transitions like Active → Withdrawn.
+  # When false, only Active projects are stored (MVP behaviour).
+  track_all_statuses: true
+
+# ── Alert / Diff Thresholds ───────────────────────────────────
+alerts:
+  alert_on_new: true
+  alert_on_changed: true
+  alert_on_withdrawn: true
+  # Capacity must change by at least this many MW …
+  capacity_change_mw: 10
+  # … OR by this percentage — whichever triggers first.
+  capacity_change_pct: 15
+
+# ── Satellite Imagery ─────────────────────────────────────────
+imagery:
+  zoom: 14
+  size: "640x360"
+  marker_color: "red"
+  # Flip to true after running  ee.Authenticate()  and setting your
+  # GCP project in the script.  See the commented Earth Engine block
+  # inside solar_sentinel_enhanced.py for full instructions.
+  enable_sentinel2: false
+
+# ── Processing ────────────────────────────────────────────────
+processing:
+  # Number of ISOs fetched in parallel (ThreadPoolExecutor).
+  # 3 is safe for free-tier Nominatim + gridstatus.
+  max_workers: 3
+  geocode_delay_sec: 1.1
+  telegram_send_delay_sec: 0.5
+
+# ── Logging ───────────────────────────────────────────────────
+logging:
+  level: INFO            # DEBUG | INFO | WARNING | ERROR
+  log_dir: logs          # Daily rotating log files written here
+  max_log_days: 30       # Auto-delete logs older than this

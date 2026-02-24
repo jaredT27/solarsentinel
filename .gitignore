@@ -1,0 +1,32 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Claude Code
+.claude/
+
+# Log files — generated daily, not committed
+logs/
+
+# NOTE: data/ is intentionally NOT ignored.
+# Snapshot JSON files are committed so GitHub Actions
+# can diff against them across daily runs.

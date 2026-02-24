@@ -1,0 +1,86 @@
+# Solar Sentinel Enhanced — Daily Interconnection Queue Monitor
+#
+# Runs every day at 12:00 UTC (7 AM ET / 6 AM CT).
+# Can also be triggered manually from the Actions tab.
+#
+# Snapshots in data/ are committed back to the repo after each run
+# so that the next run can diff against the previous state.
+# Log files are NOT committed (they stay on the runner).
+
+name: Solar Sentinel Enhanced Daily Scan
+
+on:
+  schedule:
+    # Every day at noon UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    # Allow manual trigger from the Actions tab
+    inputs:
+      force:
+        description: "Treat all projects as new (--force)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write   # Needed to commit snapshot updates
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Check out the repo (with snapshot history) ──────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. Set up Python ───────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ── 3. Cache pip dependencies ──────────────────────────────
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # ── 4. Install dependencies ────────────────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 5. Run Solar Sentinel Enhanced ─────────────────────────
+      - name: Run Solar Sentinel Enhanced
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          PJM_API_KEY: ${{ secrets.PJM_API_KEY }}
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python solar_sentinel_enhanced.py $FORCE_FLAG
+
+      # ── 6. Commit updated snapshots back to the repo ───────────
+      # This ensures the next run can diff against today's data.
+      - name: Commit snapshot updates
+        run: |
+          git config user.name "Solar Sentinel Bot"
+          git config user.email "solar-sentinel[bot]@users.noreply.github.com"
+          git add data/
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "chore: update queue snapshots $(date -u +%Y-%m-%d)"
+          git push
