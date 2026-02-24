@@ -33,7 +33,7 @@ like. Just reply to this email.
 
 Jared
 Ex-Tesla Solar Roof
-[YOUR_EMAIL]
+jared@localmotionai.com
 
 ---
 
@@ -56,8 +56,8 @@ Each alert has the MW size, county, queue ID, status, and a satellite
 image of the location. It also catches capacity changes, study phase
 updates, and withdrawals.
 
-I've been using it myself for [X] months and it's already surfaced
-[NUMBER] projects I would have missed. A few other developers are
+I've been using it myself for a few weeks and it's already surfaced
+1,655 projects I would have missed. A few other developers are
 subscribing at $49/mo for a single state or $99/mo for a five-state
 bundle.
 
@@ -75,7 +75,7 @@ add you to the channel the same day.
 
 Talk soon,
 Jared
-[YOUR_EMAIL]
+jared@localmotionai.com
 
 ---
 
@@ -112,7 +112,7 @@ get your first alerts tomorrow morning at 7 AM.
 
 Jared
 Ex-Tesla Solar Roof
-[YOUR_EMAIL]
+jared@localmotionai.com
 
 ---
 

@@ -65,10 +65,97 @@ STATE_NAMES = {
     "FL": "Florida",
 }
 
+# Monthly tiers
 TIER_INFO = {
     "single":   {"price": 49,  "label": "Single State",   "states": 1},
     "bundle_5": {"price": 99,  "label": "5-State Bundle",  "states": 5},
+    "all_8":    {"price": 119, "label": "All 8 Markets",   "states": 8},
     "all_9":    {"price": 149, "label": "All 9 Markets",   "states": 9},
+}
+
+# Annual tiers (10 months = 2 months free)
+TIER_INFO_ANNUAL = {
+    "single_annual":   {"price": 490,  "label": "Single State (Annual)",   "states": 1,  "monthly_equiv": 49},
+    "bundle_5_annual": {"price": 990,  "label": "5-State Bundle (Annual)",  "states": 5,  "monthly_equiv": 99},
+    "all_8_annual":    {"price": 1190, "label": "All 8 Markets (Annual)",  "states": 8,  "monthly_equiv": 119},
+    "all_9_annual":    {"price": 1490, "label": "All 9 Markets (Annual)",  "states": 9,  "monthly_equiv": 149},
+}
+
+# Add-ons pricing
+ADDONS = {
+    "api_access":       {"price": 99,  "label": "API Access",       "link": "https://buy.stripe.com/28EaEW4Nv9SWaAXgh6cMM0d"},
+    "custom_filter":    {"price": 29,  "label": "Custom Capacity Filter", "link": "https://buy.stripe.com/8x214ma7P6GK24r8OEcMM0c"},
+    "email_digest":     {"price": 19,  "label": "Weekly Email Digest", "link": "https://buy.stripe.com/8x2dR80xf3uyeRdd4UcMM0b"},
+    "priority":         {"price": 49,  "label": "Priority Processing", "link": "https://buy.stripe.com/eVq3cu7ZH3uy5gD6GwcMM0a"},
+}
+
+# Free tier
+FREE_TIER = {"price": 0, "label": "Free Trial", "states": 1}
+
+# One-time services
+ONE_TIME_SERVICES = {
+    "quick_start":      {"price": 149,  "label": "Quick Start Setup",     "link": "https://buy.stripe.com/5kQ9AS3Jr6GK9wT5CscMM09"},
+    "custom_integrate": {"price": 499,  "label": "Custom Integration",   "link": "https://buy.stripe.com/14A00i93Lfdg8sP8OEcMM07"},
+    "training":         {"price": 199,  "label": "Training Session",     "link": "https://buy.stripe.com/eVqeVcfs91mqcJ5c0QcMM08"},
+}
+
+# Enterprise tiers
+ENTERPRISE_TIERS = {
+    "enterprise_small":  {"price": 499,  "label": "Enterprise Small",   "seats": 3},
+    "enterprise_medium": {"price": 999,  "label": "Enterprise Medium",  "seats": 10},
+    "enterprise_large":  {"price": 1499, "label": "Enterprise Large",   "seats": 25},
+}
+
+# White-Label / Reseller
+WHITELABEL_TIER = {
+    "whitelabel": {"price": 999, "label": "White-Label Partner", "min_commitment": "12 months"}
+}
+
+# Construction Progress Monitoring
+CONSTRUCTION_MONITORING = {
+    "construction_basic":    {"price": 99,  "label": "Construction Progress (Basic)", "frequency": "monthly"},
+    "construction_advanced": {"price": 199, "label": "Construction Progress (Advanced)", "frequency": "weekly"},
+}
+
+# Market Intelligence Reports
+MARKET_REPORTS = {
+    "report_monthly":    {"price": 299, "label": "Monthly Market Report", "frequency": "monthly"},
+    "report_quarterly":  {"price": 499, "label": "Quarterly Deep Dive",   "frequency": "quarterly"},
+}
+
+# Florida Early Access
+FLORIDA_EARLY_ACCESS = {
+    "florida_early": {"price": 79, "label": "Florida Early Access", "states": 1}
+}
+
+# Payment links for reference
+PAYMENT_LINKS = {
+    # Monthly
+    "single": "https://buy.stripe.com/28E28q0xfaX024r7KAcMM02",
+    "bundle_5": "https://buy.stripe.com/eVqfZg7ZH8OS7oL9SIcMM01",
+    "all_9": "https://buy.stripe.com/fZu14mbbT6GKgZlgh6cMM00",
+    # Annual
+    "single_annual": "https://buy.stripe.com/6oU3cubbT1mqcJ5c0QcMM05",
+    "bundle_5_annual": "https://buy.stripe.com/6oU4gy5Rz6GKaAXd4UcMM04",
+    "all_9_annual": "https://buy.stripe.com/eVqdR85Rz1mq10nfd2cMM03",
+    # Free trial
+    "free_trial": "https://buy.stripe.com/28E7sKbbT3uygZlfd2cMM06",
+    # Add-ons
+    "api_access": "https://buy.stripe.com/28EaEW4Nv9SWaAXgh6cMM0d",
+    "custom_filter": "https://buy.stripe.com/8x214ma7P6GK24r8OEcMM0c",
+    "email_digest": "https://buy.stripe.com/8x2dR80xf3uyeRdd4UcMM0b",
+    "priority": "https://buy.stripe.com/eVq3cu7ZH3uy5gD6GwcMM0a",
+    # One-time services
+    "quick_start": "https://buy.stripe.com/5kQ9AS3Jr6GK9wT5CscMM09",
+    "custom_integrate": "https://buy.stripe.com/14A00i93Lfdg8sP8OEcMM07",
+    "training": "https://buy.stripe.com/eVqeVcfs91mqcJ5c0QcMM08",
+    # New products
+    "construction_basic": "https://buy.stripe.com/aFa14m93L5CG38v6GwcMM0i",
+    "construction_advanced": "https://buy.stripe.com/00waEW5Rz5CG7oL6GwcMM0h",
+    "report_monthly": "https://buy.stripe.com/00wcN43Jrd58eRde8YcMM0g",
+    "report_quarterly": "https://buy.stripe.com/eVq14mdk15CG5gD9SIcMM0f",
+    "florida_early": "https://buy.stripe.com/6oU4gyeo58OSdN91mccMM0e",
+    "whitelabel": "https://buy.stripe.com/aFa8wO0xfe9c24re8YcMM0j",
 }
 
 console = Console()
@@ -194,11 +281,43 @@ def cmd_add(args: argparse.Namespace) -> None:
     console.print("[bold]Select tier:[/bold]")
     for key, info in TIER_INFO.items():
         console.print(f"  [cyan]{key:<10}[/cyan] — {info['label']} — ${info['price']}/mo")
+    console.print()
+    console.print("[bold]Or annual billing (save 2 months):[/bold]")
+    for key, info in TIER_INFO_ANNUAL.items():
+        console.print(f"  [cyan]{key:<10}[/cyan] — {info['label']} — ${info['price']}/yr (${info['monthly_equiv']}/mo)")
+    console.print()
+    console.print("[bold]Or free trial:[/bold]")
+    console.print(f"  [cyan]free_trial[/cyan] — Free Trial (14 days, IL only)")
+    
+    all_tiers = {**TIER_INFO, **TIER_INFO_ANNUAL, "free_trial": FREE_TIER}
     tier = Prompt.ask(
         "[bold]Tier[/bold]",
-        choices=list(TIER_INFO.keys()),
+        choices=list(all_tiers.keys()),
         default="single",
     )
+
+    # Billing cycle
+    is_annual = tier in TIER_INFO_ANNUAL
+    billing_cycle = "annual" if is_annual else "monthly"
+    if tier == "free_trial":
+        billing_cycle = "free_trial"
+
+    # Add-ons (not for free tier)
+    selected_addons = []
+    if tier != "free_trial":
+        console.print()
+        console.print("[bold]Add-ons (optional):[/bold]")
+        for key, info in ADDONS.items():
+            console.print(f"  [cyan]{key:<12}[/cyan] — {info['label']} — +${info['price']}/mo")
+        console.print("[dim]Enter addon codes separated by commas (or press Enter to skip)[/dim]")
+        addons_input = Prompt.ask("[bold]Add-ons[/bold]", default="")
+        if addons_input.strip():
+            selected_addons = [a.strip() for a in addons_input.split(",") if a.strip() in ADDONS]
+            # Validate
+            invalid = [a for a in selected_addons if a not in ADDONS]
+            if invalid:
+                console.print(f"[yellow]Invalid add-ons ignored: {', '.join(invalid)}[/yellow]")
+                selected_addons = [a for a in selected_addons if a in ADDONS]
 
     # State selection.
     console.print()
@@ -212,6 +331,21 @@ def cmd_add(args: argparse.Namespace) -> None:
         console.print(f"[dim]Valid codes: {', '.join(sorted(VALID_STATE_CODES))}[/dim]")
         return
 
+    # Custom capacity filter threshold
+    custom_min_mw = None
+    if "custom_filter" in selected_addons:
+        console.print()
+        console.print(
+            "[bold]Custom Capacity Filter:[/bold] Only include projects above this MW threshold "
+            "in the subscriber's email digest."
+        )
+        mw_input = Prompt.ask("[bold]Minimum MW threshold[/bold]", default="50")
+        try:
+            custom_min_mw = float(mw_input)
+        except ValueError:
+            console.print("[yellow]Invalid number, defaulting to 50 MW.[/yellow]")
+            custom_min_mw = 50.0
+
     # Build record.
     record = {
         "name": name,
@@ -219,26 +353,41 @@ def cmd_add(args: argparse.Namespace) -> None:
         "telegram_chat_id": chat_id,
         "states": states,
         "tier": tier,
+        "billing_cycle": billing_cycle,
+        "addons": selected_addons,
         "added": date.today().isoformat(),
         "active": True,
     }
+    if custom_min_mw is not None:
+        record["custom_min_mw"] = custom_min_mw
 
     existing.append(record)
+
+    # Calculate total price
+    tier_data = all_tiers.get(tier, {"price": 0, "label": "Unknown"})
+    base_price = tier_data.get("monthly_equiv", tier_data.get("price", 0))
+    addons_price = sum(ADDONS.get(a, {}).get("price", 0) for a in selected_addons)
+    total_monthly = base_price + addons_price
     _save_subscribers(existing)
 
     # Confirmation.
     state_labels = ", ".join(f"{s} ({STATE_NAMES.get(s, s)})" for s in states)
-    tier_info = TIER_INFO[tier]
+    tier_info = all_tiers.get(tier, {"label": tier, "price": 0})
+
+    addons_labels = ", ".join(ADDONS.get(a, {}).get("label", a) for a in selected_addons) if selected_addons else "None"
 
     console.print()
     console.print(Panel(
         f"[green bold]Subscriber added successfully[/green bold]\n\n"
-        f"[bold]Name:[/bold]     {name}\n"
-        f"[bold]Email:[/bold]    {email}\n"
-        f"[bold]Chat ID:[/bold]  {chat_id}\n"
-        f"[bold]Tier:[/bold]     {tier_info['label']} (${tier_info['price']}/mo)\n"
-        f"[bold]States:[/bold]   {state_labels}\n"
-        f"[bold]Added:[/bold]    {record['added']}",
+        f"[bold]Name:[/bold]       {name}\n"
+        f"[bold]Email:[/bold]      {email}\n"
+        f"[bold]Chat ID:[/bold]   {chat_id}\n"
+        f"[bold]Tier:[/bold]       {tier_info['label']}\n"
+        f"[bold]Billing:[/bold]    {billing_cycle.replace('_', ' ').title()}\n"
+        f"[bold]Add-ons:[/bold]    {addons_labels}\n"
+        f"[bold]States:[/bold]     {state_labels}\n"
+        f"[bold]Monthly Total:[/bold] ${total_monthly}/mo\n"
+        f"[bold]Added:[/bold]      {record['added']}",
         box=box.ROUNDED,
         border_style="green",
     ))
@@ -298,22 +447,57 @@ def cmd_list(_args: argparse.Namespace) -> None:
     table.add_column("Chat ID", style="cyan")
     table.add_column("States")
     table.add_column("Tier")
+    table.add_column("Billing")
+    table.add_column("Add-ons")
     table.add_column("$/mo", justify="right")
     table.add_column("Active", justify="center")
     table.add_column("Added")
 
     active_count = 0
     total_mrr = 0
+    annual_count = 0
+    total_arr = 0
 
     for i, sub in enumerate(subscribers, 1):
         is_active = sub.get("active", True)
         tier_key = sub.get("tier", "single")
-        tier_price = TIER_INFO.get(tier_key, {}).get("price", 0)
-        tier_label = TIER_INFO.get(tier_key, {}).get("label", tier_key)
+        
+        # Get tier info (monthly or annual)
+        if tier_key in TIER_INFO_ANNUAL:
+            tier_data = TIER_INFO_ANNUAL[tier_key]
+            billing = "Annual"
+            base_monthly = tier_data.get("monthly_equiv", 0)
+        elif tier_key in TIER_INFO:
+            tier_data = TIER_INFO[tier_key]
+            billing = "Monthly"
+            base_monthly = tier_data.get("price", 0)
+        elif tier_key == "free_trial":
+            tier_data = FREE_TIER
+            billing = "Free"
+            base_monthly = 0
+        else:
+            tier_data = {"label": tier_key, "price": 0}
+            billing = "Unknown"
+            base_monthly = 0
+        
+        tier_label = tier_data.get("label", tier_key)
+
+        # Calculate add-ons
+        addons = sub.get("addons", [])
+        addons_price = sum(ADDONS.get(a, {}).get("price", 0) for a in addons)
+        addons_label = ", ".join(ADDONS.get(a, {}).get("label", a)[:15] for a in addons) if addons else "—"
+        
+        total_monthly = base_monthly + addons_price
 
         if is_active:
             active_count += 1
-            total_mrr += tier_price
+            if billing == "Annual":
+                annual_count += 1
+                total_arr += tier_data.get("price", 0)  # Annual price
+                total_mrr += base_monthly  # Convert to monthly for MRR
+            else:
+                total_mrr += total_monthly
+                total_arr += total_monthly * 12
             active_str = "[green]Yes[/green]"
         else:
             active_str = "[red]No[/red]"
@@ -327,7 +511,9 @@ def cmd_list(_args: argparse.Namespace) -> None:
             sub.get("telegram_chat_id", "—"),
             states_str,
             tier_label,
-            f"${tier_price}",
+            billing,
+            addons_label,
+            f"${total_monthly}",
             active_str,
             sub.get("added", "—"),
         )
@@ -338,7 +524,8 @@ def cmd_list(_args: argparse.Namespace) -> None:
     console.print(
         f"[bold]Active subscribers:[/bold] {active_count}  |  "
         f"[bold green]MRR:[/bold green] [bold]${total_mrr:,}/mo[/bold]  |  "
-        f"[bold]ARR:[/bold] ${total_mrr * 12:,}/yr"
+        f"[bold]ARR:[/bold] ${total_arr:,}/yr  |  "
+        f"[bold]Annual:[/bold] {annual_count}"
     )
     console.print()
 

@@ -1,0 +1,93 @@
+# Solar Sentinel — Weekly Email Digest
+#
+# Runs every Monday at 13:00 UTC (8 AM ET), one hour after the daily scan.
+# Can also be triggered manually from the Actions tab.
+#
+# Weekly baselines in data/weekly_baselines/ are committed back to the repo
+# so the next run can diff against them.
+
+name: Solar Sentinel Weekly Email Digest
+
+on:
+  schedule:
+    # Every Monday at 1 PM UTC (8 AM ET)
+    - cron: "0 13 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (print HTML, don't send emails)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      force:
+        description: "Force send even if no changes detected"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write   # Needed to commit baseline updates
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── 1. Check out the repo ─────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. Set up Python ──────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ── 3. Cache pip ──────────────────────────────────────
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # ── 4. Install dependencies ───────────────────────────
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 5. Run email digest ───────────────────────────────
+      - name: Run Weekly Email Digest
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FLAGS="$FLAGS --force"
+          fi
+          python email_digest.py $FLAGS
+
+      # ── 6. Commit updated baselines ───────────────────────
+      - name: Commit baseline updates
+        run: |
+          git config user.name "Solar Sentinel Bot"
+          git config user.email "solar-sentinel[bot]@users.noreply.github.com"
+          git add data/weekly_baselines/
+          git diff --cached --quiet || git commit -m "chore: update weekly baselines $(date -u +%Y-%m-%d)"
+          git push

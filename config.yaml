@@ -112,3 +112,12 @@ logging:
   level: INFO            # DEBUG | INFO | WARNING | ERROR
   log_dir: logs          # Daily rotating log files written here
   max_log_days: 30       # Auto-delete logs older than this
+
+# ── Weekly Email Digest ──────────────────────────────────────
+# Sends an HTML email summary to subscribers with the email_digest
+# add-on.  Runs via GitHub Actions every Monday at 8 AM ET.
+email_digest:
+  enabled: true
+  send_day: monday       # Day of week for the digest
+  max_top_projects: 10   # Max projects in "Top New" table
+  subject_prefix: "Solar Sentinel"
