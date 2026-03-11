@@ -7840,7 +7840,7 @@
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 200.0,
-    "Status": "Active",
+    "Status": "Pending Transfer",
     "County": "Cass",
     "State": "IN",
     "Queue Date": "2025-06-16T04:00:00+00:00",
