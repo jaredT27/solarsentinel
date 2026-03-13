@@ -1319,18 +1319,6 @@
     "Proposed Completion Date": "2026-04-15T07:00:00",
     "ISO": "CAISO"
   },
-  "1662": {
-    "Queue ID": 1662,
-    "Project Name": "VENTASSO ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2019-04-15T07:00:00",
-    "Proposed Completion Date": "2026-01-31T08:00:00",
-    "ISO": "CAISO"
-  },
   "1665": {
     "Queue ID": 1665,
     "Project Name": "KINGSLEY SOLAR FARM",
@@ -4770,6 +4758,18 @@
     "Capacity (MW)": 100.0,
     "Status": "COMPLETED",
     "County": "SAN BERNARDINO",
+    "State": "CA",
+    "Queue Date": "2019-04-15T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1662": {
+    "Queue ID": 1662,
+    "Project Name": "VENTASSO ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "COMPLETED",
+    "County": "SAN DIEGO",
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
     "Proposed Completion Date": "NaT",
