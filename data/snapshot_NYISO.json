@@ -47,18 +47,6 @@
     "Proposed Completion Date": "2028-01-01T00:00:00",
     "ISO": "NYISO"
   },
-  "0545": {
-    "Queue ID": "0545",
-    "Project Name": "Sky High Solar",
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
-    "Status": "Active",
-    "County": "Onondaga",
-    "State": "NY",
-    "Queue Date": "2016-05-16T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
-    "ISO": "NYISO"
-  },
   "0564": {
     "Queue ID": "0564",
     "Project Name": "Rock District Solar",
@@ -428,7 +416,7 @@
     "County": "Richmond",
     "State": "NY",
     "Queue Date": "2019-04-22T00:00:00",
-    "Proposed Completion Date": "2026-07-01T00:00:00",
+    "Proposed Completion Date": "2026-12-01T00:00:00",
     "ISO": "NYISO"
   },
   "0828": {
@@ -476,7 +464,7 @@
     "County": "Queens",
     "State": "NY",
     "Queue Date": "2019-05-07T00:00:00",
-    "Proposed Completion Date": "2027-01-01T00:00:00",
+    "Proposed Completion Date": "2028-04-01T00:00:00",
     "ISO": "NYISO"
   },
   "0835": {
@@ -515,18 +503,6 @@
     "Proposed Completion Date": "2028-05-01T00:00:00",
     "ISO": "NYISO"
   },
-  "0855": {
-    "Queue ID": "0855",
-    "Project Name": "NY13 Solar",
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
-    "Status": "Active",
-    "County": "Washington",
-    "State": "NY",
-    "Queue Date": "2019-05-24T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
-    "ISO": "NYISO"
-  },
   "0863": {
     "Queue ID": "0863",
     "Project Name": "Highbanks Solar",
@@ -536,7 +512,7 @@
     "County": "Livingston",
     "State": "NY",
     "Queue Date": "2019-05-29T00:00:00",
-    "Proposed Completion Date": "2026-02-01T00:00:00",
+    "Proposed Completion Date": "NaT",
     "ISO": "NYISO"
   },
   "0864": {
@@ -656,7 +632,7 @@
     "County": "Livingston",
     "State": "NY",
     "Queue Date": "2019-10-29T00:00:00",
-    "Proposed Completion Date": "2026-10-01T00:00:00",
+    "Proposed Completion Date": "2029-01-01T00:00:00",
     "ISO": "NYISO"
   },
   "0950": {
@@ -752,7 +728,7 @@
     "County": "Steuben",
     "State": "NY",
     "Queue Date": "2020-04-06T00:00:00",
-    "Proposed Completion Date": "2025-12-01T00:00:00",
+    "Proposed Completion Date": "2026-08-01T00:00:00",
     "ISO": "NYISO"
   },
   "1007": {
@@ -2204,6 +2180,18 @@
     "County": "Washington",
     "State": "NY",
     "Queue Date": "2016-02-03T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
+  "0545": {
+    "Queue ID": "0545",
+    "Project Name": "Sky High Solar",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "Onondaga",
+    "State": "NY",
+    "Queue Date": "2016-05-16T00:00:00",
     "Proposed Completion Date": "NaT",
     "ISO": "NYISO"
   },
@@ -4058,6 +4046,18 @@
   "0853": {
     "Queue ID": "0853",
     "Project Name": "NY16 Solar",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "Washington",
+    "State": "NY",
+    "Queue Date": "2019-05-24T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
+  "0855": {
+    "Queue ID": "0855",
+    "Project Name": "NY13 Solar",
     "Generation Type": "Solar",
     "Capacity (MW)": 20.0,
     "Status": "Withdrawn",
