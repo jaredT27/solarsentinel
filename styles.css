@@ -1,0 +1,364 @@
+:root {
+  --bg: #f7efe3;
+  --bg-soft: #efe4d2;
+  --panel: rgba(255, 252, 246, 0.8);
+  --panel-strong: #fffaf2;
+  --ink: #1b1d1b;
+  --muted: #5e665f;
+  --line: rgba(27, 29, 27, 0.1);
+  --accent: #da5b2d;
+  --accent-strong: #b94720;
+  --accent-soft: #ffd8bc;
+  --forest: #29493d;
+  --shadow: 0 20px 60px rgba(52, 41, 23, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font-family: "Space Grotesk", "Avenir Next", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(218, 91, 45, 0.24), transparent 28%),
+    radial-gradient(circle at 85% 12%, rgba(41, 73, 61, 0.16), transparent 24%),
+    linear-gradient(180deg, #fcf7ef 0%, var(--bg) 45%, #f2e7d8 100%);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-shell {
+  width: min(1180px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 1.25rem 0 4rem;
+}
+
+.topbar,
+.hero-grid,
+.feature-grid,
+.market-grid,
+.pricing-grid,
+.addon-grid,
+.cta-strip {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.topbar {
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.brand-mark {
+  width: 0.95rem;
+  height: 0.95rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ffbf69, var(--accent));
+  box-shadow: 0 0 0 5px rgba(218, 91, 45, 0.15);
+}
+
+.nav-link,
+.text-link {
+  color: var(--forest);
+  font-weight: 500;
+}
+
+.hero {
+  padding: 1rem 0 2rem;
+}
+
+.hero-grid {
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  align-items: center;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem;
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+h1,
+h2 {
+  font-family: "Source Serif 4", Georgia, serif;
+  line-height: 0.95;
+}
+
+h1 {
+  max-width: 11ch;
+  font-size: clamp(3.2rem, 7vw, 6.2rem);
+}
+
+h2 {
+  max-width: 15ch;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+}
+
+.hero-text,
+.feature-card p,
+.price-card p,
+.market-note {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.hero-text {
+  max-width: 54ch;
+  margin: 1.25rem 0 1.5rem;
+  font-size: 1.05rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.85rem 1.25rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-weight: 700;
+  transition: transform 180ms ease, background-color 180ms ease, border-color 180ms ease;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+}
+
+.button-primary {
+  color: #fffaf4;
+  background: linear-gradient(135deg, var(--accent), #f18a4a);
+  box-shadow: 0 12px 24px rgba(218, 91, 45, 0.2);
+}
+
+.button-secondary {
+  background: rgba(255, 250, 242, 0.72);
+  border-color: var(--line);
+}
+
+.hero-points {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.hero-points li {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 252, 246, 0.7);
+  font-size: 0.95rem;
+}
+
+.hero-card,
+.feature-card,
+.price-card,
+.cta-strip {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow);
+}
+
+.hero-card {
+  padding: 1rem;
+  border-radius: 1.75rem;
+}
+
+.hero-card img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 1.2rem;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin-top: 1rem;
+}
+
+.metric-grid article {
+  padding: 1rem;
+  border-radius: 1rem;
+  background: var(--panel-strong);
+}
+
+.metric-grid strong {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: var(--forest);
+  font-size: 1.05rem;
+}
+
+.metric-grid span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.section {
+  padding: 3rem 0 0;
+}
+
+.section-heading {
+  margin-bottom: 1.5rem;
+}
+
+.feature-grid,
+.addon-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.feature-card {
+  padding: 1.4rem;
+  border-radius: 1.35rem;
+}
+
+.feature-card h3 {
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.section-alt {
+  padding: 2rem;
+  margin-top: 3rem;
+  border-radius: 2rem;
+  background: linear-gradient(180deg, rgba(255, 250, 242, 0.8), rgba(239, 228, 210, 0.9));
+}
+
+.market-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.market-grid span {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: rgba(255, 252, 246, 0.8);
+  font-weight: 500;
+}
+
+.market-note {
+  margin-top: 1rem;
+}
+
+.pricing-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.price-card {
+  padding: 1.6rem;
+  border-radius: 1.5rem;
+}
+
+.price-card.featured {
+  background: linear-gradient(180deg, rgba(255, 216, 188, 0.85), rgba(255, 250, 242, 0.92));
+  transform: translateY(-0.35rem);
+}
+
+.plan-name {
+  color: var(--accent-strong);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.price-card h3 {
+  margin: 0.4rem 0 0.85rem;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 2.8rem;
+}
+
+.price-card h3 span {
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.cta-strip {
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  padding: 1.6rem 1.8rem;
+  border-radius: 1.75rem;
+  margin-top: 3rem;
+}
+
+@media (max-width: 900px) {
+  .hero-grid,
+  .feature-grid,
+  .addon-grid,
+  .pricing-grid,
+  .market-grid,
+  .cta-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .price-card.featured {
+    transform: none;
+  }
+
+  .section-alt {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .page-shell {
+    width: min(100% - 1rem, 1180px);
+  }
+
+  .topbar {
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    max-width: 9ch;
+  }
+
+  .hero-card img {
+    height: 220px;
+  }
+}
