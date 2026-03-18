@@ -467,18 +467,6 @@
     "Proposed Completion Date": "2026-02-15T08:00:00",
     "ISO": "CAISO"
   },
-  "1166": {
-    "Queue ID": 1166,
-    "Project Name": "BIG ROCK SOLAR FARM",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "ACTIVE",
-    "County": "IMPERIAL",
-    "State": "CA",
-    "Queue Date": "2015-04-30T07:00:00",
-    "Proposed Completion Date": "2025-04-30T07:00:00",
-    "ISO": "CAISO"
-  },
   "1169": {
     "Queue ID": 1169,
     "Project Name": "FALLBROOK ENERGY STORAGE",
@@ -1130,7 +1118,7 @@
   "1604": {
     "Queue ID": 1604,
     "Project Name": "ARATINA SOLAR CENTER 2",
-    "Generation Type": "Storage + Photovoltaic",
+    "Generation Type": "Photovoltaic + Storage",
     "Capacity (MW)": 200.0,
     "Status": "ACTIVE",
     "County": "KERN",
@@ -4314,6 +4302,18 @@
     "Capacity (MW)": 300.0,
     "Status": "COMPLETED",
     "County": "KINGS",
+    "State": "CA",
+    "Queue Date": "2015-04-30T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1166": {
+    "Queue ID": 1166,
+    "Project Name": "BIG ROCK SOLAR FARM",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "COMPLETED",
+    "County": "IMPERIAL",
     "State": "CA",
     "Queue Date": "2015-04-30T07:00:00",
     "Proposed Completion Date": "NaT",
