@@ -2291,18 +2291,6 @@
     "Proposed Completion Date": "2031-03-19T07:00:00",
     "ISO": "CAISO"
   },
-  "1970": {
-    "Queue ID": 1970,
-    "Project Name": "BUTTERCUP HYBRID SOLAR",
-    "Generation Type": "Photovoltaic + Storage",
-    "Capacity (MW)": 130.0,
-    "Status": "ACTIVE",
-    "County": "MERCED",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2032-03-04T08:00:00",
-    "ISO": "CAISO"
-  },
   "1973": {
     "Queue ID": 1973,
     "Project Name": "PEACEFUL HOLLOW BESS",
@@ -16629,6 +16617,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2029-12-03T08:00:00",
+    "ISO": "CAISO"
+  },
+  "1970": {
+    "Queue ID": 1970,
+    "Project Name": "BUTTERCUP HYBRID SOLAR",
+    "Generation Type": "Photovoltaic + Storage",
+    "Capacity (MW)": 130.0,
+    "Status": "WITHDRAWN",
+    "County": "MERCED",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2032-03-04T08:00:00",
     "ISO": "CAISO"
   },
   "1971": {
