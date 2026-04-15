@@ -2762,7 +2762,7 @@
   "2113": {
     "Queue ID": 2113,
     "Project Name": "GABRIEL STORAGE",
-    "Generation Type": "Storage",
+    "Generation Type": "Storage + Storage",
     "Capacity (MW)": 400.0,
     "Status": "ACTIVE",
     "County": "LOS ANGELES",
