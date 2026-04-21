@@ -2339,30 +2339,6 @@
     "Proposed Completion Date": "2032-03-17T07:00:00",
     "ISO": "CAISO"
   },
-  "1994": {
-    "Queue ID": 1994,
-    "Project Name": "EIGER ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "ACTIVE",
-    "County": "KERN",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2032-02-16T08:00:00",
-    "ISO": "CAISO"
-  },
-  "1995": {
-    "Queue ID": 1995,
-    "Project Name": "EVEREST ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "ACTIVE",
-    "County": "KERN",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2030-10-18T07:00:00",
-    "ISO": "CAISO"
-  },
   "2001": {
     "Queue ID": 2001,
     "Project Name": "SERENA STORAGE",
@@ -16821,6 +16797,30 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-06-30T07:00:00",
+    "ISO": "CAISO"
+  },
+  "1994": {
+    "Queue ID": 1994,
+    "Project Name": "EIGER ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "WITHDRAWN",
+    "County": "KERN",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2032-02-16T08:00:00",
+    "ISO": "CAISO"
+  },
+  "1995": {
+    "Queue ID": 1995,
+    "Project Name": "EVEREST ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "WITHDRAWN",
+    "County": "KERN",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2030-10-18T07:00:00",
     "ISO": "CAISO"
   },
   "1996": {
