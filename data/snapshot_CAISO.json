@@ -452,7 +452,7 @@
     "County": "TULARE",
     "State": "CA",
     "Queue Date": "2015-04-30T07:00:00",
-    "Proposed Completion Date": "2026-04-28T07:00:00",
+    "Proposed Completion Date": "2026-05-25T07:00:00",
     "ISO": "CAISO"
   },
   "1169": {
@@ -620,7 +620,7 @@
     "County": "KERN",
     "State": "CA",
     "Queue Date": "2016-05-02T07:00:00",
-    "Proposed Completion Date": "2026-08-12T07:00:00",
+    "Proposed Completion Date": "2026-07-07T07:00:00",
     "ISO": "CAISO"
   },
   "1323": {
@@ -632,7 +632,7 @@
     "County": "KERN",
     "State": "CA",
     "Queue Date": "2016-05-02T07:00:00",
-    "Proposed Completion Date": "2026-08-12T07:00:00",
+    "Proposed Completion Date": "2026-07-07T07:00:00",
     "ISO": "CAISO"
   },
   "1335": {
@@ -2639,18 +2639,6 @@
     "Proposed Completion Date": "2034-06-27T07:00:00",
     "ISO": "CAISO"
   },
-  "2096": {
-    "Queue ID": 2096,
-    "Project Name": "HIDALGO ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 400.0,
-    "Status": "ACTIVE",
-    "County": "SAN BERNARDINO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2033-09-26T07:00:00",
-    "ISO": "CAISO"
-  },
   "2097": {
     "Queue ID": 2097,
     "Project Name": "SIENNA SOLAR 2",
@@ -2685,18 +2673,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2031-02-26T08:00:00",
-    "ISO": "CAISO"
-  },
-  "2104": {
-    "Queue ID": 2104,
-    "Project Name": "DOS PALMAS",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 400.0,
-    "Status": "ACTIVE",
-    "County": "SAN BERNARDINO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2031-04-26T07:00:00",
     "ISO": "CAISO"
   },
   "2105": {
@@ -17543,6 +17519,18 @@
     "Proposed Completion Date": "2025-10-01T07:00:00",
     "ISO": "CAISO"
   },
+  "2096": {
+    "Queue ID": 2096,
+    "Project Name": "HIDALGO ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 400.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN BERNARDINO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2033-09-26T07:00:00",
+    "ISO": "CAISO"
+  },
   "2099": {
     "Queue ID": 2099,
     "Project Name": "GRAVEL HILLS WIND & SOLAR",
@@ -17577,6 +17565,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2025-08-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2104": {
+    "Queue ID": 2104,
+    "Project Name": "DOS PALMAS",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 400.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN BERNARDINO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2031-04-26T07:00:00",
     "ISO": "CAISO"
   },
   "2107": {
