@@ -1328,7 +1328,7 @@
     "County": "SAN DIEGO",
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
-    "Proposed Completion Date": "2026-03-01T08:00:00",
+    "Proposed Completion Date": "2026-06-02T07:00:00",
     "ISO": "CAISO"
   },
   "1687": {
@@ -2624,7 +2624,7 @@
     "County": "KERN",
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2033-02-26T08:00:00",
+    "Proposed Completion Date": "2031-06-01T07:00:00",
     "ISO": "CAISO"
   },
   "2092": {
@@ -3170,7 +3170,7 @@
   "356": {
     "Queue ID": 356,
     "Project Name": "CUYAMA SOLAR",
-    "Generation Type": "Photovoltaic",
+    "Generation Type": "Photovoltaic + Storage",
     "Capacity (MW)": 40.0,
     "Status": "COMPLETED",
     "County": "SAN LUIS OBISPO",
