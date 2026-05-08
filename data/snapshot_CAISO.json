@@ -791,18 +791,6 @@
     "Proposed Completion Date": "2028-01-01T08:00:00",
     "ISO": "CAISO"
   },
-  "1443": {
-    "Queue ID": 1443,
-    "Project Name": "ANGELA",
-    "Generation Type": "Photovoltaic + Storage",
-    "Capacity (MW)": 40.0,
-    "Status": "ACTIVE",
-    "County": "TULARE",
-    "State": "CA",
-    "Queue Date": "2018-04-16T07:00:00",
-    "Proposed Completion Date": "2025-12-15T08:00:00",
-    "ISO": "CAISO"
-  },
   "1444": {
     "Queue ID": 1444,
     "Project Name": "SALOON ENERGY STORAGE",
@@ -4580,6 +4568,18 @@
     "County": "SAN DIEGO",
     "State": "CA",
     "Queue Date": "2017-05-01T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1443": {
+    "Queue ID": 1443,
+    "Project Name": "ANGELA",
+    "Generation Type": "Photovoltaic + Storage",
+    "Capacity (MW)": 40.0,
+    "Status": "COMPLETED",
+    "County": "TULARE",
+    "State": "CA",
+    "Queue Date": "2018-04-16T07:00:00",
     "Proposed Completion Date": "NaT",
     "ISO": "CAISO"
   },
