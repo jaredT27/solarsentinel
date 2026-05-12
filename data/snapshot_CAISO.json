@@ -347,18 +347,6 @@
     "Proposed Completion Date": "2029-02-01T08:00:00",
     "ISO": "CAISO"
   },
-  "1045": {
-    "Queue ID": 1045,
-    "Project Name": "CHULA VISTA ENERGY CENTER 2",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 49.7,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2014-04-30T07:00:00",
-    "Proposed Completion Date": "2026-04-28T07:00:00",
-    "ISO": "CAISO"
-  },
   "1048": {
     "Queue ID": 1048,
     "Project Name": "ESCONDIDO ENERGY CENTER 2",
@@ -4050,6 +4038,18 @@
     "Capacity (MW)": 150.0,
     "Status": "COMPLETED",
     "County": "KINGS",
+    "State": "CA",
+    "Queue Date": "2014-04-30T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1045": {
+    "Queue ID": 1045,
+    "Project Name": "CHULA VISTA ENERGY CENTER 2",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 49.7,
+    "Status": "COMPLETED",
+    "County": "SAN DIEGO",
     "State": "CA",
     "Queue Date": "2014-04-30T07:00:00",
     "Proposed Completion Date": "NaT",
