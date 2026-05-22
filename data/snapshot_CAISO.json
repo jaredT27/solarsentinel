@@ -1631,18 +1631,6 @@
     "Proposed Completion Date": "2030-06-25T07:00:00",
     "ISO": "CAISO"
   },
-  "1820": {
-    "Queue ID": 1820,
-    "Project Name": "SCAFELL STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2020-04-15T07:00:00",
-    "Proposed Completion Date": "2030-01-08T08:00:00",
-    "ISO": "CAISO"
-  },
   "1842": {
     "Queue ID": 1842,
     "Project Name": "TOLENAS",
@@ -15465,6 +15453,18 @@
     "State": "CA",
     "Queue Date": "2020-04-15T07:00:00",
     "Proposed Completion Date": "2023-09-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "1820": {
+    "Queue ID": 1820,
+    "Project Name": "SCAFELL STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2020-04-15T07:00:00",
+    "Proposed Completion Date": "2030-01-08T08:00:00",
     "ISO": "CAISO"
   },
   "1821": {
