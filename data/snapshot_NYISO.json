@@ -104,7 +104,7 @@
     "County": "Herkimer",
     "State": "NY",
     "Queue Date": "2025-11-26T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2028-04-01T00:00:00",
     "ISO": "NYISO"
   },
   "0584": {
@@ -200,7 +200,7 @@
     "County": "Greene",
     "State": "NY",
     "Queue Date": "2017-06-29T00:00:00",
-    "Proposed Completion Date": "2026-05-01T00:00:00",
+    "Proposed Completion Date": "2028-04-01T00:00:00",
     "ISO": "NYISO"
   },
   "0644": {
@@ -371,18 +371,6 @@
     "Proposed Completion Date": "2027-01-01T00:00:00",
     "ISO": "NYISO"
   },
-  "0807": {
-    "Queue ID": "0807",
-    "Project Name": "Hilltop Solar",
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
-    "Status": "Active",
-    "County": "Rensselaer",
-    "State": "NY",
-    "Queue Date": "2019-03-28T00:00:00",
-    "Proposed Completion Date": "2028-05-01T00:00:00",
-    "ISO": "NYISO"
-  },
   "0811": {
     "Queue ID": "0811",
     "Project Name": "Cider Solar",
@@ -440,7 +428,7 @@
     "County": "Rensselaer",
     "State": "NY",
     "Queue Date": "2019-05-06T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
     "ISO": "NYISO"
   },
   "0833": {
@@ -452,7 +440,7 @@
     "County": "Washington",
     "State": "NY",
     "Queue Date": "2019-05-06T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2027-05-01T00:00:00",
     "ISO": "NYISO"
   },
   "0834": {
@@ -491,18 +479,6 @@
     "Proposed Completion Date": "2028-04-01T00:00:00",
     "ISO": "NYISO"
   },
-  "0848": {
-    "Queue ID": "0848",
-    "Project Name": "Fairway Solar",
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
-    "Status": "Active",
-    "County": "St. Lawrence",
-    "State": "NY",
-    "Queue Date": "2019-05-20T00:00:00",
-    "Proposed Completion Date": "2028-05-01T00:00:00",
-    "ISO": "NYISO"
-  },
   "0863": {
     "Queue ID": "0863",
     "Project Name": "Highbanks Solar",
@@ -512,7 +488,7 @@
     "County": "Livingston",
     "State": "NY",
     "Queue Date": "2019-05-29T00:00:00",
-    "Proposed Completion Date": "NaT",
+    "Proposed Completion Date": "2026-02-01T00:00:00",
     "ISO": "NYISO"
   },
   "0864": {
@@ -764,7 +740,7 @@
     "County": "Washington",
     "State": "NY",
     "Queue Date": "2020-05-05T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2027-12-01T00:00:00",
     "ISO": "NYISO"
   },
   "1039": {
@@ -789,18 +765,6 @@
     "State": "NY",
     "Queue Date": "2020-07-09T00:00:00",
     "Proposed Completion Date": "2028-03-01T00:00:00",
-    "ISO": "NYISO"
-  },
-  "1051": {
-    "Queue ID": "1051",
-    "Project Name": "Transit Solar",
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
-    "Status": "Active",
-    "County": "Genesee",
-    "State": "NY",
-    "Queue Date": "2020-07-21T00:00:00",
-    "Proposed Completion Date": "2028-05-01T00:00:00",
     "ISO": "NYISO"
   },
   "1079": {
@@ -884,7 +848,7 @@
     "County": "Suffolk",
     "State": "NY",
     "Queue Date": "2020-12-14T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2028-08-01T00:00:00",
     "ISO": "NYISO"
   },
   "1151": {
@@ -1545,18 +1509,6 @@
     "State": "NY",
     "Queue Date": "2024-09-23T00:00:00",
     "Proposed Completion Date": "2028-12-01T00:00:00",
-    "ISO": "NYISO"
-  },
-  "C24-270": {
-    "Queue ID": "C24-270",
-    "Project Name": "Bassett Energy Storage",
-    "Generation Type": "Energy Storage",
-    "Capacity (MW)": 79.9,
-    "Status": "Active",
-    "County": "Steuben",
-    "State": "NY",
-    "Queue Date": "2024-09-24T00:00:00",
-    "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "NYISO"
   },
   "C24-281": {
@@ -3719,6 +3671,18 @@
     "Proposed Completion Date": "NaT",
     "ISO": "NYISO"
   },
+  "0807": {
+    "Queue ID": "0807",
+    "Project Name": "Hilltop Solar",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "Rensselaer",
+    "State": "NY",
+    "Queue Date": "2019-03-28T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
   "0808": {
     "Queue ID": "0808",
     "Project Name": "Barrett Ridge Energy",
@@ -4014,6 +3978,18 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "NY",
+    "State": "NY",
+    "Queue Date": "2019-05-20T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
+  "0848": {
+    "Queue ID": "0848",
+    "Project Name": "Fairway Solar",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "St. Lawrence",
     "State": "NY",
     "Queue Date": "2019-05-20T00:00:00",
     "Proposed Completion Date": "NaT",
@@ -5696,6 +5672,18 @@
     "County": "Suffolk",
     "State": "NY",
     "Queue Date": "2020-07-14T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
+  "1051": {
+    "Queue ID": "1051",
+    "Project Name": "Transit Solar",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "Genesee",
+    "State": "NY",
+    "Queue Date": "2020-07-21T00:00:00",
     "Proposed Completion Date": "NaT",
     "ISO": "NYISO"
   },
@@ -12114,6 +12102,18 @@
     "Capacity (MW)": 79.9,
     "Status": "Withdrawn",
     "County": "St. Lawrence",
+    "State": "NY",
+    "Queue Date": "2024-09-24T00:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "NYISO"
+  },
+  "C24-270": {
+    "Queue ID": "C24-270",
+    "Project Name": "Bassett Energy Storage",
+    "Generation Type": "Energy Storage",
+    "Capacity (MW)": 79.9,
+    "Status": "Withdrawn",
+    "County": "Steuben",
     "State": "NY",
     "Queue Date": "2024-09-24T00:00:00",
     "Proposed Completion Date": "NaT",
