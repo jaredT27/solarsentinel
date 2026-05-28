@@ -371,18 +371,6 @@
     "Proposed Completion Date": "2026-12-02T08:00:00",
     "ISO": "CAISO"
   },
-  "1076": {
-    "Queue ID": 1076,
-    "Project Name": "WILLOW SPRINGS SOLAR 3",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "ACTIVE",
-    "County": "KERN",
-    "State": "CA",
-    "Queue Date": "2014-04-30T07:00:00",
-    "Proposed Completion Date": "2026-06-01T07:00:00",
-    "ISO": "CAISO"
-  },
   "1127": {
     "Queue ID": 1127,
     "Project Name": "LITTLE BEAR 3",
@@ -513,18 +501,6 @@
     "State": "CA",
     "Queue Date": "2015-04-30T07:00:00",
     "Proposed Completion Date": "2026-12-01T08:00:00",
-    "ISO": "CAISO"
-  },
-  "1217": {
-    "Queue ID": 1217,
-    "Project Name": "WILLOW SPRINGS SOLAR 4",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 75.0,
-    "Status": "ACTIVE",
-    "County": "KERN",
-    "State": "CA",
-    "Queue Date": "2015-04-30T07:00:00",
-    "Proposed Completion Date": "2026-06-01T07:00:00",
     "ISO": "CAISO"
   },
   "1223": {
@@ -873,18 +849,6 @@
     "State": "CA",
     "Queue Date": "2018-04-16T07:00:00",
     "Proposed Completion Date": "2026-04-12T07:00:00",
-    "ISO": "CAISO"
-  },
-  "1496": {
-    "Queue ID": 1496,
-    "Project Name": "DESCENDANT RANCH 1",
-    "Generation Type": "Storage + Photovoltaic",
-    "Capacity (MW)": 500.0,
-    "Status": "ACTIVE",
-    "County": "COLUSA",
-    "State": "CA",
-    "Queue Date": "2018-04-16T07:00:00",
-    "Proposed Completion Date": "2034-02-27T08:00:00",
     "ISO": "CAISO"
   },
   "1499": {
@@ -2375,18 +2339,6 @@
     "Proposed Completion Date": "2028-03-06T08:00:00",
     "ISO": "CAISO"
   },
-  "2045": {
-    "Queue ID": 2045,
-    "Project Name": "INVICTUS",
-    "Generation Type": "Storage + Photovoltaic",
-    "Capacity (MW)": 300.0,
-    "Status": "ACTIVE",
-    "County": "RIVERSIDE",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2029-11-26T08:00:00",
-    "ISO": "CAISO"
-  },
   "2048": {
     "Queue ID": 2048,
     "Project Name": "TWIN PALMS SOLAR",
@@ -2733,18 +2685,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2031-04-26T07:00:00",
-    "ISO": "CAISO"
-  },
-  "2131": {
-    "Queue ID": 2131,
-    "Project Name": "MERLIN STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "ACTIVE",
-    "County": "LOS ANGELES",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2032-05-26T07:00:00",
     "ISO": "CAISO"
   },
   "2136": {
@@ -4019,6 +3959,18 @@
     "Proposed Completion Date": "NaT",
     "ISO": "CAISO"
   },
+  "1076": {
+    "Queue ID": 1076,
+    "Project Name": "WILLOW SPRINGS SOLAR 3",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "COMPLETED",
+    "County": "KERN",
+    "State": "CA",
+    "Queue Date": "2014-04-30T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
   "1097": {
     "Queue ID": 1097,
     "Project Name": "BEAR CANYON ENERGY STORAGE",
@@ -4240,6 +4192,18 @@
     "Project Name": "ANTELOPE VALLEY COMPLEX",
     "Generation Type": "Photovoltaic + Storage",
     "Capacity (MW)": 150.0,
+    "Status": "COMPLETED",
+    "County": "KERN",
+    "State": "CA",
+    "Queue Date": "2015-04-30T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1217": {
+    "Queue ID": 1217,
+    "Project Name": "WILLOW SPRINGS SOLAR 4",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 75.0,
     "Status": "COMPLETED",
     "County": "KERN",
     "State": "CA",
@@ -13055,6 +13019,18 @@
     "Proposed Completion Date": "2021-12-01T08:00:00",
     "ISO": "CAISO"
   },
+  "1496": {
+    "Queue ID": 1496,
+    "Project Name": "DESCENDANT RANCH 1",
+    "Generation Type": "Storage + Photovoltaic",
+    "Capacity (MW)": 500.0,
+    "Status": "WITHDRAWN",
+    "County": "COLUSA",
+    "State": "CA",
+    "Queue Date": "2018-04-16T07:00:00",
+    "Proposed Completion Date": "2034-02-27T08:00:00",
+    "ISO": "CAISO"
+  },
   "1497": {
     "Queue ID": 1497,
     "Project Name": "HOLLY",
@@ -17099,6 +17075,18 @@
     "Proposed Completion Date": "2025-12-15T08:00:00",
     "ISO": "CAISO"
   },
+  "2045": {
+    "Queue ID": 2045,
+    "Project Name": "INVICTUS",
+    "Generation Type": "Storage + Photovoltaic",
+    "Capacity (MW)": 300.0,
+    "Status": "WITHDRAWN",
+    "County": "RIVERSIDE",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2029-11-26T08:00:00",
+    "ISO": "CAISO"
+  },
   "2046": {
     "Queue ID": 2046,
     "Project Name": "ASHANTI HYBRID SOLAR",
@@ -17733,6 +17721,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-11-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2131": {
+    "Queue ID": 2131,
+    "Project Name": "MERLIN STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "WITHDRAWN",
+    "County": "LOS ANGELES",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2032-05-26T07:00:00",
     "ISO": "CAISO"
   },
   "2132": {
