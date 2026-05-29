@@ -419,18 +419,6 @@
     "Proposed Completion Date": "2025-12-23T08:00:00",
     "ISO": "CAISO"
   },
-  "1143": {
-    "Queue ID": 1143,
-    "Project Name": "LAKE ALPAUGH BATTERY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 10.0,
-    "Status": "ACTIVE",
-    "County": "TULARE",
-    "State": "CA",
-    "Queue Date": "2015-04-30T07:00:00",
-    "Proposed Completion Date": "2026-05-25T07:00:00",
-    "ISO": "CAISO"
-  },
   "1169": {
     "Queue ID": 1169,
     "Project Name": "FALLBROOK ENERGY STORAGE",
@@ -1233,18 +1221,6 @@
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
     "Proposed Completion Date": "2027-01-18T08:00:00",
-    "ISO": "CAISO"
-  },
-  "1673": {
-    "Queue ID": 1673,
-    "Project Name": "NIGHTHAWK STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2019-04-15T07:00:00",
-    "Proposed Completion Date": "2026-06-02T07:00:00",
     "ISO": "CAISO"
   },
   "1687": {
@@ -2255,18 +2231,6 @@
     "Proposed Completion Date": "2031-06-19T07:00:00",
     "ISO": "CAISO"
   },
-  "2018": {
-    "Queue ID": 2018,
-    "Project Name": "HIDDEN KNOLLS BESS",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 30.0,
-    "Status": "ACTIVE",
-    "County": "KERN",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2028-10-18T07:00:00",
-    "ISO": "CAISO"
-  },
   "2032": {
     "Queue ID": 2032,
     "Project Name": "TROLLEY",
@@ -2747,18 +2711,6 @@
     "Proposed Completion Date": "2033-09-15T07:00:00",
     "ISO": "CAISO"
   },
-  "2167": {
-    "Queue ID": 2167,
-    "Project Name": "HAMMERHEAD STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 70.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2030-05-05T07:00:00",
-    "ISO": "CAISO"
-  },
   "2173": {
     "Queue ID": 2173,
     "Project Name": "DESERT JEWEL STORAGE",
@@ -2769,18 +2721,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2029-08-05T07:00:00",
-    "ISO": "CAISO"
-  },
-  "2176": {
-    "Queue ID": 2176,
-    "Project Name": "YUHA DESERT BATTERY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 600.0,
-    "Status": "ACTIVE",
-    "County": "IMPERIAL",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2031-11-05T08:00:00",
     "ISO": "CAISO"
   },
   "2177": {
@@ -4079,6 +4019,18 @@
     "Proposed Completion Date": "NaT",
     "ISO": "CAISO"
   },
+  "1143": {
+    "Queue ID": 1143,
+    "Project Name": "LAKE ALPAUGH BATTERY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 10.0,
+    "Status": "COMPLETED",
+    "County": "TULARE",
+    "State": "CA",
+    "Queue Date": "2015-04-30T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
   "1158": {
     "Queue ID": 1158,
     "Project Name": "SLATE",
@@ -4612,6 +4564,18 @@
     "Project Name": "PEREGRINE STORAGE",
     "Generation Type": "Storage",
     "Capacity (MW)": 200.0,
+    "Status": "COMPLETED",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2019-04-15T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1673": {
+    "Queue ID": 1673,
+    "Project Name": "NIGHTHAWK STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 300.0,
     "Status": "COMPLETED",
     "County": "SAN DIEGO",
     "State": "CA",
@@ -16955,6 +16919,18 @@
     "Proposed Completion Date": "2030-12-17T08:00:00",
     "ISO": "CAISO"
   },
+  "2018": {
+    "Queue ID": 2018,
+    "Project Name": "HIDDEN KNOLLS BESS",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 30.0,
+    "Status": "WITHDRAWN",
+    "County": "KERN",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2028-10-18T07:00:00",
+    "ISO": "CAISO"
+  },
   "2019": {
     "Queue ID": 2019,
     "Project Name": "SUR VISTA",
@@ -17915,6 +17891,18 @@
     "Proposed Completion Date": "2029-02-05T08:00:00",
     "ISO": "CAISO"
   },
+  "2167": {
+    "Queue ID": 2167,
+    "Project Name": "HAMMERHEAD STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 70.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2030-05-05T07:00:00",
+    "ISO": "CAISO"
+  },
   "2168": {
     "Queue ID": 2168,
     "Project Name": "LAGO DOMINGO SOLAR",
@@ -17973,6 +17961,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2025-10-30T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2176": {
+    "Queue ID": 2176,
+    "Project Name": "YUHA DESERT BATTERY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 600.0,
+    "Status": "WITHDRAWN",
+    "County": "IMPERIAL",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2031-11-05T08:00:00",
     "ISO": "CAISO"
   },
   "2179": {
