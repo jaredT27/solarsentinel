@@ -2207,18 +2207,6 @@
     "Proposed Completion Date": "2029-09-18T07:00:00",
     "ISO": "CAISO"
   },
-  "2004": {
-    "Queue ID": 2004,
-    "Project Name": "VALLEY SUNLIGHT REFINERY",
-    "Generation Type": "Photovoltaic + Storage",
-    "Capacity (MW)": 400.0,
-    "Status": "ACTIVE",
-    "County": "KINGS",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2032-02-18T08:00:00",
-    "ISO": "CAISO"
-  },
   "2015": {
     "Queue ID": 2015,
     "Project Name": "CHERRY LANE HYBRID",
@@ -16809,6 +16797,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-06-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2004": {
+    "Queue ID": 2004,
+    "Project Name": "VALLEY SUNLIGHT REFINERY",
+    "Generation Type": "Photovoltaic + Storage",
+    "Capacity (MW)": 400.0,
+    "Status": "WITHDRAWN",
+    "County": "KINGS",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2032-02-18T08:00:00",
     "ISO": "CAISO"
   },
   "2005": {
