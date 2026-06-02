@@ -2723,30 +2723,6 @@
     "Proposed Completion Date": "2031-02-05T08:00:00",
     "ISO": "CAISO"
   },
-  "2178": {
-    "Queue ID": 2178,
-    "Project Name": "BELL BLUFF STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2035-03-05T08:00:00",
-    "ISO": "CAISO"
-  },
-  "2180": {
-    "Queue ID": 2180,
-    "Project Name": "CARGO STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2036-05-05T07:00:00",
-    "ISO": "CAISO"
-  },
   "2185": {
     "Queue ID": 2185,
     "Project Name": "GATEWAY ENERGY STORAGE 2",
@@ -17975,6 +17951,18 @@
     "Proposed Completion Date": "2031-11-05T08:00:00",
     "ISO": "CAISO"
   },
+  "2178": {
+    "Queue ID": 2178,
+    "Project Name": "BELL BLUFF STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2035-03-05T08:00:00",
+    "ISO": "CAISO"
+  },
   "2179": {
     "Queue ID": 2179,
     "Project Name": "BIERSTADT ENERGY STORAGE",
@@ -17985,6 +17973,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-06-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2180": {
+    "Queue ID": 2180,
+    "Project Name": "CARGO STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2036-05-05T07:00:00",
     "ISO": "CAISO"
   },
   "2181": {
