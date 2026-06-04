@@ -755,18 +755,6 @@
     "Proposed Completion Date": "2027-07-13T07:00:00",
     "ISO": "CAISO"
   },
-  "1454": {
-    "Queue ID": 1454,
-    "Project Name": "HUMMINGBIRD ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 75.0,
-    "Status": "ACTIVE",
-    "County": "SANTA CLARA",
-    "State": "CA",
-    "Queue Date": "2018-04-16T07:00:00",
-    "Proposed Completion Date": "2025-09-25T07:00:00",
-    "ISO": "CAISO"
-  },
   "1455": {
     "Queue ID": 1455,
     "Project Name": "JANUS",
@@ -4398,6 +4386,18 @@
     "Capacity (MW)": 40.0,
     "Status": "COMPLETED",
     "County": "TULARE",
+    "State": "CA",
+    "Queue Date": "2018-04-16T07:00:00",
+    "Proposed Completion Date": "NaT",
+    "ISO": "CAISO"
+  },
+  "1454": {
+    "Queue ID": 1454,
+    "Project Name": "HUMMINGBIRD ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 75.0,
+    "Status": "COMPLETED",
+    "County": "SANTA CLARA",
     "State": "CA",
     "Queue Date": "2018-04-16T07:00:00",
     "Proposed Completion Date": "NaT",
