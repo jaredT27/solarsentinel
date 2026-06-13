@@ -11,6 +11,54 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3491": {
+    "Queue ID": "J3491",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 45.0,
+    "Status": "Withdrawn",
+    "County": "Posey",
+    "State": "IN",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3297": {
+    "Queue ID": "J3297",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "St. Clair",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3298": {
+    "Queue ID": "J3298",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Tazewell",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3487": {
+    "Queue ID": "J3487",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 400.0,
+    "Status": "Withdrawn",
+    "County": "Vermillion",
+    "State": "IN",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3482": {
     "Queue ID": "J3482",
     "Project Name": null,
@@ -47,18 +95,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3491": {
-    "Queue ID": "J3491",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 45.0,
-    "Status": "Withdrawn",
-    "County": "Posey",
-    "State": "IN",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3372": {
     "Queue ID": "J3372",
     "Project Name": null,
@@ -66,54 +102,6 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Macoupin",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3487": {
-    "Queue ID": "J3487",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 400.0,
-    "Status": "Withdrawn",
-    "County": "Vermillion",
-    "State": "IN",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3297": {
-    "Queue ID": "J3297",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "St. Clair",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3298": {
-    "Queue ID": "J3298",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Tazewell",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3296": {
-    "Queue ID": "J3296",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Hamilton",
     "State": "IL",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -131,18 +119,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3550": {
-    "Queue ID": "J3550",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Dubois",
-    "State": "IN",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3671": {
     "Queue ID": "J3671",
     "Project Name": null,
@@ -155,26 +131,14 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3499": {
-    "Queue ID": "J3499",
+  "J3550": {
+    "Queue ID": "J3550",
     "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Kosciusko",
-    "State": "IN",
-    "Queue Date": "2024-04-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3611": {
-    "Queue ID": "J3611",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 140.0,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
     "Status": "Active",
-    "County": "Hamilton",
-    "State": "IL",
+    "County": "Dubois",
+    "State": "IN",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -199,6 +163,42 @@
     "Status": "Withdrawn",
     "County": "Henry",
     "State": "IN",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3296": {
+    "Queue ID": "J3296",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Hamilton",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3499": {
+    "Queue ID": "J3499",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Kosciusko",
+    "State": "IN",
+    "Queue Date": "2024-04-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3611": {
+    "Queue ID": "J3611",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 140.0,
+    "Status": "Active",
+    "County": "Hamilton",
+    "State": "IL",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -299,18 +299,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3410": {
-    "Queue ID": "J3410",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 120.0,
-    "Status": "Withdrawn",
-    "County": "Washington",
-    "State": "IL",
-    "Queue Date": "2024-04-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3670": {
     "Queue ID": "J3670",
     "Project Name": null,
@@ -323,135 +311,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3240": {
-    "Queue ID": "J3240",
+  "J3410": {
+    "Queue ID": "J3410",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
+    "Capacity (MW)": 120.0,
     "Status": "Withdrawn",
-    "County": "Fulton",
+    "County": "Washington",
     "State": "IL",
-    "Queue Date": "2024-04-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3691": {
-    "Queue ID": "J3691",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "White",
-    "State": "IN",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2194": {
-    "Queue ID": "J2194",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 350.0,
-    "Status": "Withdrawn",
-    "County": "Sullivan",
-    "State": "IN",
-    "Queue Date": "2021-08-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3718": {
-    "Queue ID": "J3718",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Greene",
-    "State": "IL",
-    "Queue Date": "2024-03-20T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3727": {
-    "Queue ID": "J3727",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 225.0,
-    "Status": "Active",
-    "County": "Madison",
-    "State": "IL",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3418": {
-    "Queue ID": "J3418",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 220.0,
-    "Status": "Active",
-    "County": "Sangamon",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3247": {
-    "Queue ID": "J3247",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Vigo",
-    "State": "IN",
-    "Queue Date": "2024-04-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3269": {
-    "Queue ID": "J3269",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Hamilton",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2331": {
-    "Queue ID": "J2331",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 127.0,
-    "Status": "Withdrawn",
-    "County": "Franklin",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3358": {
-    "Queue ID": "J3358",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "De Witt",
-    "State": "IL",
-    "Queue Date": "2024-04-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2355": {
-    "Queue ID": "J2355",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 70.0,
-    "Status": "Withdrawn",
-    "County": "Greene",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Queue Date": "2024-04-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -464,6 +332,18 @@
     "County": "Macon",
     "State": "IL",
     "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3240": {
+    "Queue ID": "J3240",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Fulton",
+    "State": "IL",
+    "Queue Date": "2024-04-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -488,78 +368,6 @@
     "County": "Clark",
     "State": "IL",
     "Queue Date": "2024-04-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3249": {
-    "Queue ID": "J3249",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Vanderburgh",
-    "State": "IN",
-    "Queue Date": "2024-04-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3342": {
-    "Queue ID": "J3342",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 180.0,
-    "Status": "Active",
-    "County": "Vermilion",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3344": {
-    "Queue ID": "J3344",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Knox",
-    "State": "IL",
-    "Queue Date": "2024-04-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3379": {
-    "Queue ID": "J3379",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Johnson",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3729": {
-    "Queue ID": "J3729",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Franklin",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3721": {
-    "Queue ID": "J3721",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Spencer",
-    "State": "IN",
-    "Queue Date": "2024-03-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -611,6 +419,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3691": {
+    "Queue ID": "J3691",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "White",
+    "State": "IN",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2194": {
+    "Queue ID": "J2194",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 350.0,
+    "Status": "Withdrawn",
+    "County": "Sullivan",
+    "State": "IN",
+    "Queue Date": "2021-08-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2343": {
     "Queue ID": "J2343",
     "Project Name": null,
@@ -647,6 +479,126 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2355": {
+    "Queue ID": "J2355",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 70.0,
+    "Status": "Withdrawn",
+    "County": "Greene",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3718": {
+    "Queue ID": "J3718",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Greene",
+    "State": "IL",
+    "Queue Date": "2024-03-20T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3727": {
+    "Queue ID": "J3727",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 225.0,
+    "Status": "Active",
+    "County": "Madison",
+    "State": "IL",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3418": {
+    "Queue ID": "J3418",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 220.0,
+    "Status": "Active",
+    "County": "Sangamon",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3247": {
+    "Queue ID": "J3247",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Vigo",
+    "State": "IN",
+    "Queue Date": "2024-04-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3249": {
+    "Queue ID": "J3249",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Vanderburgh",
+    "State": "IN",
+    "Queue Date": "2024-04-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3342": {
+    "Queue ID": "J3342",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 180.0,
+    "Status": "Active",
+    "County": "Vermilion",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3344": {
+    "Queue ID": "J3344",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Knox",
+    "State": "IL",
+    "Queue Date": "2024-04-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3379": {
+    "Queue ID": "J3379",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Johnson",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3269": {
+    "Queue ID": "J3269",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Hamilton",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3242": {
     "Queue ID": "J3242",
     "Project Name": null,
@@ -668,6 +620,42 @@
     "County": "Parke",
     "State": "IN",
     "Queue Date": "2024-03-27T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3343": {
+    "Queue ID": "J3343",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Knox",
+    "State": "IL",
+    "Queue Date": "2024-03-27T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2331": {
+    "Queue ID": "J2331",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 127.0,
+    "Status": "Withdrawn",
+    "County": "Franklin",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3358": {
+    "Queue ID": "J3358",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "De Witt",
+    "State": "IL",
+    "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -695,15 +683,27 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3343": {
-    "Queue ID": "J3343",
+  "J3729": {
+    "Queue ID": "J3729",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Franklin",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3721": {
+    "Queue ID": "J3721",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
+    "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
-    "County": "Knox",
-    "State": "IL",
-    "Queue Date": "2024-03-27T04:00:00+00:00",
+    "County": "Spencer",
+    "State": "IN",
+    "Queue Date": "2024-03-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -731,18 +731,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3475": {
-    "Queue ID": "J3475",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Mason",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3851": {
     "Queue ID": "J3851",
     "Project Name": null,
@@ -752,6 +740,18 @@
     "County": "McDonough",
     "State": "IL",
     "Queue Date": "2024-12-31T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3475": {
+    "Queue ID": "J3475",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Mason",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -779,39 +779,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3412": {
-    "Queue ID": "J3412",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
-    "Status": "Active",
-    "County": "Ford",
-    "State": "IL",
-    "Queue Date": "2024-03-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3276": {
-    "Queue ID": "J3276",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Pulaski",
-    "State": "IL",
-    "Queue Date": "2024-04-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3662": {
-    "Queue ID": "J3662",
+  "J3506": {
+    "Queue ID": "J3506",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
+    "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
-    "County": "Monroe",
+    "County": "Pike",
     "State": "IL",
-    "Queue Date": "2024-04-13T04:00:00+00:00",
+    "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -827,6 +803,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3412": {
+    "Queue ID": "J3412",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Active",
+    "County": "Ford",
+    "State": "IL",
+    "Queue Date": "2024-03-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3503": {
     "Queue ID": "J3503",
     "Project Name": null,
@@ -836,6 +824,18 @@
     "County": "Newton",
     "State": "IN",
     "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3867": {
+    "Queue ID": "J3867",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Iroquois",
+    "State": "IL",
+    "Queue Date": "2024-12-02T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -863,6 +863,90 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3276": {
+    "Queue ID": "J3276",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Pulaski",
+    "State": "IL",
+    "Queue Date": "2024-04-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3662": {
+    "Queue ID": "J3662",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Monroe",
+    "State": "IL",
+    "Queue Date": "2024-04-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3660": {
+    "Queue ID": "J3660",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Rock Island",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3697": {
+    "Queue ID": "J3697",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 44.0,
+    "Status": "Withdrawn",
+    "County": "Jennings",
+    "State": "IN",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2295": {
+    "Queue ID": "J2295",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Sullivan",
+    "State": "IN",
+    "Queue Date": "2021-09-09T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2281": {
+    "Queue ID": "J2281",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "White",
+    "State": "IN",
+    "Queue Date": "2021-08-20T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2384": {
+    "Queue ID": "J2384",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 125.0,
+    "Status": "Active",
+    "County": "Shelby",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2453": {
     "Queue ID": "J2453",
     "Project Name": null,
@@ -887,25 +971,25 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2496": {
-    "Queue ID": "J2496",
+  "J2407": {
+    "Queue ID": "J2407",
     "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 400.0,
-    "Status": "Active",
-    "County": "White",
+    "Generation Type": "Solar",
+    "Capacity (MW)": 198.0,
+    "Status": "Withdrawn",
+    "County": "Sullivan",
     "State": "IN",
-    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2413": {
-    "Queue ID": "J2413",
+  "J2414": {
+    "Queue ID": "J2414",
     "Project Name": null,
-    "Generation Type": "Battery Storage",
+    "Generation Type": "Solar",
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
-    "County": "McLean",
+    "County": "Vermilion",
     "State": "IL",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -995,6 +1079,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2496": {
+    "Queue ID": "J2496",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 400.0,
+    "Status": "Active",
+    "County": "White",
+    "State": "IN",
+    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2413": {
+    "Queue ID": "J2413",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "McLean",
+    "State": "IL",
+    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2372": {
     "Queue ID": "J2372",
     "Project Name": null,
@@ -1016,42 +1124,6 @@
     "County": "Clark",
     "State": "IN",
     "Queue Date": "2025-10-22T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3506": {
-    "Queue ID": "J3506",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Pike",
-    "State": "IL",
-    "Queue Date": "2024-04-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3867": {
-    "Queue ID": "J3867",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Iroquois",
-    "State": "IL",
-    "Queue Date": "2024-12-02T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2384": {
-    "Queue ID": "J2384",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 125.0,
-    "Status": "Active",
-    "County": "Shelby",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1079,27 +1151,63 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3660": {
-    "Queue ID": "J3660",
+  "J2376": {
+    "Queue ID": "J2376",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 60.0,
+    "Status": "Active",
+    "County": "Shelby",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2421": {
+    "Queue ID": "J2421",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Rush",
+    "State": "IN",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2461": {
+    "Queue ID": "J2461",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Christian",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2463": {
+    "Queue ID": "J2463",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Washington",
+    "State": "IL",
+    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2532": {
+    "Queue ID": "J2532",
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 200.0,
     "Status": "Active",
-    "County": "Rock Island",
+    "County": "Sangamon",
     "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3697": {
-    "Queue ID": "J3697",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 44.0,
-    "Status": "Withdrawn",
-    "County": "Jennings",
-    "State": "IN",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1112,30 +1220,6 @@
     "County": "Clark",
     "State": "IN",
     "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2295": {
-    "Queue ID": "J2295",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Sullivan",
-    "State": "IN",
-    "Queue Date": "2021-09-09T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2281": {
-    "Queue ID": "J2281",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "White",
-    "State": "IN",
-    "Queue Date": "2021-08-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1163,54 +1247,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2407": {
-    "Queue ID": "J2407",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 198.0,
-    "Status": "Withdrawn",
-    "County": "Sullivan",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2414": {
-    "Queue ID": "J2414",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Vermilion",
-    "State": "IL",
-    "Queue Date": "2022-09-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2376": {
-    "Queue ID": "J2376",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 60.0,
-    "Status": "Active",
-    "County": "Shelby",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2421": {
-    "Queue ID": "J2421",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Rush",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2379": {
     "Queue ID": "J2379",
     "Project Name": null,
@@ -1220,6 +1256,18 @@
     "County": "Clay",
     "State": "IL",
     "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2542": {
+    "Queue ID": "J2542",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Clark",
+    "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1243,18 +1291,6 @@
     "Status": "Withdrawn",
     "County": "Kosciusko",
     "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2461": {
-    "Queue ID": "J2461",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Christian",
-    "State": "IL",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1295,37 +1331,49 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2463": {
-    "Queue ID": "J2463",
+  "J2443": {
+    "Queue ID": "J2443",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 500.0,
+    "Status": "Withdrawn",
+    "County": "Kosciusko",
+    "State": "IN",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2507": {
+    "Queue ID": "J2507",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
+    "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
-    "County": "Washington",
-    "State": "IL",
+    "County": "Pike",
+    "State": "IN",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2360": {
+    "Queue ID": "J2360",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 90.0,
+    "Status": "Withdrawn",
+    "County": "Vigo",
+    "State": "IN",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2532": {
-    "Queue ID": "J2532",
+  "J2472": {
+    "Queue ID": "J2472",
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 200.0,
     "Status": "Active",
-    "County": "Sangamon",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2542": {
-    "Queue ID": "J2542",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Clark",
+    "County": "Sullivan",
     "State": "IN",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -1427,54 +1475,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2443": {
-    "Queue ID": "J2443",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 500.0,
-    "Status": "Withdrawn",
-    "County": "Kosciusko",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2507": {
-    "Queue ID": "J2507",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
-    "Status": "Withdrawn",
-    "County": "Pike",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2360": {
-    "Queue ID": "J2360",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 90.0,
-    "Status": "Withdrawn",
-    "County": "Vigo",
-    "State": "IN",
-    "Queue Date": "2022-09-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2472": {
-    "Queue ID": "J2472",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Sullivan",
-    "State": "IN",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2473": {
     "Queue ID": "J2473",
     "Project Name": null,
@@ -1496,30 +1496,6 @@
     "County": "Johnson",
     "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2536": {
-    "Queue ID": "J2536",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "LaSalle",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3707": {
-    "Queue ID": "J3707",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 40.0,
-    "Status": "Withdrawn",
-    "County": "Putnam",
-    "State": "IN",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1559,15 +1535,27 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3244": {
-    "Queue ID": "J3244",
+  "J2536": {
+    "Queue ID": "J2536",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "LaSalle",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3707": {
+    "Queue ID": "J3707",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
+    "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
-    "County": "Parke",
+    "County": "Putnam",
     "State": "IN",
-    "Queue Date": "2024-03-27T04:00:00+00:00",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -1583,6 +1571,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3244": {
+    "Queue ID": "J3244",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Parke",
+    "State": "IN",
+    "Queue Date": "2024-03-27T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J1035": {
     "Queue ID": "J1035",
     "Project Name": null,
@@ -1590,18 +1590,6 @@
     "Capacity (MW)": 75.0,
     "Status": "Withdrawn",
     "County": "Washington County",
-    "State": "IL",
-    "Queue Date": "2018-03-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1012": {
-    "Queue ID": "J1012",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Scott County",
     "State": "IL",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -1617,6 +1605,18 @@
     "State": "IN",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2022-08-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1012": {
+    "Queue ID": "J1012",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Scott County",
+    "State": "IL",
+    "Queue Date": "2018-03-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J1016": {
@@ -1763,18 +1763,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1348": {
-    "Queue ID": "J1348",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Vermillion County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-04-20T04:00:00+00:00",
-    "ISO": "MISO"
-  },
   "J1330": {
     "Queue ID": "J1330",
     "Project Name": null,
@@ -1783,18 +1771,6 @@
     "Status": "Withdrawn",
     "County": "Randolph County",
     "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1273": {
-    "Queue ID": "J1273",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Marshall County,Starke County",
-    "State": "IN",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1830,6 +1806,18 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Pike County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1273": {
+    "Queue ID": "J1273",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Marshall County,Starke County",
     "State": "IN",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -1883,6 +1871,18 @@
     "Proposed Completion Date": "2025-08-15T04:00:00+00:00",
     "ISO": "MISO"
   },
+  "J1348": {
+    "Queue ID": "J1348",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Vermillion County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-04-20T04:00:00+00:00",
+    "ISO": "MISO"
+  },
   "J1324": {
     "Queue ID": "J1324",
     "Project Name": null,
@@ -1893,18 +1893,6 @@
     "State": "IL",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1482": {
-    "Queue ID": "J1482",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "White County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2024-05-01T04:00:00+00:00",
     "ISO": "MISO"
   },
   "J1318": {
@@ -1931,18 +1919,6 @@
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1420": {
-    "Queue ID": "J1420",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 48.0,
-    "Status": "Withdrawn",
-    "County": "Rock Island County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J783": {
     "Queue ID": "J783",
     "Project Name": null,
@@ -1965,6 +1941,30 @@
     "State": "IN",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-05-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1482": {
+    "Queue ID": "J1482",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Done",
+    "County": "White County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2024-05-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1420": {
+    "Queue ID": "J1420",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 48.0,
+    "Status": "Withdrawn",
+    "County": "Rock Island County",
+    "State": "IL",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J808": {
@@ -2001,54 +2001,6 @@
     "State": "IL",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-10-29T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J881": {
-    "Queue ID": "J881",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 45.0,
-    "Status": "Withdrawn",
-    "County": "Jasper County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J853": {
-    "Queue ID": "J853",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 149.0,
-    "Status": "Done",
-    "County": "White County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": "2021-05-28T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J854": {
-    "Queue ID": "J854",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 30.0,
-    "Status": "Withdrawn",
-    "County": "Randolph County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J920": {
-    "Queue ID": "J920",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Pulaski County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J815": {
@@ -2099,6 +2051,54 @@
     "Proposed Completion Date": "2023-09-15T04:00:00+00:00",
     "ISO": "MISO"
   },
+  "J881": {
+    "Queue ID": "J881",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 45.0,
+    "Status": "Withdrawn",
+    "County": "Jasper County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J853": {
+    "Queue ID": "J853",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 149.0,
+    "Status": "Done",
+    "County": "White County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": "2021-05-28T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J854": {
+    "Queue ID": "J854",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 30.0,
+    "Status": "Withdrawn",
+    "County": "Randolph County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J920": {
+    "Queue ID": "J920",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Pulaski County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J829": {
     "Queue ID": "J829",
     "Project Name": null,
@@ -2133,6 +2133,30 @@
     "State": "IL",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2020-10-31T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J993": {
+    "Queue ID": "J993",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Boone County",
+    "State": "IN",
+    "Queue Date": "2018-03-12T04:00:00+00:00",
+    "Proposed Completion Date": "2023-11-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1491": {
+    "Queue ID": "J1491",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Marion",
+    "State": "IN",
+    "Queue Date": "2020-06-03T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J903": {
@@ -2183,30 +2207,6 @@
     "Proposed Completion Date": "2023-10-01T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J993": {
-    "Queue ID": "J993",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Boone County",
-    "State": "IN",
-    "Queue Date": "2018-03-12T04:00:00+00:00",
-    "Proposed Completion Date": "2023-11-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1491": {
-    "Queue ID": "J1491",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Marion",
-    "State": "IN",
-    "Queue Date": "2020-06-03T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J992": {
     "Queue ID": "J992",
     "Project Name": null,
@@ -2231,18 +2231,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1535": {
-    "Queue ID": "J1535",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "Withdrawn",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2020-06-10T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J1518": {
     "Queue ID": "J1518",
     "Project Name": null,
@@ -2253,6 +2241,18 @@
     "State": "IN",
     "Queue Date": "2024-08-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-10-06T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1535": {
+    "Queue ID": "J1535",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "Withdrawn",
+    "County": "Knox",
+    "State": "IN",
+    "Queue Date": "2020-06-10T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J1565": {
@@ -2315,18 +2315,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2215": {
-    "Queue ID": "J2215",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Active",
-    "County": "Lake",
-    "State": "IN",
-    "Queue Date": "2022-03-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J1563": {
     "Queue ID": "J1563",
     "Project Name": null,
@@ -2363,27 +2351,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2226": {
-    "Queue ID": "J2226",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Newton",
-    "State": "IN",
-    "Queue Date": "2022-06-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2229": {
-    "Queue ID": "J2229",
+  "J2215": {
+    "Queue ID": "J2215",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Wabash",
+    "Capacity (MW)": 300.0,
+    "Status": "Active",
+    "County": "Lake",
     "State": "IN",
-    "Queue Date": "2021-08-06T04:00:00+00:00",
+    "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -2411,6 +2387,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2226": {
+    "Queue ID": "J2226",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Newton",
+    "State": "IN",
+    "Queue Date": "2022-06-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2229": {
+    "Queue ID": "J2229",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Wabash",
+    "State": "IN",
+    "Queue Date": "2021-08-06T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2233": {
     "Queue ID": "J2233",
     "Project Name": null,
@@ -2420,6 +2420,30 @@
     "County": "Vermilion",
     "State": "IL",
     "Queue Date": "2022-06-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2130": {
+    "Queue ID": "J2130",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 180.0,
+    "Status": "Withdrawn",
+    "County": "Vermillion",
+    "State": "IN",
+    "Queue Date": "2022-03-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2251": {
+    "Queue ID": "J2251",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Grant",
+    "State": "IN",
+    "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -2456,30 +2480,6 @@
     "County": "Bartholomew",
     "State": "IN",
     "Queue Date": "2021-09-01T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2130": {
-    "Queue ID": "J2130",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 180.0,
-    "Status": "Withdrawn",
-    "County": "Vermillion",
-    "State": "IN",
-    "Queue Date": "2022-03-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2251": {
-    "Queue ID": "J2251",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Grant",
-    "State": "IN",
-    "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -2591,6 +2591,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2171": {
+    "Queue ID": "J2171",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 500.0,
+    "Status": "Active",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2022-03-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2150": {
     "Queue ID": "J2150",
     "Project Name": null,
@@ -2612,6 +2624,42 @@
     "County": "Fulton",
     "State": "IL",
     "Queue Date": "2021-08-31T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2203": {
+    "Queue ID": "J2203",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Active",
+    "County": "Adams",
+    "State": "IL",
+    "Queue Date": "2022-03-25T04:00:00+00:00",
+    "Proposed Completion Date": "2028-08-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J2212": {
+    "Queue ID": "J2212",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Jefferson",
+    "State": "IN",
+    "Queue Date": "2022-03-28T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1111": {
+    "Queue ID": "J1111",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Jackson County",
+    "State": "IL",
+    "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -2651,39 +2699,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2171": {
-    "Queue ID": "J2171",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 500.0,
-    "Status": "Active",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2022-03-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2203": {
-    "Queue ID": "J2203",
+  "J2197": {
+    "Queue ID": "J2197",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 150.0,
+    "Capacity (MW)": 100.0,
     "Status": "Active",
-    "County": "Adams",
+    "County": "Clay",
     "State": "IL",
-    "Queue Date": "2022-03-25T04:00:00+00:00",
-    "Proposed Completion Date": "2028-08-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J2212": {
-    "Queue ID": "J2212",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Jefferson",
-    "State": "IN",
-    "Queue Date": "2022-03-28T04:00:00+00:00",
+    "Queue Date": "2025-01-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -2694,30 +2718,6 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
-    "Queue Date": "2025-01-10T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1111": {
-    "Queue ID": "J1111",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Jackson County",
-    "State": "IL",
-    "Queue Date": "2018-03-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2197": {
-    "Queue ID": "J2197",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Clay",
     "State": "IL",
     "Queue Date": "2025-01-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -2783,18 +2783,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1152": {
-    "Queue ID": "J1152",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Hancock County,Shelby County",
-    "State": "IN",
-    "Queue Date": "2018-03-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J1139": {
     "Queue ID": "J1139",
     "Project Name": null,
@@ -2817,6 +2805,78 @@
     "State": "IL",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-05-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1152": {
+    "Queue ID": "J1152",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Hancock County,Shelby County",
+    "State": "IN",
+    "Queue Date": "2018-03-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1232": {
+    "Queue ID": "J1232",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 99.0,
+    "Status": "Done",
+    "County": "Coles County",
+    "State": "IL",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1225": {
+    "Queue ID": "J1225",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 160.0,
+    "Status": "Withdrawn",
+    "County": "Washington County",
+    "State": "IL",
+    "Queue Date": "2019-04-27T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1266": {
+    "Queue ID": "J1266",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 99.0,
+    "Status": "Done",
+    "County": "Marion County",
+    "State": "IL",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1303": {
+    "Queue ID": "J1303",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Done",
+    "County": "Jackson County",
+    "State": "IL",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1189": {
+    "Queue ID": "J1189",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 5.0,
+    "Status": "Done",
+    "County": "Brown County,Martin County",
+    "State": "IN",
+    "Queue Date": "2018-03-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J1204": {
@@ -2867,18 +2927,6 @@
     "Proposed Completion Date": "2023-11-04T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1189": {
-    "Queue ID": "J1189",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 5.0,
-    "Status": "Done",
-    "County": "Brown County,Martin County",
-    "State": "IN",
-    "Queue Date": "2018-03-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J1233": {
     "Queue ID": "J1233",
     "Project Name": null,
@@ -2925,138 +2973,6 @@
     "State": "IN",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1232": {
-    "Queue ID": "J1232",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 99.0,
-    "Status": "Done",
-    "County": "Coles County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1225": {
-    "Queue ID": "J1225",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 160.0,
-    "Status": "Withdrawn",
-    "County": "Washington County",
-    "State": "IL",
-    "Queue Date": "2019-04-27T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1265": {
-    "Queue ID": "J1265",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 43.0,
-    "Status": "Withdrawn",
-    "County": "LaGrange County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1272": {
-    "Queue ID": "J1272",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "Done",
-    "County": "Vanderburgh County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1342": {
-    "Queue ID": "J1342",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 99.0,
-    "Status": "Withdrawn",
-    "County": "Starke County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1385": {
-    "Queue ID": "J1385",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Hendricks County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1301": {
-    "Queue ID": "J1301",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Washington County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1311": {
-    "Queue ID": "J1311",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "St. Clair County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-06-30T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1302": {
-    "Queue ID": "J1302",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "Saline County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-02-01T05:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1266": {
-    "Queue ID": "J1266",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 99.0,
-    "Status": "Done",
-    "County": "Marion County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1303": {
-    "Queue ID": "J1303",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "Jackson County",
-    "State": "IL",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
   },
   "J1216": {
@@ -3155,6 +3071,54 @@
     "Proposed Completion Date": "2025-05-01T04:00:00+00:00",
     "ISO": "MISO"
   },
+  "J1265": {
+    "Queue ID": "J1265",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 43.0,
+    "Status": "Withdrawn",
+    "County": "LaGrange County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1272": {
+    "Queue ID": "J1272",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "Done",
+    "County": "Vanderburgh County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1342": {
+    "Queue ID": "J1342",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 99.0,
+    "Status": "Withdrawn",
+    "County": "Starke County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1385": {
+    "Queue ID": "J1385",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Hendricks County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J1387": {
     "Queue ID": "J1387",
     "Project Name": null,
@@ -3189,6 +3153,30 @@
     "State": "IN",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-12-15T05:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1378": {
+    "Queue ID": "J1378",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Fountain County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2024-11-15T05:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1392": {
+    "Queue ID": "J1392",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Done",
+    "County": "LaGrange County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-06-01T04:00:00+00:00",
     "ISO": "MISO"
   },
   "J1357": {
@@ -3239,64 +3227,40 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1378": {
-    "Queue ID": "J1378",
+  "J1301": {
+    "Queue ID": "J1301",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Fountain County",
-    "State": "IN",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Washington County",
+    "State": "IL",
     "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2024-11-15T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1392": {
-    "Queue ID": "J1392",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Done",
-    "County": "LaGrange County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-06-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1383": {
-    "Queue ID": "J1383",
+  "J1311": {
+    "Queue ID": "J1311",
     "Project Name": null,
     "Generation Type": "Solar",
     "Capacity (MW)": 150.0,
     "Status": "Done",
-    "County": "Fulton County",
+    "County": "St. Clair County",
     "State": "IL",
     "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-06-15T04:00:00+00:00",
+    "Proposed Completion Date": "2025-06-30T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1407": {
-    "Queue ID": "J1407",
+  "J1302": {
+    "Queue ID": "J1302",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
+    "Capacity (MW)": 150.0,
     "Status": "Done",
-    "County": "Porter County",
-    "State": "IN",
+    "County": "Saline County",
+    "State": "IL",
     "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-08-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1447": {
-    "Queue ID": "J1447",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
-    "Status": "Withdrawn",
-    "County": "Porter County",
-    "State": "IN",
-    "Queue Date": "2019-04-29T04:00:00+00:00",
-    "Proposed Completion Date": "2025-07-25T04:00:00+00:00",
+    "Proposed Completion Date": "2025-02-01T05:00:00+00:00",
     "ISO": "MISO"
   },
   "J1386": {
@@ -3383,6 +3347,42 @@
     "Proposed Completion Date": "2024-03-03T05:00:00+00:00",
     "ISO": "MISO"
   },
+  "J1383": {
+    "Queue ID": "J1383",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Done",
+    "County": "Fulton County",
+    "State": "IL",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-06-15T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1407": {
+    "Queue ID": "J1407",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Done",
+    "County": "Porter County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-08-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1447": {
+    "Queue ID": "J1447",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 250.0,
+    "Status": "Withdrawn",
+    "County": "Porter County",
+    "State": "IN",
+    "Queue Date": "2019-04-29T04:00:00+00:00",
+    "Proposed Completion Date": "2025-07-25T04:00:00+00:00",
+    "ISO": "MISO"
+  },
   "J1475": {
     "Queue ID": "J1475",
     "Project Name": null,
@@ -3417,138 +3417,6 @@
     "State": "IL",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-05-31T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1692": {
-    "Queue ID": "J1692",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 65.0,
-    "Status": "Withdrawn",
-    "County": "Cass",
-    "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1695": {
-    "Queue ID": "J1695",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "Withdrawn",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2023-12-12T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J804": {
-    "Queue ID": "J804",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 119.0,
-    "Status": "Withdrawn",
-    "County": "Decatur County",
-    "State": "IN",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1697": {
-    "Queue ID": "J1697",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Lawrence",
-    "State": "IN",
-    "Queue Date": "2020-06-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J856": {
-    "Queue ID": "J856",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 80.0,
-    "Status": "Withdrawn",
-    "County": "Vanderburgh County",
-    "State": "IN",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": "2021-03-15T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1712": {
-    "Queue ID": "J1712",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
-    "Status": "Done",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
-    "Proposed Completion Date": "2025-12-15T05:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1724": {
-    "Queue ID": "J1724",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "LaPorte",
-    "State": "IN",
-    "Queue Date": "2021-12-03T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1591": {
-    "Queue ID": "J1591",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Clay",
-    "State": "IN",
-    "Queue Date": "2020-06-22T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1690": {
-    "Queue ID": "J1690",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 125.0,
-    "Status": "Withdrawn",
-    "County": "Henry",
-    "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1699": {
-    "Queue ID": "J1699",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 43.0,
-    "Status": "Withdrawn",
-    "County": "Shelby",
-    "State": "IN",
-    "Queue Date": "2020-06-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J795": {
-    "Queue ID": "J795",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 69.0,
-    "Status": "Withdrawn",
-    "County": "Gallatin County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J811": {
@@ -3596,6 +3464,246 @@
     "County": "Henry",
     "State": "IN",
     "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J804": {
+    "Queue ID": "J804",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 119.0,
+    "Status": "Withdrawn",
+    "County": "Decatur County",
+    "State": "IN",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J856": {
+    "Queue ID": "J856",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 80.0,
+    "Status": "Withdrawn",
+    "County": "Vanderburgh County",
+    "State": "IN",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": "2021-03-15T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J795": {
+    "Queue ID": "J795",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 69.0,
+    "Status": "Withdrawn",
+    "County": "Gallatin County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J797": {
+    "Queue ID": "J797",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 70.0,
+    "Status": "Withdrawn",
+    "County": "Washington County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J800": {
+    "Queue ID": "J800",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 250.0,
+    "Status": "Done",
+    "County": "White County",
+    "State": "IL",
+    "Queue Date": "2017-06-16T04:00:00+00:00",
+    "Proposed Completion Date": "2022-10-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1691": {
+    "Queue ID": "J1691",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Sullivan",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1700": {
+    "Queue ID": "J1700",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 288.0,
+    "Status": "Withdrawn",
+    "County": "Johnson",
+    "State": "IN",
+    "Queue Date": "2020-06-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1717": {
+    "Queue ID": "J1717",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Decatur",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1721": {
+    "Queue ID": "J1721",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 175.12,
+    "Status": "Withdrawn",
+    "County": "Vigo",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1690": {
+    "Queue ID": "J1690",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 125.0,
+    "Status": "Withdrawn",
+    "County": "Henry",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1699": {
+    "Queue ID": "J1699",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 43.0,
+    "Status": "Withdrawn",
+    "County": "Shelby",
+    "State": "IN",
+    "Queue Date": "2020-06-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1692": {
+    "Queue ID": "J1692",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 65.0,
+    "Status": "Withdrawn",
+    "County": "Cass",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1695": {
+    "Queue ID": "J1695",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "Withdrawn",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2023-12-12T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1697": {
+    "Queue ID": "J1697",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Lawrence",
+    "State": "IN",
+    "Queue Date": "2020-06-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1712": {
+    "Queue ID": "J1712",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Done",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
+    "Proposed Completion Date": "2025-12-15T05:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1724": {
+    "Queue ID": "J1724",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Done",
+    "County": "LaPorte",
+    "State": "IN",
+    "Queue Date": "2021-12-03T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1591": {
+    "Queue ID": "J1591",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Clay",
+    "State": "IN",
+    "Queue Date": "2020-06-22T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1593": {
+    "Queue ID": "J1593",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Rush",
+    "State": "IN",
+    "Queue Date": "2020-06-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1726": {
+    "Queue ID": "J1726",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Pulaski",
+    "State": "IN",
+    "Queue Date": "2020-06-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1601": {
+    "Queue ID": "J1601",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 50.0,
+    "Status": "Withdrawn",
+    "County": "Marion",
+    "State": "IN",
+    "Queue Date": "2020-06-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -3659,114 +3767,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J797": {
-    "Queue ID": "J797",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 70.0,
-    "Status": "Withdrawn",
-    "County": "Washington County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J800": {
-    "Queue ID": "J800",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
-    "Status": "Done",
-    "County": "White County",
-    "State": "IL",
-    "Queue Date": "2017-06-16T04:00:00+00:00",
-    "Proposed Completion Date": "2022-10-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1726": {
-    "Queue ID": "J1726",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Pulaski",
-    "State": "IN",
-    "Queue Date": "2020-06-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1601": {
-    "Queue ID": "J1601",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "Withdrawn",
-    "County": "Marion",
-    "State": "IN",
-    "Queue Date": "2020-06-09T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1691": {
-    "Queue ID": "J1691",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Sullivan",
-    "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1593": {
-    "Queue ID": "J1593",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Rush",
-    "State": "IN",
-    "Queue Date": "2020-06-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1700": {
-    "Queue ID": "J1700",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 288.0,
-    "Status": "Withdrawn",
-    "County": "Johnson",
-    "State": "IN",
-    "Queue Date": "2020-06-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1717": {
-    "Queue ID": "J1717",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Decatur",
-    "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1721": {
-    "Queue ID": "J1721",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 175.12,
-    "Status": "Withdrawn",
-    "County": "Vigo",
-    "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
   "J1623": {
     "Queue ID": "J1623",
     "Project Name": null,
@@ -3827,54 +3827,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1616": {
-    "Queue ID": "J1616",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2020-06-22T04:00:00+00:00",
-    "Proposed Completion Date": "2026-08-31T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1617": {
-    "Queue ID": "J1617",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Vermilion",
-    "State": "IL",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1637": {
-    "Queue ID": "J1637",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1641": {
-    "Queue ID": "J1641",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Done",
-    "County": "Greene",
-    "State": "IN",
-    "Queue Date": "2024-03-15T04:00:00+00:00",
-    "Proposed Completion Date": "2026-09-01T04:00:00+00:00",
-    "ISO": "MISO"
-  },
   "J1606": {
     "Queue ID": "J1606",
     "Project Name": null,
@@ -3923,39 +3875,27 @@
     "Proposed Completion Date": "2027-04-30T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1677": {
-    "Queue ID": "J1677",
+  "J1616": {
+    "Queue ID": "J1616",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 180.0,
+    "Capacity (MW)": 200.0,
     "Status": "Done",
-    "County": "Macon",
-    "State": "IL",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": "2026-01-29T05:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1679": {
-    "Queue ID": "J1679",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 125.0,
-    "Status": "Done",
-    "County": "Clay",
-    "State": "IL",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": "2026-04-20T04:00:00+00:00",
-    "ISO": "MISO"
-  },
-  "J1680": {
-    "Queue ID": "J1680",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Cass",
+    "County": "Knox",
     "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Queue Date": "2020-06-22T04:00:00+00:00",
+    "Proposed Completion Date": "2026-08-31T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1617": {
+    "Queue ID": "J1617",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Vermilion",
+    "State": "IL",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -3971,64 +3911,40 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1684": {
-    "Queue ID": "J1684",
+  "J1637": {
+    "Queue ID": "J1637",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Knox",
+    "State": "IN",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1641": {
+    "Queue ID": "J1641",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
     "Status": "Done",
-    "County": "Starke",
+    "County": "Greene",
     "State": "IN",
-    "Queue Date": "2023-08-04T04:00:00+00:00",
-    "Proposed Completion Date": "2029-04-17T04:00:00+00:00",
+    "Queue Date": "2024-03-15T04:00:00+00:00",
+    "Proposed Completion Date": "2026-09-01T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1687": {
-    "Queue ID": "J1687",
+  "J1677": {
+    "Queue ID": "J1677",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 160.0,
-    "Status": "Withdrawn",
-    "County": "Decatur",
-    "State": "IN",
-    "Queue Date": "2021-12-03T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1960": {
-    "Queue ID": "J1960",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Porter",
-    "State": "IN",
-    "Queue Date": "2022-03-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1975": {
-    "Queue ID": "J1975",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 40.0,
-    "Status": "Withdrawn",
-    "County": "Coles",
+    "Capacity (MW)": 180.0,
+    "Status": "Done",
+    "County": "Macon",
     "State": "IL",
-    "Queue Date": "2022-03-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1976": {
-    "Queue ID": "J1976",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 25.0,
-    "Status": "Withdrawn",
-    "County": "Porter",
-    "State": "IN",
-    "Queue Date": "2022-03-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": "2026-01-29T05:00:00+00:00",
     "ISO": "MISO"
   },
   "J1650": {
@@ -4115,6 +4031,66 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J1679": {
+    "Queue ID": "J1679",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 125.0,
+    "Status": "Done",
+    "County": "Clay",
+    "State": "IL",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": "2026-04-20T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1680": {
+    "Queue ID": "J1680",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Cass",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1684": {
+    "Queue ID": "J1684",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Starke",
+    "State": "IN",
+    "Queue Date": "2023-08-04T04:00:00+00:00",
+    "Proposed Completion Date": "2029-04-17T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1687": {
+    "Queue ID": "J1687",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 160.0,
+    "Status": "Withdrawn",
+    "County": "Decatur",
+    "State": "IN",
+    "Queue Date": "2021-12-03T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1960": {
+    "Queue ID": "J1960",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Porter",
+    "State": "IN",
+    "Queue Date": "2022-03-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J1973": {
     "Queue ID": "J1973",
     "Project Name": null,
@@ -4172,6 +4148,30 @@
     "County": "Porter",
     "State": "IN",
     "Queue Date": "2020-06-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1975": {
+    "Queue ID": "J1975",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 40.0,
+    "Status": "Withdrawn",
+    "County": "Coles",
+    "State": "IL",
+    "Queue Date": "2022-03-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1976": {
+    "Queue ID": "J1976",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 25.0,
+    "Status": "Withdrawn",
+    "County": "Porter",
+    "State": "IN",
+    "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4283,6 +4283,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J1765": {
+    "Queue ID": "J1765",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 93.2,
+    "Status": "Withdrawn",
+    "County": "Tipton",
+    "State": "IN",
+    "Queue Date": "2020-06-11T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J1768": {
     "Queue ID": "J1768",
     "Project Name": null,
@@ -4292,6 +4304,30 @@
     "County": "Orange",
     "State": "IN",
     "Queue Date": "2020-06-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1882": {
+    "Queue ID": "J1882",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 45.0,
+    "Status": "Active",
+    "County": "Tazewell",
+    "State": "IL",
+    "Queue Date": "2022-03-28T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1784": {
+    "Queue ID": "J1784",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 39.0,
+    "Status": "Withdrawn",
+    "County": "Henry",
+    "State": "IN",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4319,64 +4355,28 @@
     "Proposed Completion Date": "2026-03-31T04:00:00+00:00",
     "ISO": "MISO"
   },
-  "J1882": {
-    "Queue ID": "J1882",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 45.0,
-    "Status": "Active",
-    "County": "Tazewell",
-    "State": "IL",
-    "Queue Date": "2022-03-28T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1765": {
-    "Queue ID": "J1765",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 93.2,
-    "Status": "Withdrawn",
-    "County": "Tipton",
-    "State": "IN",
-    "Queue Date": "2020-06-11T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1784": {
-    "Queue ID": "J1784",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 39.0,
-    "Status": "Withdrawn",
-    "County": "Henry",
-    "State": "IN",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1785": {
-    "Queue ID": "J1785",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "LaPorte",
-    "State": "IN",
-    "Queue Date": "2022-01-11T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1786": {
-    "Queue ID": "J1786",
+  "J1780": {
+    "Queue ID": "J1780",
     "Project Name": null,
     "Generation Type": "Solar",
     "Capacity (MW)": 200.0,
     "Status": "Done",
-    "County": "Sullivan",
+    "County": "Montgomery",
     "State": "IN",
-    "Queue Date": "2020-06-24T04:00:00+00:00",
-    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
+    "Proposed Completion Date": "2026-08-15T04:00:00+00:00",
+    "ISO": "MISO"
+  },
+  "J1799": {
+    "Queue ID": "J1799",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Pulaski",
+    "State": "IL",
+    "Queue Date": "2020-06-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
   "J1777": {
@@ -4415,18 +4415,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1780": {
-    "Queue ID": "J1780",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Done",
-    "County": "Montgomery",
-    "State": "IN",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
-    "Proposed Completion Date": "2026-08-15T04:00:00+00:00",
-    "ISO": "MISO"
-  },
   "J1807": {
     "Queue ID": "J1807",
     "Project Name": null,
@@ -4439,28 +4427,28 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1806": {
-    "Queue ID": "J1806",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 30.0,
-    "Status": "Withdrawn",
-    "County": "Henry",
-    "State": "IN",
-    "Queue Date": "2020-06-20T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1799": {
-    "Queue ID": "J1799",
+  "J1785": {
+    "Queue ID": "J1785",
     "Project Name": null,
     "Generation Type": "Solar",
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
-    "County": "Pulaski",
-    "State": "IL",
-    "Queue Date": "2020-06-23T04:00:00+00:00",
+    "County": "LaPorte",
+    "State": "IN",
+    "Queue Date": "2022-01-11T05:00:00+00:00",
     "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1786": {
+    "Queue ID": "J1786",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Done",
+    "County": "Sullivan",
+    "State": "IN",
+    "Queue Date": "2020-06-24T04:00:00+00:00",
+    "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
   },
   "J1802": {
@@ -4472,6 +4460,18 @@
     "County": "Marshall",
     "State": "IN",
     "Queue Date": "2020-06-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1806": {
+    "Queue ID": "J1806",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 30.0,
+    "Status": "Withdrawn",
+    "County": "Henry",
+    "State": "IN",
+    "Queue Date": "2020-06-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4496,6 +4496,54 @@
     "County": "Fountain",
     "State": "IN",
     "Queue Date": "2022-03-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1815": {
+    "Queue ID": "J1815",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 180.0,
+    "Status": "Withdrawn",
+    "County": "Montgomery",
+    "State": "IN",
+    "Queue Date": "2022-03-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1825": {
+    "Queue ID": "J1825",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Decatur",
+    "State": "IN",
+    "Queue Date": "2020-06-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2044": {
+    "Queue ID": "J2044",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Newton",
+    "State": "IN",
+    "Queue Date": "2022-03-29T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2033": {
+    "Queue ID": "J2033",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Clay",
+    "State": "IL",
+    "Queue Date": "2021-08-26T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4535,30 +4583,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1815": {
-    "Queue ID": "J1815",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 180.0,
-    "Status": "Withdrawn",
-    "County": "Montgomery",
-    "State": "IN",
-    "Queue Date": "2022-03-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1825": {
-    "Queue ID": "J1825",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Decatur",
-    "State": "IN",
-    "Queue Date": "2020-06-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2000": {
     "Queue ID": "J2000",
     "Project Name": null,
@@ -4571,18 +4595,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2033": {
-    "Queue ID": "J2033",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Clay",
-    "State": "IL",
-    "Queue Date": "2021-08-26T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2060": {
     "Queue ID": "J2060",
     "Project Name": null,
@@ -4592,6 +4604,30 @@
     "County": "Tippecanoe",
     "State": "IN",
     "Queue Date": "2021-08-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2063": {
+    "Queue ID": "J2063",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Knox",
+    "State": "IN",
+    "Queue Date": "2021-08-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2269": {
+    "Queue ID": "J2269",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Fountain",
+    "State": "IN",
+    "Queue Date": "2022-06-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4619,30 +4655,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2044": {
-    "Queue ID": "J2044",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Newton",
-    "State": "IN",
-    "Queue Date": "2022-03-29T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2280": {
-    "Queue ID": "J2280",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 198.0,
-    "Status": "Active",
-    "County": "",
-    "State": "IN",
-    "Queue Date": "2022-03-28T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2259": {
     "Queue ID": "J2259",
     "Project Name": null,
@@ -4667,39 +4679,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3847": {
-    "Queue ID": "J3847",
+  "J2334": {
+    "Queue ID": "J2334",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Jefferson",
+    "Capacity (MW)": 195.0,
+    "Status": "Active",
+    "County": "Montgomery",
     "State": "IL",
-    "Queue Date": "2025-01-03T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2063": {
-    "Queue ID": "J2063",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2021-08-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2269": {
-    "Queue ID": "J2269",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Fountain",
-    "State": "IN",
-    "Queue Date": "2022-06-14T04:00:00+00:00",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4739,27 +4727,51 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2334": {
-    "Queue ID": "J2334",
+  "J3561": {
+    "Queue ID": "J3561",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 195.0,
-    "Status": "Active",
-    "County": "Montgomery",
+    "Capacity (MW)": 135.0,
+    "Status": "Withdrawn",
+    "County": "Jo Daviess",
     "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2308": {
-    "Queue ID": "J2308",
+  "J2280": {
+    "Queue ID": "J2280",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 35.0,
-    "Status": "Withdrawn",
-    "County": "Miami",
+    "Capacity (MW)": 198.0,
+    "Status": "Active",
+    "County": "",
     "State": "IN",
-    "Queue Date": "2022-03-23T04:00:00+00:00",
+    "Queue Date": "2022-03-28T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3847": {
+    "Queue ID": "J3847",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Jefferson",
+    "State": "IL",
+    "Queue Date": "2025-01-03T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3560": {
+    "Queue ID": "J3560",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 20.0,
+    "Status": "Withdrawn",
+    "County": "Putnam",
+    "State": "IL",
+    "Queue Date": "2024-04-05T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4787,27 +4799,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3925": {
-    "Queue ID": "J3925",
+  "J2308": {
+    "Queue ID": "J2308",
     "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 70.0,
-    "Status": "Active",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2025-02-07T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3560": {
-    "Queue ID": "J3560",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 20.0,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 35.0,
     "Status": "Withdrawn",
-    "County": "Putnam",
-    "State": "IL",
-    "Queue Date": "2024-04-05T04:00:00+00:00",
+    "County": "Miami",
+    "State": "IN",
+    "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4823,32 +4823,8 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3950": {
-    "Queue ID": "J3950",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 340.0,
-    "Status": "Withdrawn",
-    "County": "Clark",
-    "State": "IL",
-    "Queue Date": "2025-02-20T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3947": {
-    "Queue ID": "J3947",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Shelby",
-    "State": "IL",
-    "Queue Date": "2025-03-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3896": {
-    "Queue ID": "J3896",
+  "J3925": {
+    "Queue ID": "J3925",
     "Project Name": null,
     "Generation Type": "Solar",
     "Capacity (MW)": 70.0,
@@ -4856,30 +4832,6 @@
     "County": "Knox",
     "State": "IN",
     "Queue Date": "2025-02-07T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J4158": {
-    "Queue ID": "J4158",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "De Witt",
-    "State": "IL",
-    "Queue Date": "2025-10-02T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3561": {
-    "Queue ID": "J3561",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 135.0,
-    "Status": "Withdrawn",
-    "County": "Jo Daviess",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4903,6 +4855,30 @@
     "Status": "Withdrawn",
     "County": "Posey",
     "State": "IN",
+    "Queue Date": "2025-03-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3950": {
+    "Queue ID": "J3950",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 340.0,
+    "Status": "Withdrawn",
+    "County": "Clark",
+    "State": "IL",
+    "Queue Date": "2025-02-20T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3947": {
+    "Queue ID": "J3947",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Shelby",
+    "State": "IL",
     "Queue Date": "2025-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4931,27 +4907,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "R5076": {
-    "Queue ID": "R5076",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Lake",
-    "State": "IN",
-    "Queue Date": "2025-10-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3880": {
-    "Queue ID": "J3880",
+  "J3896": {
+    "Queue ID": "J3896",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Clay",
-    "State": "IL",
-    "Queue Date": "2025-02-10T05:00:00+00:00",
+    "Capacity (MW)": 70.0,
+    "Status": "Active",
+    "County": "Knox",
+    "State": "IN",
+    "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -4976,6 +4940,18 @@
     "County": "Jefferson",
     "State": "IL",
     "Queue Date": "2024-12-19T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J4158": {
+    "Queue ID": "J4158",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "De Witt",
+    "State": "IL",
+    "Queue Date": "2025-10-02T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5015,6 +4991,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "R5076": {
+    "Queue ID": "R5076",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Lake",
+    "State": "IN",
+    "Queue Date": "2025-10-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3880": {
+    "Queue ID": "J3880",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Clay",
+    "State": "IL",
+    "Queue Date": "2025-02-10T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3395": {
     "Queue ID": "J3395",
     "Project Name": null,
@@ -5024,42 +5024,6 @@
     "County": "Sangamon",
     "State": "IL",
     "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3360": {
-    "Queue ID": "J3360",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 250.0,
-    "Status": "Withdrawn",
-    "County": "Morgan",
-    "State": "IL",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2998": {
-    "Queue ID": "J2998",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "St. Clair",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2927": {
-    "Queue ID": "J2927",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Randolph",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5087,6 +5051,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2927": {
+    "Queue ID": "J2927",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Randolph",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2974": {
     "Queue ID": "J2974",
     "Project Name": null,
@@ -5094,18 +5070,6 @@
     "Capacity (MW)": 50.0,
     "Status": "Active",
     "County": "Adams",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3064": {
-    "Queue ID": "J3064",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 157.0,
-    "Status": "Active",
-    "County": "Perry",
     "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -5147,15 +5111,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3207": {
-    "Queue ID": "J3207",
+  "J3360": {
+    "Queue ID": "J3360",
     "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Starke",
-    "State": "IN",
-    "Queue Date": "2022-03-10T05:00:00+00:00",
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 250.0,
+    "Status": "Withdrawn",
+    "County": "Morgan",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5168,6 +5132,54 @@
     "County": "Coles",
     "State": "IL",
     "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2998": {
+    "Queue ID": "J2998",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "St. Clair",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3064": {
+    "Queue ID": "J3064",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 157.0,
+    "Status": "Active",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3208": {
+    "Queue ID": "J3208",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 10.0,
+    "Status": "Active",
+    "County": "Dubois",
+    "State": "IN",
+    "Queue Date": "2022-09-08T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3207": {
+    "Queue ID": "J3207",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Starke",
+    "State": "IN",
+    "Queue Date": "2022-03-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5243,18 +5255,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3208": {
-    "Queue ID": "J3208",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 10.0,
-    "Status": "Active",
-    "County": "Dubois",
-    "State": "IN",
-    "Queue Date": "2022-09-08T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3167": {
     "Queue ID": "J3167",
     "Project Name": null,
@@ -5262,6 +5262,54 @@
     "Capacity (MW)": 180.0,
     "Status": "Active",
     "County": "Fulton",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2658": {
+    "Queue ID": "J2658",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Cumberland",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2660": {
+    "Queue ID": "J2660",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Cumberland",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2661": {
+    "Queue ID": "J2661",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Marion",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2662": {
+    "Queue ID": "J2662",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 250.0,
+    "Status": "Active",
+    "County": "Cumberland",
     "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -5315,51 +5363,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2658": {
-    "Queue ID": "J2658",
+  "J2647": {
+    "Queue ID": "J2647",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Cumberland",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2660": {
-    "Queue ID": "J2660",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Cumberland",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2661": {
-    "Queue ID": "J2661",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Marion",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2662": {
-    "Queue ID": "J2662",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
+    "Capacity (MW)": 300.0,
     "Status": "Active",
-    "County": "Cumberland",
+    "County": "Franklin",
     "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5411,42 +5423,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2647": {
-    "Queue ID": "J2647",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Active",
-    "County": "Franklin",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2711": {
-    "Queue ID": "J2711",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 122.0,
-    "Status": "Withdrawn",
-    "County": "Porter",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2713": {
-    "Queue ID": "J2713",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 47.6,
-    "Status": "Withdrawn",
-    "County": "Mercer",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2626": {
     "Queue ID": "J2626",
     "Project Name": null,
@@ -5455,18 +5431,6 @@
     "Status": "Withdrawn",
     "County": "Perry",
     "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2663": {
-    "Queue ID": "J2663",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "White",
-    "State": "IN",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5495,18 +5459,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2586": {
-    "Queue ID": "J2586",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Clark",
-    "State": "IN",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2702": {
     "Queue ID": "J2702",
     "Project Name": null,
@@ -5531,18 +5483,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2703": {
-    "Queue ID": "J2703",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 398.0,
-    "Status": "Withdrawn",
-    "County": "Scott",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2712": {
     "Queue ID": "J2712",
     "Project Name": null,
@@ -5555,15 +5495,63 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2823": {
-    "Queue ID": "J2823",
+  "J2711": {
+    "Queue ID": "J2711",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 122.0,
+    "Status": "Withdrawn",
+    "County": "Porter",
+    "State": "IN",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2713": {
+    "Queue ID": "J2713",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 47.6,
+    "Status": "Withdrawn",
+    "County": "Mercer",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2663": {
+    "Queue ID": "J2663",
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Jefferson",
+    "Status": "Active",
+    "County": "White",
     "State": "IN",
-    "Queue Date": "2022-09-09T04:00:00+00:00",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2586": {
+    "Queue ID": "J2586",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Clark",
+    "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2703": {
+    "Queue ID": "J2703",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 398.0,
+    "Status": "Withdrawn",
+    "County": "Scott",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5591,6 +5579,42 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2805": {
+    "Queue ID": "J2805",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Fountain",
+    "State": "IN",
+    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2823": {
+    "Queue ID": "J2823",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Jefferson",
+    "State": "IN",
+    "Queue Date": "2022-09-09T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2908": {
+    "Queue ID": "J2908",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 30.0,
+    "Status": "Active",
+    "County": "Morgan",
+    "State": "IL",
+    "Queue Date": "2022-07-27T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2762": {
     "Queue ID": "J2762",
     "Project Name": null,
@@ -5612,78 +5636,6 @@
     "County": "Saline",
     "State": "IL",
     "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2846": {
-    "Queue ID": "J2846",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 700.0,
-    "Status": "Active",
-    "County": "Pulaski",
-    "State": "IN",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2908": {
-    "Queue ID": "J2908",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 30.0,
-    "Status": "Active",
-    "County": "Morgan",
-    "State": "IL",
-    "Queue Date": "2022-07-27T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2848": {
-    "Queue ID": "J2848",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Hamilton",
-    "State": "IN",
-    "Queue Date": "2025-11-19T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2853": {
-    "Queue ID": "J2853",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Sangamon",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2918": {
-    "Queue ID": "J2918",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 97.0,
-    "Status": "Active",
-    "County": "Jasper",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2937": {
-    "Queue ID": "J2937",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 186.0,
-    "Status": "Active",
-    "County": "Montgomery",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5711,6 +5663,42 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2846": {
+    "Queue ID": "J2846",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 700.0,
+    "Status": "Active",
+    "County": "Pulaski",
+    "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2848": {
+    "Queue ID": "J2848",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Hamilton",
+    "State": "IN",
+    "Queue Date": "2025-11-19T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2853": {
+    "Queue ID": "J2853",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Sangamon",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2849": {
     "Queue ID": "J2849",
     "Project Name": null,
@@ -5719,6 +5707,42 @@
     "Status": "Active",
     "County": "Pulaski",
     "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2918": {
+    "Queue ID": "J2918",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 97.0,
+    "Status": "Active",
+    "County": "Jasper",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2937": {
+    "Queue ID": "J2937",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 186.0,
+    "Status": "Active",
+    "County": "Montgomery",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2972": {
+    "Queue ID": "J2972",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 140.0,
+    "Status": "Active",
+    "County": "Adams",
+    "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5735,18 +5759,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2973": {
-    "Queue ID": "J2973",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
-    "Status": "Active",
-    "County": "Christian",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3000": {
     "Queue ID": "J3000",
     "Project Name": null,
@@ -5759,39 +5771,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2972": {
-    "Queue ID": "J2972",
+  "J2973": {
+    "Queue ID": "J2973",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 140.0,
+    "Capacity (MW)": 250.0,
     "Status": "Active",
-    "County": "Adams",
+    "County": "Christian",
     "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2805": {
-    "Queue ID": "J2805",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Fountain",
-    "State": "IN",
-    "Queue Date": "2022-09-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2794": {
-    "Queue ID": "J2794",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 90.0,
-    "Status": "Active",
-    "County": "Fayette",
-    "State": "IL",
-    "Queue Date": "2022-08-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5815,30 +5803,6 @@
     "Status": "Withdrawn",
     "County": "Perry",
     "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2746": {
-    "Queue ID": "J2746",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 70.0,
-    "Status": "Withdrawn",
-    "County": "Rush",
-    "State": "IN",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2747": {
-    "Queue ID": "J2747",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 160.0,
-    "Status": "Active",
-    "County": "Greene",
-    "State": "IN",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5867,6 +5831,54 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2794": {
+    "Queue ID": "J2794",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 90.0,
+    "Status": "Active",
+    "County": "Fayette",
+    "State": "IL",
+    "Queue Date": "2022-08-23T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2746": {
+    "Queue ID": "J2746",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 70.0,
+    "Status": "Withdrawn",
+    "County": "Rush",
+    "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2747": {
+    "Queue ID": "J2747",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 160.0,
+    "Status": "Active",
+    "County": "Greene",
+    "State": "IN",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2922": {
+    "Queue ID": "J2922",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 250.0,
+    "Status": "Active",
+    "County": "Jasper",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2925": {
     "Queue ID": "J2925",
     "Project Name": null,
@@ -5888,30 +5900,6 @@
     "County": "Mason",
     "State": "IL",
     "Queue Date": "2022-09-13T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2922": {
-    "Queue ID": "J2922",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 250.0,
-    "Status": "Active",
-    "County": "Jasper",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3130": {
-    "Queue ID": "J3130",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Marion",
-    "State": "IL",
-    "Queue Date": "2022-09-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -5999,6 +5987,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3095": {
+    "Queue ID": "J3095",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Ford",
+    "State": "IL",
+    "Queue Date": "2022-09-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3130": {
+    "Queue ID": "J3130",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Marion",
+    "State": "IL",
+    "Queue Date": "2022-09-09T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3142": {
     "Queue ID": "J3142",
     "Project Name": null,
@@ -6047,6 +6059,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3189": {
+    "Queue ID": "J3189",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 50.0,
+    "Status": "Withdrawn",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3174": {
     "Queue ID": "J3174",
     "Project Name": null,
@@ -6083,18 +6107,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3189": {
-    "Queue ID": "J3189",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 50.0,
-    "Status": "Withdrawn",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3103": {
     "Queue ID": "J3103",
     "Project Name": null,
@@ -6116,18 +6128,6 @@
     "County": "Marshall",
     "State": "IL",
     "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3095": {
-    "Queue ID": "J3095",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Ford",
-    "State": "IL",
-    "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6179,18 +6179,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2566": {
-    "Queue ID": "J2566",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Daviess",
-    "State": "IN",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2573": {
     "Queue ID": "J2573",
     "Project Name": null,
@@ -6227,42 +6215,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2554": {
-    "Queue ID": "J2554",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 220.0,
-    "Status": "Active",
-    "County": "Putnam",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2575": {
-    "Queue ID": "J2575",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 198.0,
-    "Status": "Active",
-    "County": "Tazewell",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2607": {
-    "Queue ID": "J2607",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Montgomery",
-    "State": "IL",
-    "Queue Date": "2022-09-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2603": {
     "Queue ID": "J2603",
     "Project Name": null,
@@ -6287,6 +6239,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J2566": {
+    "Queue ID": "J2566",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Daviess",
+    "State": "IN",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2554": {
+    "Queue ID": "J2554",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 220.0,
+    "Status": "Active",
+    "County": "Putnam",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2635": {
     "Queue ID": "J2635",
     "Project Name": null,
@@ -6306,6 +6282,30 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Adams",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2575": {
+    "Queue ID": "J2575",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 198.0,
+    "Status": "Active",
+    "County": "Tazewell",
+    "State": "IL",
+    "Queue Date": "2022-09-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2607": {
+    "Queue ID": "J2607",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Montgomery",
     "State": "IL",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -6335,30 +6335,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J2808": {
-    "Queue ID": "J2808",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Fayette",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J2809": {
-    "Queue ID": "J2809",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 133.0,
-    "Status": "Active",
-    "County": "Iroquois",
-    "State": "IL",
-    "Queue Date": "2022-09-14T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J2722": {
     "Queue ID": "J2722",
     "Project Name": null,
@@ -6380,6 +6356,30 @@
     "County": "White",
     "State": "IN",
     "Queue Date": "2022-09-08T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2808": {
+    "Queue ID": "J2808",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Fayette",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J2809": {
+    "Queue ID": "J2809",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 133.0,
+    "Status": "Active",
+    "County": "Iroquois",
+    "State": "IL",
+    "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6419,6 +6419,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3478": {
+    "Queue ID": "J3478",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 35.0,
+    "Status": "Withdrawn",
+    "County": "Vigo",
+    "State": "IN",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3508": {
     "Queue ID": "J3508",
     "Project Name": null,
@@ -6452,18 +6464,6 @@
     "County": "Sangamon",
     "State": "IL",
     "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3478": {
-    "Queue ID": "J3478",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 35.0,
-    "Status": "Withdrawn",
-    "County": "Vigo",
-    "State": "IN",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6515,6 +6515,30 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3306": {
+    "Queue ID": "J3306",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 150.0,
+    "Status": "Active",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3562": {
+    "Queue ID": "J3562",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Vermilion",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3316": {
     "Queue ID": "J3316",
     "Project Name": null,
@@ -6539,18 +6563,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3306": {
-    "Queue ID": "J3306",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Active",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3385": {
     "Queue ID": "J3385",
     "Project Name": null,
@@ -6560,30 +6572,6 @@
     "County": "Pike",
     "State": "IL",
     "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3943": {
-    "Queue ID": "J3943",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 337.0,
-    "Status": "Withdrawn",
-    "County": "Vigo",
-    "State": "IN",
-    "Queue Date": "2025-02-21T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "S1108": {
-    "Queue ID": "S1108",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "LaGrange",
-    "State": "IN",
-    "Queue Date": "2025-07-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6623,15 +6611,51 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3562": {
-    "Queue ID": "J3562",
+  "J3943": {
+    "Queue ID": "J3943",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 300.0,
+    "Capacity (MW)": 337.0,
     "Status": "Withdrawn",
-    "County": "Vermilion",
+    "County": "Vigo",
+    "State": "IN",
+    "Queue Date": "2025-02-21T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "S1108": {
+    "Queue ID": "S1108",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "LaGrange",
+    "State": "IN",
+    "Queue Date": "2025-07-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3916": {
+    "Queue ID": "J3916",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Saline",
     "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Queue Date": "2024-10-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3944": {
+    "Queue ID": "J3944",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Bureau",
+    "State": "IL",
+    "Queue Date": "2025-02-20T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6659,6 +6683,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3965": {
+    "Queue ID": "J3965",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 401.8,
+    "Status": "Withdrawn",
+    "County": "Christian",
+    "State": "IL",
+    "Queue Date": "2025-04-07T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3353": {
     "Queue ID": "J3353",
     "Project Name": null,
@@ -6683,18 +6719,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3916": {
-    "Queue ID": "J3916",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Saline",
-    "State": "IL",
-    "Queue Date": "2024-10-25T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3389": {
     "Queue ID": "J3389",
     "Project Name": null,
@@ -6704,30 +6728,6 @@
     "County": "Clay",
     "State": "IL",
     "Queue Date": "2024-03-27T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3944": {
-    "Queue ID": "J3944",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Bureau",
-    "State": "IL",
-    "Queue Date": "2025-02-20T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3965": {
-    "Queue ID": "J3965",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 401.8,
-    "Status": "Withdrawn",
-    "County": "Christian",
-    "State": "IL",
-    "Queue Date": "2025-04-07T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6815,27 +6815,39 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J1981": {
-    "Queue ID": "J1981",
+  "S1126": {
+    "Queue ID": "S1126",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 15.0,
-    "Status": "Withdrawn",
-    "County": "Gibson",
+    "Capacity (MW)": 50.0,
+    "Status": "Active",
+    "County": "Knox",
     "State": "IN",
-    "Queue Date": "2021-08-25T04:00:00+00:00",
+    "Queue Date": "2025-10-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "S1112": {
-    "Queue ID": "S1112",
+  "S1131": {
+    "Queue ID": "S1131",
     "Project Name": null,
     "Generation Type": "Battery Storage",
-    "Capacity (MW)": 130.0,
+    "Capacity (MW)": 200.0,
     "Status": "Active",
-    "County": "Pike",
+    "County": "Perry",
+    "State": "IL",
+    "Queue Date": "2025-11-11T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J1950": {
+    "Queue ID": "J1950",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 83.16,
+    "Status": "Withdrawn",
+    "County": "Gibson",
     "State": "IN",
-    "Queue Date": "2025-08-11T04:00:00+00:00",
+    "Queue Date": "2021-08-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -6887,6 +6899,54 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J1981": {
+    "Queue ID": "J1981",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 15.0,
+    "Status": "Withdrawn",
+    "County": "Gibson",
+    "State": "IN",
+    "Queue Date": "2021-08-25T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3688": {
+    "Queue ID": "J3688",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "White",
+    "State": "IN",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3687": {
+    "Queue ID": "J3687",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 113.0,
+    "Status": "Active",
+    "County": "Fayette",
+    "State": "IL",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "S1112": {
+    "Queue ID": "S1112",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 130.0,
+    "Status": "Active",
+    "County": "Pike",
+    "State": "IN",
+    "Queue Date": "2025-08-11T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3689": {
     "Queue ID": "J3689",
     "Project Name": null,
@@ -6935,54 +6995,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "S1126": {
-    "Queue ID": "S1126",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 50.0,
-    "Status": "Active",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2025-10-23T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "S1131": {
-    "Queue ID": "S1131",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 200.0,
-    "Status": "Active",
-    "County": "Perry",
-    "State": "IL",
-    "Queue Date": "2025-11-11T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J1950": {
-    "Queue ID": "J1950",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 83.16,
-    "Status": "Withdrawn",
-    "County": "Gibson",
-    "State": "IN",
-    "Queue Date": "2021-08-24T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3739": {
-    "Queue ID": "J3739",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
-    "Status": "Withdrawn",
-    "County": "Warren",
-    "State": "IL",
-    "Queue Date": "2024-04-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3677": {
     "Queue ID": "J3677",
     "Project Name": null,
@@ -7016,6 +7028,42 @@
     "County": "Decatur",
     "State": "IN",
     "Queue Date": "2021-08-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3678": {
+    "Queue ID": "J3678",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Vermillion",
+    "State": "IN",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3674": {
+    "Queue ID": "J3674",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Jasper",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3739": {
+    "Queue ID": "J3739",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Warren",
+    "State": "IL",
+    "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7055,54 +7103,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3688": {
-    "Queue ID": "J3688",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "White",
-    "State": "IN",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3687": {
-    "Queue ID": "J3687",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 113.0,
-    "Status": "Active",
-    "County": "Fayette",
-    "State": "IL",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3678": {
-    "Queue ID": "J3678",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Vermillion",
-    "State": "IN",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3674": {
-    "Queue ID": "J3674",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Jasper",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3679": {
     "Queue ID": "J3679",
     "Project Name": null,
@@ -7111,18 +7111,6 @@
     "Status": "Active",
     "County": "LaPorte",
     "State": "IN",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3565": {
-    "Queue ID": "J3565",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Champaign",
-    "State": "IL",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7187,6 +7175,54 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3565": {
+    "Queue ID": "J3565",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Champaign",
+    "State": "IL",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3495": {
+    "Queue ID": "J3495",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 220.0,
+    "Status": "Active",
+    "County": "Greene",
+    "State": "IN",
+    "Queue Date": "2024-04-15T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3321": {
+    "Queue ID": "J3321",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 200.0,
+    "Status": "Withdrawn",
+    "County": "Wayne",
+    "State": "IL",
+    "Queue Date": "2024-04-12T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3810": {
+    "Queue ID": "J3810",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Knox",
+    "State": "IN",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3347": {
     "Queue ID": "J3347",
     "Project Name": null,
@@ -7235,18 +7271,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3495": {
-    "Queue ID": "J3495",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 220.0,
-    "Status": "Active",
-    "County": "Greene",
-    "State": "IN",
-    "Queue Date": "2024-04-15T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3383": {
     "Queue ID": "J3383",
     "Project Name": null,
@@ -7271,27 +7295,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3321": {
-    "Queue ID": "J3321",
+  "J3430": {
+    "Queue ID": "J3430",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 200.0,
+    "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
-    "County": "Wayne",
+    "County": "Lawrence",
     "State": "IL",
-    "Queue Date": "2024-04-12T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3810": {
-    "Queue ID": "J3810",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Knox",
-    "State": "IN",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7304,18 +7316,6 @@
     "County": "Putnam",
     "State": "IN",
     "Queue Date": "2024-04-18T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3430": {
-    "Queue ID": "J3430",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Lawrence",
-    "State": "IL",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7343,30 +7343,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3424": {
-    "Queue ID": "J3424",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Posey",
-    "State": "IN",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3432": {
-    "Queue ID": "J3432",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 150.0,
-    "Status": "Withdrawn",
-    "County": "Lawrence",
-    "State": "IL",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3989": {
     "Queue ID": "J3989",
     "Project Name": null,
@@ -7388,6 +7364,30 @@
     "County": "Vigo",
     "State": "IN",
     "Queue Date": "2025-02-20T05:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3424": {
+    "Queue ID": "J3424",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Posey",
+    "State": "IN",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3432": {
+    "Queue ID": "J3432",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Withdrawn",
+    "County": "Lawrence",
+    "State": "IL",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7499,18 +7499,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3931": {
-    "Queue ID": "J3931",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 500.0,
-    "Status": "Active",
-    "County": "Jasper",
-    "State": "IN",
-    "Queue Date": "2025-02-07T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J4015": {
     "Queue ID": "J4015",
     "Project Name": null,
@@ -7535,15 +7523,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3517": {
-    "Queue ID": "J3517",
+  "J3931": {
+    "Queue ID": "J3931",
     "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 190.0,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 500.0,
     "Status": "Active",
-    "County": "Williamson",
-    "State": "IL",
-    "Queue Date": "2024-04-19T04:00:00+00:00",
+    "County": "Jasper",
+    "State": "IN",
+    "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7583,6 +7571,42 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3515": {
+    "Queue ID": "J3515",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 199.9,
+    "Status": "Active",
+    "County": "Sangamon",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3694": {
+    "Queue ID": "J3694",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "Withdrawn",
+    "County": "Vermillion",
+    "State": "IN",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3517": {
+    "Queue ID": "J3517",
+    "Project Name": null,
+    "Generation Type": "Battery Storage",
+    "Capacity (MW)": 190.0,
+    "Status": "Active",
+    "County": "Williamson",
+    "State": "IL",
+    "Queue Date": "2024-04-19T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J2206": {
     "Queue ID": "J2206",
     "Project Name": null,
@@ -7607,6 +7631,18 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
+  "J3770": {
+    "Queue ID": "J3770",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 45.8,
+    "Status": "Withdrawn",
+    "County": "Randolph",
+    "State": "IL",
+    "Queue Date": "2024-04-01T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
   "J3804": {
     "Queue ID": "J3804",
     "Project Name": null,
@@ -7614,6 +7650,30 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Putnam",
+    "State": "IN",
+    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3818": {
+    "Queue ID": "J3818",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 40.0,
+    "Status": "Active",
+    "County": "Shelby",
+    "State": "IL",
+    "Queue Date": "2024-06-07T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3767": {
+    "Queue ID": "J3767",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 38.0,
+    "Status": "Withdrawn",
+    "County": "Crawford",
     "State": "IN",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
@@ -7643,63 +7703,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3515": {
-    "Queue ID": "J3515",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 199.9,
-    "Status": "Active",
-    "County": "Sangamon",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3694": {
-    "Queue ID": "J3694",
-    "Project Name": null,
-    "Generation Type": "Battery Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "Withdrawn",
-    "County": "Vermillion",
-    "State": "IN",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3770": {
-    "Queue ID": "J3770",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 45.8,
-    "Status": "Withdrawn",
-    "County": "Randolph",
-    "State": "IL",
-    "Queue Date": "2024-04-01T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3818": {
-    "Queue ID": "J3818",
+  "J3740": {
+    "Queue ID": "J3740",
     "Project Name": null,
     "Generation Type": "Solar",
     "Capacity (MW)": 40.0,
-    "Status": "Active",
-    "County": "Shelby",
-    "State": "IL",
-    "Queue Date": "2024-06-07T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3767": {
-    "Queue ID": "J3767",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 38.0,
     "Status": "Withdrawn",
-    "County": "Crawford",
+    "County": "Putnam",
     "State": "IN",
-    "Queue Date": "2024-04-18T04:00:00+00:00",
+    "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7712,6 +7724,18 @@
     "County": "Decatur",
     "State": "IN",
     "Queue Date": "2021-08-16T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J3684": {
+    "Queue ID": "J3684",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Withdrawn",
+    "County": "Morgan",
+    "State": "IL",
+    "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7739,30 +7763,6 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J3684": {
-    "Queue ID": "J3684",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 100.0,
-    "Status": "Withdrawn",
-    "County": "Morgan",
-    "State": "IL",
-    "Queue Date": "2024-04-17T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J3740": {
-    "Queue ID": "J3740",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 40.0,
-    "Status": "Withdrawn",
-    "County": "Putnam",
-    "State": "IN",
-    "Queue Date": "2024-04-16T04:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
   "J3899": {
     "Queue ID": "J3899",
     "Project Name": null,
@@ -7772,18 +7772,6 @@
     "County": "Putnam",
     "State": "IL",
     "Queue Date": "2024-12-03T05:00:00+00:00",
-    "Proposed Completion Date": NaN,
-    "ISO": "MISO"
-  },
-  "J4041": {
-    "Queue ID": "J4041",
-    "Project Name": null,
-    "Generation Type": "Solar",
-    "Capacity (MW)": 220.0,
-    "Status": "Active",
-    "County": "Menard",
-    "State": "IL",
-    "Queue Date": "2025-06-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7799,15 +7787,15 @@
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
-  "J4033": {
-    "Queue ID": "J4033",
+  "J4041": {
+    "Queue ID": "J4041",
     "Project Name": null,
     "Generation Type": "Solar",
-    "Capacity (MW)": 156.8,
-    "Status": "Withdrawn",
-    "County": "Christian",
+    "Capacity (MW)": 220.0,
+    "Status": "Active",
+    "County": "Menard",
     "State": "IL",
-    "Queue Date": "2025-06-13T04:00:00+00:00",
+    "Queue Date": "2025-06-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
   },
@@ -7855,6 +7843,18 @@
     "Status": "Active",
     "County": "Montgomery",
     "State": "IN",
+    "Queue Date": "2025-06-13T04:00:00+00:00",
+    "Proposed Completion Date": NaN,
+    "ISO": "MISO"
+  },
+  "J4033": {
+    "Queue ID": "J4033",
+    "Project Name": null,
+    "Generation Type": "Solar",
+    "Capacity (MW)": 156.8,
+    "Status": "Withdrawn",
+    "County": "Christian",
+    "State": "IL",
     "Queue Date": "2025-06-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
