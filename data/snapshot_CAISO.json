@@ -167,6 +167,18 @@
     "Proposed Completion Date": "2027-12-11T08:00:00",
     "ISO": "CAISO"
   },
+  "356": {
+    "Queue ID": 356,
+    "Project Name": "CUYAMA SOLAR",
+    "Generation Type": "Photovoltaic + Storage",
+    "Capacity (MW)": 40.0,
+    "Status": "ACTIVE",
+    "County": "SAN LUIS OBISPO",
+    "State": "CA",
+    "Queue Date": "2008-04-28T07:00:00",
+    "Proposed Completion Date": "2028-02-20T08:00:00",
+    "ISO": "CAISO"
+  },
   "378": {
     "Queue ID": 378,
     "Project Name": "LOS ESTEROS CRITICAL ENERGY FACILITY EXPANSION",
@@ -2864,18 +2876,6 @@
     "County": "TULARE",
     "State": "CA",
     "Queue Date": "2008-04-22T07:00:00",
-    "Proposed Completion Date": "NaT",
-    "ISO": "CAISO"
-  },
-  "356": {
-    "Queue ID": 356,
-    "Project Name": "CUYAMA SOLAR",
-    "Generation Type": "Photovoltaic + Storage",
-    "Capacity (MW)": 40.0,
-    "Status": "COMPLETED",
-    "County": "SAN LUIS OBISPO",
-    "State": "CA",
-    "Queue Date": "2008-04-28T07:00:00",
     "Proposed Completion Date": "NaT",
     "ISO": "CAISO"
   },
