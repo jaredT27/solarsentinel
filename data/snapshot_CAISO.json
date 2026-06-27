@@ -1088,7 +1088,7 @@
     "County": "VENTURA",
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
-    "Proposed Completion Date": "2026-03-31T07:00:00",
+    "Proposed Completion Date": "2029-04-01T07:00:00",
     "ISO": "CAISO"
   },
   "1625": {
@@ -1400,7 +1400,7 @@
     "County": "LOS ANGELES",
     "State": "CA",
     "Queue Date": "2020-04-15T07:00:00",
-    "Proposed Completion Date": "2026-03-15T07:00:00",
+    "Proposed Completion Date": "2028-06-01T07:00:00",
     "ISO": "CAISO"
   },
   "1768": {
@@ -1833,18 +1833,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2025-12-18T08:00:00",
-    "ISO": "CAISO"
-  },
-  "1919": {
-    "Queue ID": 1919,
-    "Project Name": "SUNBEAM STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 65.0,
-    "Status": "ACTIVE",
-    "County": "SAN MATEO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2034-02-19T08:00:00",
     "ISO": "CAISO"
   },
   "1920": {
@@ -16101,6 +16089,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2031-03-03T08:00:00",
+    "ISO": "CAISO"
+  },
+  "1919": {
+    "Queue ID": 1919,
+    "Project Name": "SUNBEAM STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 65.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN MATEO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2034-02-19T08:00:00",
     "ISO": "CAISO"
   },
   "1923": {
