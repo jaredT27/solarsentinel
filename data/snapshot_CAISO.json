@@ -2087,18 +2087,6 @@
     "Proposed Completion Date": "2028-06-01T07:00:00",
     "ISO": "CAISO"
   },
-  "1977": {
-    "Queue ID": 1977,
-    "Project Name": "VALETUDO ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 75.0,
-    "Status": "ACTIVE",
-    "County": "MADERA",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2028-11-01T07:00:00",
-    "ISO": "CAISO"
-  },
   "1980": {
     "Queue ID": 1980,
     "Project Name": "ARTEMIS",
@@ -16509,6 +16497,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-09-30T07:00:00",
+    "ISO": "CAISO"
+  },
+  "1977": {
+    "Queue ID": 1977,
+    "Project Name": "VALETUDO ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 75.0,
+    "Status": "WITHDRAWN",
+    "County": "MADERA",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2028-11-01T07:00:00",
     "ISO": "CAISO"
   },
   "1978": {
