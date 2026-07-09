@@ -7432,7 +7432,7 @@
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 100.0,
-    "Status": "Pending Transfer",
+    "Status": "Active",
     "County": "Lake",
     "State": "IN",
     "Queue Date": "2025-07-03T04:00:00+00:00",
