@@ -524,7 +524,7 @@
     "County": "KINGS",
     "State": "CA",
     "Queue Date": "2016-05-02T07:00:00",
-    "Proposed Completion Date": "2026-06-30T07:00:00",
+    "Proposed Completion Date": "2027-01-20T08:00:00",
     "ISO": "CAISO"
   },
   "1243": {
@@ -1064,7 +1064,7 @@
     "County": "LOS ANGELES",
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
-    "Proposed Completion Date": "2026-06-01T07:00:00",
+    "Proposed Completion Date": "2028-06-01T07:00:00",
     "ISO": "CAISO"
   },
   "1615": {
@@ -1221,18 +1221,6 @@
     "State": "CA",
     "Queue Date": "2019-04-15T07:00:00",
     "Proposed Completion Date": "2027-01-18T08:00:00",
-    "ISO": "CAISO"
-  },
-  "1687": {
-    "Queue ID": 1687,
-    "Project Name": "CONAWAY HYBRID POWER PLANT",
-    "Generation Type": "Storage + Photovoltaic",
-    "Capacity (MW)": 80.0,
-    "Status": "ACTIVE",
-    "County": "YOLO",
-    "State": "CA",
-    "Queue Date": "2020-04-15T07:00:00",
-    "Proposed Completion Date": "2023-01-01T08:00:00",
     "ISO": "CAISO"
   },
   "1690": {
@@ -1665,18 +1653,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2029-08-17T07:00:00",
-    "ISO": "CAISO"
-  },
-  "1880": {
-    "Queue ID": 1880,
-    "Project Name": "PALMETTO ENERGY STORAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 75.0,
-    "Status": "ACTIVE",
-    "County": "ALAMEDA",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2030-07-22T07:00:00",
     "ISO": "CAISO"
   },
   "1881": {
@@ -2601,18 +2577,6 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2029-02-26T08:00:00",
-    "ISO": "CAISO"
-  },
-  "2157": {
-    "Queue ID": 2157,
-    "Project Name": "GNARLY OSAGE",
-    "Generation Type": "Storage",
-    "Capacity (MW)": 300.0,
-    "Status": "ACTIVE",
-    "County": "SAN DIEGO",
-    "State": "CA",
-    "Queue Date": "2021-04-15T07:00:00",
-    "Proposed Completion Date": "2027-08-07T07:00:00",
     "ISO": "CAISO"
   },
   "2166": {
@@ -14279,6 +14243,18 @@
     "Proposed Completion Date": "2023-12-31T08:00:00",
     "ISO": "CAISO"
   },
+  "1687": {
+    "Queue ID": 1687,
+    "Project Name": "CONAWAY HYBRID POWER PLANT",
+    "Generation Type": "Storage + Photovoltaic",
+    "Capacity (MW)": 80.0,
+    "Status": "WITHDRAWN",
+    "County": "YOLO",
+    "State": "CA",
+    "Queue Date": "2020-04-15T07:00:00",
+    "Proposed Completion Date": "2023-01-01T08:00:00",
+    "ISO": "CAISO"
+  },
   "1688": {
     "Queue ID": 1688,
     "Project Name": "CROSSROADS STORAGE",
@@ -15789,6 +15765,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2024-08-01T07:00:00",
+    "ISO": "CAISO"
+  },
+  "1880": {
+    "Queue ID": 1880,
+    "Project Name": "PALMETTO ENERGY STORAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 75.0,
+    "Status": "WITHDRAWN",
+    "County": "ALAMEDA",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2030-07-22T07:00:00",
     "ISO": "CAISO"
   },
   "1882": {
@@ -17793,6 +17781,18 @@
     "State": "CA",
     "Queue Date": "2021-04-15T07:00:00",
     "Proposed Completion Date": "2028-09-09T07:00:00",
+    "ISO": "CAISO"
+  },
+  "2157": {
+    "Queue ID": 2157,
+    "Project Name": "GNARLY OSAGE",
+    "Generation Type": "Storage",
+    "Capacity (MW)": 300.0,
+    "Status": "WITHDRAWN",
+    "County": "SAN DIEGO",
+    "State": "CA",
+    "Queue Date": "2021-04-15T07:00:00",
+    "Proposed Completion Date": "2027-08-07T07:00:00",
     "ISO": "CAISO"
   },
   "2158": {

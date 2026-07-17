@@ -7372,7 +7372,7 @@
     "Project Name": null,
     "Generation Type": "Battery Storage",
     "Capacity (MW)": 200.0,
-    "Status": "Active",
+    "Status": "Pending Transfer",
     "County": "Perry",
     "State": "IL",
     "Queue Date": "2025-04-22T04:00:00+00:00",
