@@ -8,7 +8,7 @@
     "County": "Castro",
     "State": "Texas",
     "Queue Date": "2014-06-19T00:00:00",
-    "Proposed Completion Date": "2027-08-05T00:00:00",
+    "Proposed Completion Date": "2027-08-31T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0002": {
@@ -20,19 +20,7 @@
     "County": "Upton",
     "State": "Texas",
     "Queue Date": "2016-05-24T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "19INR0026": {
-    "Queue ID": "19INR0026",
-    "Project Name": "Holstein 2 Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 100.7,
-    "Status": "Active",
-    "County": "Nolan",
-    "State": "Texas",
-    "Queue Date": "2016-12-21T00:00:00",
-    "Proposed Completion Date": "2028-04-03T00:00:00",
+    "Proposed Completion Date": "2026-11-25T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0035": {
@@ -56,19 +44,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2017-03-15T00:00:00",
-    "Proposed Completion Date": "2026-06-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "19INR0042": {
-    "Queue ID": "19INR0042",
-    "Project Name": "Long Point Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 120.7,
-    "Status": "Completed",
-    "County": "Brazoria",
-    "State": "Texas",
-    "Queue Date": "2017-03-15T00:00:00",
-    "Proposed Completion Date": "2026-04-07T00:00:00",
+    "Proposed Completion Date": "2027-06-21T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0075": {
@@ -80,7 +56,7 @@
     "County": "Brown",
     "State": "Texas",
     "Queue Date": "2017-06-23T00:00:00",
-    "Proposed Completion Date": "2027-02-20T00:00:00",
+    "Proposed Completion Date": "2028-02-20T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0085": {
@@ -116,7 +92,7 @@
     "County": "Angelina",
     "State": "Texas",
     "Queue Date": "2017-07-26T00:00:00",
-    "Proposed Completion Date": "2025-10-31T00:00:00",
+    "Proposed Completion Date": "2026-07-15T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0134": {
@@ -128,7 +104,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2017-09-22T00:00:00",
-    "Proposed Completion Date": "2026-05-29T00:00:00",
+    "Proposed Completion Date": "2026-08-29T00:00:00",
     "ISO": "ERCOT"
   },
   "19INR0189": {
@@ -152,7 +128,7 @@
     "County": "Haskell",
     "State": "Texas",
     "Queue Date": "2017-07-11T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0050": {
@@ -176,7 +152,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2018-04-12T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
+    "Proposed Completion Date": "2026-08-29T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0086": {
@@ -200,7 +176,7 @@
     "County": "Childress",
     "State": "Texas",
     "Queue Date": "2018-05-15T00:00:00",
-    "Proposed Completion Date": "2026-01-14T00:00:00",
+    "Proposed Completion Date": "2026-05-20T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0106": {
@@ -224,7 +200,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2018-07-03T00:00:00",
-    "Proposed Completion Date": "2027-10-01T00:00:00",
+    "Proposed Completion Date": "2028-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0143": {
@@ -260,7 +236,7 @@
     "County": "Hopkins",
     "State": "Texas",
     "Queue Date": "2018-10-04T00:00:00",
-    "Proposed Completion Date": "2026-04-01T00:00:00",
+    "Proposed Completion Date": "2026-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0205": {
@@ -296,7 +272,7 @@
     "County": "Jackson",
     "State": "Texas",
     "Queue Date": "2019-01-25T00:00:00",
-    "Proposed Completion Date": "2026-07-15T00:00:00",
+    "Proposed Completion Date": "2026-10-26T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0238": {
@@ -320,7 +296,7 @@
     "County": "Jones",
     "State": "Texas",
     "Queue Date": "2019-01-21T00:00:00",
-    "Proposed Completion Date": "2026-07-08T00:00:00",
+    "Proposed Completion Date": "2026-08-17T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0242": {
@@ -380,7 +356,7 @@
     "County": "Deaf Smith",
     "State": "Texas",
     "Queue Date": "2019-02-26T00:00:00",
-    "Proposed Completion Date": "2027-04-17T00:00:00",
+    "Proposed Completion Date": "2027-12-16T00:00:00",
     "ISO": "ERCOT"
   },
   "20INR0266": {
@@ -392,7 +368,7 @@
     "County": "Calhoun",
     "State": "Texas",
     "Queue Date": "2019-03-26T00:00:00",
-    "Proposed Completion Date": "2026-02-28T00:00:00",
+    "Proposed Completion Date": "2026-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0022": {
@@ -404,7 +380,7 @@
     "County": "Dawson",
     "State": "Texas",
     "Queue Date": "2018-07-11T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2029-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0029": {
@@ -500,7 +476,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2018-11-20T00:00:00",
-    "Proposed Completion Date": "2026-06-30T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0223": {
@@ -512,7 +488,7 @@
     "County": "Goliad",
     "State": "Texas",
     "Queue Date": "2018-12-05T00:00:00",
-    "Proposed Completion Date": "2026-05-30T00:00:00",
+    "Proposed Completion Date": "2026-09-15T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0247": {
@@ -567,7 +543,7 @@
     "Queue ID": "21INR0265",
     "Project Name": "Sisters Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 301.6,
+    "Capacity (MW)": 100.51,
     "Status": "Completed",
     "County": "Ector",
     "State": "Texas",
@@ -584,7 +560,7 @@
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2019-03-28T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
+    "Proposed Completion Date": "2026-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0280": {
@@ -603,24 +579,12 @@
     "Queue ID": "21INR0294",
     "Project Name": "Mountaineer Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 332.1,
+    "Capacity (MW)": 329.26,
     "Status": "Active",
     "County": "Brown",
     "State": "Texas",
     "Queue Date": "2019-04-16T00:00:00",
-    "Proposed Completion Date": "2028-11-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "21INR0326": {
-    "Queue ID": "21INR0326",
-    "Project Name": "Dove Run Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 120.86,
-    "Status": "Completed",
-    "County": "Duval",
-    "State": "Texas",
-    "Queue Date": "2019-05-07T00:00:00",
-    "Proposed Completion Date": "2027-10-15T00:00:00",
+    "Proposed Completion Date": "2029-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0334": {
@@ -659,18 +623,6 @@
     "Proposed Completion Date": "2026-12-08T00:00:00",
     "ISO": "ERCOT"
   },
-  "21INR0359": {
-    "Queue ID": "21INR0359",
-    "Project Name": "Hickerson Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 311.1,
-    "Status": "Completed",
-    "County": "Bosque",
-    "State": "Texas",
-    "Queue Date": "2019-05-29T00:00:00",
-    "Proposed Completion Date": "2026-04-30T00:00:00",
-    "ISO": "ERCOT"
-  },
   "21INR0362": {
     "Queue ID": "21INR0362",
     "Project Name": "Oystercatcher Solar",
@@ -680,19 +632,7 @@
     "County": "Ellis",
     "State": "Texas",
     "Queue Date": "2019-05-30T00:00:00",
-    "Proposed Completion Date": "2026-10-28T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "21INR0368": {
-    "Queue ID": "21INR0368",
-    "Project Name": "Eliza Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 151.7,
-    "Status": "Completed",
-    "County": "Kaufman",
-    "State": "Texas",
-    "Queue Date": "2019-06-21T00:00:00",
-    "Proposed Completion Date": "2025-12-18T00:00:00",
+    "Proposed Completion Date": "2026-12-28T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0371": {
@@ -700,7 +640,7 @@
     "Project Name": "Pecan Prairie South",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 132.98,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Leon",
     "State": "Texas",
     "Queue Date": "2019-08-16T00:00:00",
@@ -740,7 +680,7 @@
     "County": "Fort Bend",
     "State": "Texas",
     "Queue Date": "2019-08-01T00:00:00",
-    "Proposed Completion Date": "2026-02-28T00:00:00",
+    "Proposed Completion Date": "2026-08-31T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0413": {
@@ -776,7 +716,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2019-08-28T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2026-10-27T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0428": {
@@ -791,18 +731,6 @@
     "Proposed Completion Date": "2027-05-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "21INR0430": {
-    "Queue ID": "21INR0430",
-    "Project Name": "Holstein 2 Energy Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 102.42,
-    "Status": "Active",
-    "County": "Nolan",
-    "State": "Texas",
-    "Queue Date": "2019-08-26T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "21INR0444": {
     "Queue ID": "21INR0444",
     "Project Name": "Long Point Storage",
@@ -812,7 +740,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2019-11-01T00:00:00",
-    "Proposed Completion Date": "2026-12-30T00:00:00",
+    "Proposed Completion Date": "2027-12-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0455": {
@@ -884,7 +812,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2020-01-13T00:00:00",
-    "Proposed Completion Date": "2026-05-30T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0491": {
@@ -896,7 +824,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2020-01-13T00:00:00",
-    "Proposed Completion Date": "2026-06-30T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0492": {
@@ -908,19 +836,19 @@
     "County": "Tarrant",
     "State": "Texas",
     "Queue Date": "2020-01-13T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-14T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0505": {
     "Queue ID": "21INR0505",
     "Project Name": "Ramsey Storage ",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 201.1,
+    "Capacity (MW)": 500.0,
     "Status": "Completed",
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2020-05-20T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "Proposed Completion Date": "2028-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "21INR0509": {
@@ -939,7 +867,7 @@
     "Queue ID": "21INR0520",
     "Project Name": "Yellow Viking Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 170.86,
+    "Capacity (MW)": 171.13,
     "Status": "Completed",
     "County": "Somervell",
     "State": "Texas",
@@ -968,7 +896,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2018-11-20T00:00:00",
-    "Proposed Completion Date": "2026-05-30T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0203": {
@@ -980,7 +908,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2018-11-20T00:00:00",
-    "Proposed Completion Date": "2026-05-30T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0205": {
@@ -992,7 +920,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2019-01-03T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
+    "Proposed Completion Date": "2026-07-31T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0209": {
@@ -1023,12 +951,12 @@
     "Queue ID": "22INR0218",
     "Project Name": "Velociraptor Solar I",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 251.67,
+    "Capacity (MW)": 241.67,
     "Status": "Active",
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2019-05-14T00:00:00",
-    "Proposed Completion Date": "2028-11-17T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0220": {
@@ -1103,18 +1031,6 @@
     "Proposed Completion Date": "2028-06-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "22INR0261": {
-    "Queue ID": "22INR0261",
-    "Project Name": "Dorado Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 401.35,
-    "Status": "Completed",
-    "County": "Callahan",
-    "State": "Texas",
-    "Queue Date": "2020-01-09T00:00:00",
-    "Proposed Completion Date": "2026-02-16T00:00:00",
-    "ISO": "ERCOT"
-  },
   "22INR0262": {
     "Queue ID": "22INR0262",
     "Project Name": "Sequoia II Solar",
@@ -1148,7 +1064,7 @@
     "County": "Jones",
     "State": "Texas",
     "Queue Date": "2020-03-26T00:00:00",
-    "Proposed Completion Date": "2026-05-29T00:00:00",
+    "Proposed Completion Date": "2026-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0279": {
@@ -1239,12 +1155,12 @@
     "Queue ID": "22INR0347",
     "Project Name": "Crater BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 301.5,
+    "Capacity (MW)": 310.28,
     "Status": "Active",
     "County": "Howard",
     "State": "Texas",
     "Queue Date": "2020-05-20T00:00:00",
-    "Proposed Completion Date": "2028-03-01T00:00:00",
+    "Proposed Completion Date": "2029-05-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0350": {
@@ -1287,12 +1203,12 @@
     "Queue ID": "22INR0365",
     "Project Name": "Mensa BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 307.43,
+    "Capacity (MW)": 308.98,
     "Status": "Active",
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2020-06-26T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2028-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0374": {
@@ -1367,18 +1283,6 @@
     "Proposed Completion Date": "2029-03-30T00:00:00",
     "ISO": "ERCOT"
   },
-  "22INR0390": {
-    "Queue ID": "22INR0390",
-    "Project Name": "BRP Perseus BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 202.5,
-    "Status": "Active",
-    "County": "Nueces",
-    "State": "Texas",
-    "Queue Date": "2020-08-21T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "22INR0392": {
     "Queue ID": "22INR0392",
     "Project Name": "Kalina Solar",
@@ -1400,7 +1304,7 @@
     "County": "Comanche",
     "State": "Texas",
     "Queue Date": "2020-08-21T00:00:00",
-    "Proposed Completion Date": "2026-02-28T00:00:00",
+    "Proposed Completion Date": "2030-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0401": {
@@ -1412,7 +1316,7 @@
     "County": "Cameron",
     "State": "Texas",
     "Queue Date": "2020-10-23T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2029-04-30T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0402": {
@@ -1425,18 +1329,6 @@
     "State": "Texas",
     "Queue Date": "2020-09-02T00:00:00",
     "Proposed Completion Date": "2028-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "22INR0422": {
-    "Queue ID": "22INR0422",
-    "Project Name": "Ferdinand Grid BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.5,
-    "Status": "Completed",
-    "County": "Bexar",
-    "State": "Texas",
-    "Queue Date": "2021-03-01T00:00:00",
-    "Proposed Completion Date": "2026-05-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0423": {
@@ -1511,18 +1403,6 @@
     "Proposed Completion Date": "2028-09-18T00:00:00",
     "ISO": "ERCOT"
   },
-  "22INR0445": {
-    "Queue ID": "22INR0445",
-    "Project Name": "SPC Bloom BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.0,
-    "Status": "Active",
-    "County": "Victoria",
-    "State": "Texas",
-    "Queue Date": "2020-12-03T00:00:00",
-    "Proposed Completion Date": "2027-04-07T00:00:00",
-    "ISO": "ERCOT"
-  },
   "22INR0454": {
     "Queue ID": "22INR0454",
     "Project Name": "Wallace Solar",
@@ -1544,7 +1424,7 @@
     "County": "Crockett",
     "State": "Texas",
     "Queue Date": "2020-12-03T00:00:00",
-    "Proposed Completion Date": "2027-04-23T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0457": {
@@ -1569,18 +1449,6 @@
     "State": "Texas",
     "Queue Date": "2020-12-03T00:00:00",
     "Proposed Completion Date": "2028-06-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "22INR0466": {
-    "Queue ID": "22INR0466",
-    "Project Name": "Pajarita BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.5,
-    "Status": "Completed",
-    "County": "Cameron",
-    "State": "Texas",
-    "Queue Date": "2021-01-25T00:00:00",
-    "Proposed Completion Date": "2028-07-19T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0467": {
@@ -1640,7 +1508,7 @@
     "County": "Robertson",
     "State": "Texas",
     "Queue Date": "2021-03-16T00:00:00",
-    "Proposed Completion Date": "2026-07-01T00:00:00",
+    "Proposed Completion Date": "2026-08-04T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0504": {
@@ -1667,18 +1535,6 @@
     "Proposed Completion Date": "2025-11-29T00:00:00",
     "ISO": "ERCOT"
   },
-  "22INR0526": {
-    "Queue ID": "22INR0526",
-    "Project Name": "Pine Forest BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.74,
-    "Status": "Completed",
-    "County": "Hopkins",
-    "State": "Texas",
-    "Queue Date": "2021-05-04T00:00:00",
-    "Proposed Completion Date": "2026-02-27T00:00:00",
-    "ISO": "ERCOT"
-  },
   "22INR0541": {
     "Queue ID": "22INR0541",
     "Project Name": "ALWEST BESS",
@@ -1695,24 +1551,12 @@
     "Queue ID": "22INR0552",
     "Project Name": "Sowers Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 203.9,
+    "Capacity (MW)": 208.89,
     "Status": "Completed",
     "County": "Kaufman",
     "State": "Texas",
     "Queue Date": "2021-08-18T00:00:00",
     "Proposed Completion Date": "2027-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "22INR0555": {
-    "Queue ID": "22INR0555",
-    "Project Name": "TE Smith Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.36,
-    "Status": "Completed",
-    "County": "Rockwall",
-    "State": "Texas",
-    "Queue Date": "2021-09-02T00:00:00",
-    "Proposed Completion Date": "2026-01-15T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0558": {
@@ -1724,7 +1568,7 @@
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2021-10-07T00:00:00",
-    "Proposed Completion Date": "2026-07-20T00:00:00",
+    "Proposed Completion Date": "2026-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0559": {
@@ -1736,7 +1580,7 @@
     "County": "Bee",
     "State": "Texas",
     "Queue Date": "2021-11-16T00:00:00",
-    "Proposed Completion Date": "2026-07-09T00:00:00",
+    "Proposed Completion Date": "2026-10-20T00:00:00",
     "ISO": "ERCOT"
   },
   "22INR0605": {
@@ -1748,7 +1592,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2027-02-18T00:00:00",
+    "Proposed Completion Date": "2027-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0006": {
@@ -1808,14 +1652,14 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2020-03-26T00:00:00",
-    "Proposed Completion Date": "2026-05-31T00:00:00",
+    "Proposed Completion Date": "2026-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0027": {
     "Queue ID": "23INR0027",
     "Project Name": "Cachena Solar SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 601.31,
+    "Capacity (MW)": 602.02,
     "Status": "Completed",
     "County": "Wilson",
     "State": "Texas",
@@ -1833,18 +1677,6 @@
     "State": "Texas",
     "Queue Date": "2020-04-22T00:00:00",
     "Proposed Completion Date": "2026-06-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0035": {
-    "Queue ID": "23INR0035",
-    "Project Name": "Starling Solar ",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 144.0,
-    "Status": "Completed",
-    "County": "Gonzales",
-    "State": "Texas",
-    "Queue Date": "2020-06-26T00:00:00",
-    "Proposed Completion Date": "2028-01-28T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0040": {
@@ -1880,7 +1712,7 @@
     "County": "Refugio",
     "State": "Texas",
     "Queue Date": "2020-06-19T00:00:00",
-    "Proposed Completion Date": "2026-08-31T00:00:00",
+    "Proposed Completion Date": "2026-09-18T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0054": {
@@ -1892,7 +1724,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2020-07-10T00:00:00",
-    "Proposed Completion Date": "2026-03-15T00:00:00",
+    "Proposed Completion Date": "2026-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0055": {
@@ -1916,7 +1748,7 @@
     "County": "Deaf Smith",
     "State": "Texas",
     "Queue Date": "2020-07-24T00:00:00",
-    "Proposed Completion Date": "2027-10-15T00:00:00",
+    "Proposed Completion Date": "2027-10-26T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0057": {
@@ -1940,7 +1772,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2020-07-24T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0059": {
@@ -1964,7 +1796,7 @@
     "County": "Nueces",
     "State": "Texas",
     "Queue Date": "2020-08-04T00:00:00",
-    "Proposed Completion Date": "2027-10-01T00:00:00",
+    "Proposed Completion Date": "2028-04-21T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0066": {
@@ -1988,7 +1820,7 @@
     "County": "Bell",
     "State": "Texas",
     "Queue Date": "2020-08-04T00:00:00",
-    "Proposed Completion Date": "2026-05-29T00:00:00",
+    "Proposed Completion Date": "2026-08-31T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0071": {
@@ -2036,7 +1868,7 @@
     "County": "Bandera",
     "State": "Texas",
     "Queue Date": "2020-10-23T00:00:00",
-    "Proposed Completion Date": "2026-04-29T00:00:00",
+    "Proposed Completion Date": "2026-10-16T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0080": {
@@ -2049,18 +1881,6 @@
     "State": "Texas",
     "Queue Date": "2020-09-11T00:00:00",
     "Proposed Completion Date": "2027-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0084": {
-    "Queue ID": "23INR0084",
-    "Project Name": "Lavaca Bay Solar ",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 243.46,
-    "Status": "Completed",
-    "County": "Matagorda",
-    "State": "Texas",
-    "Queue Date": "2020-09-11T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0086": {
@@ -2084,7 +1904,7 @@
     "County": "Brooks",
     "State": "Texas",
     "Queue Date": "2020-12-22T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0088": {
@@ -2103,7 +1923,7 @@
     "Queue ID": "23INR0089",
     "Project Name": "Donegal Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 201.68,
+    "Capacity (MW)": 201.57,
     "Status": "Completed",
     "County": "Dickens",
     "State": "Texas",
@@ -2120,7 +1940,7 @@
     "County": "Victoria",
     "State": "Texas",
     "Queue Date": "2020-10-07T00:00:00",
-    "Proposed Completion Date": "2027-09-01T00:00:00",
+    "Proposed Completion Date": "2029-02-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0091": {
@@ -2132,19 +1952,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2021-02-09T00:00:00",
-    "Proposed Completion Date": "2026-09-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0093": {
-    "Queue ID": "23INR0093",
-    "Project Name": "Alila Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 256.5,
-    "Status": "Completed",
-    "County": "San Patricio",
-    "State": "Texas",
-    "Queue Date": "2020-10-07T00:00:00",
-    "Proposed Completion Date": "2028-04-20T00:00:00",
+    "Proposed Completion Date": "2028-01-15T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0094": {
@@ -2180,7 +1988,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2020-10-23T00:00:00",
-    "Proposed Completion Date": "2026-02-16T00:00:00",
+    "Proposed Completion Date": "2026-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0116": {
@@ -2193,18 +2001,6 @@
     "State": "Texas",
     "Queue Date": "2020-12-22T00:00:00",
     "Proposed Completion Date": "2028-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0118": {
-    "Queue ID": "23INR0118",
-    "Project Name": "Blevins Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 271.58,
-    "Status": "Completed",
-    "County": "Falls",
-    "State": "Texas",
-    "Queue Date": "2021-02-04T00:00:00",
-    "Proposed Completion Date": "2026-03-06T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0123": {
@@ -2257,9 +2053,9 @@
   },
   "23INR0137": {
     "Queue ID": "23INR0137",
-    "Project Name": "BRP Diran BESS",
+    "Project Name": "Diran BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.63,
+    "Capacity (MW)": 103.0,
     "Status": "Completed",
     "County": "Wharton",
     "State": "Texas",
@@ -2267,28 +2063,16 @@
     "Proposed Completion Date": "2028-01-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "23INR0139": {
-    "Queue ID": "23INR0139",
-    "Project Name": "BRP Passu BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 301.82,
-    "Status": "Active",
-    "County": "Wilbarger",
-    "State": "Texas",
-    "Queue Date": "2020-12-03T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
-    "ISO": "ERCOT"
-  },
   "23INR0140": {
     "Queue ID": "23INR0140",
     "Project Name": "Seine BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 301.19,
+    "Capacity (MW)": 308.88,
     "Status": "Completed",
     "County": "Foard",
     "State": "Texas",
     "Queue Date": "2020-12-03T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2027-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0143": {
@@ -2312,7 +2096,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2021-02-04T00:00:00",
-    "Proposed Completion Date": "2027-02-22T00:00:00",
+    "Proposed Completion Date": "2027-09-17T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0163": {
@@ -2396,19 +2180,7 @@
     "County": "Webb",
     "State": "Texas",
     "Queue Date": "2021-01-25T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0187": {
-    "Queue ID": "23INR0187",
-    "Project Name": "Leitrim 1 Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 98.44,
-    "Status": "Active",
-    "County": "Hill",
-    "State": "Texas",
-    "Queue Date": "2021-01-26T00:00:00",
-    "Proposed Completion Date": "2027-04-26T00:00:00",
+    "Proposed Completion Date": "2029-06-23T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0194": {
@@ -2505,18 +2277,6 @@
     "State": "Texas",
     "Queue Date": "2021-03-01T00:00:00",
     "Proposed Completion Date": "2028-03-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0211": {
-    "Queue ID": "23INR0211",
-    "Project Name": "Rosscommon Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 91.0,
-    "Status": "Active",
-    "County": "Lamar",
-    "State": "Texas",
-    "Queue Date": "2021-03-01T00:00:00",
-    "Proposed Completion Date": "2027-04-19T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0214": {
@@ -2624,24 +2384,24 @@
     "County": "Hopkins",
     "State": "Texas",
     "Queue Date": "2021-03-19T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2027-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0231": {
     "Queue ID": "23INR0231",
-    "Project Name": "Rocinante Solar",
+    "Project Name": "Hoke Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 95.29,
     "Status": "Completed",
     "County": "Gonzales",
     "State": "Texas",
     "Queue Date": "2021-04-22T00:00:00",
-    "Proposed Completion Date": "2027-03-16T00:00:00",
+    "Proposed Completion Date": "2027-05-08T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0232": {
     "Queue ID": "23INR0232",
-    "Project Name": "Rocinante BESS",
+    "Project Name": "Hoke Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 33.17,
     "Status": "Completed",
@@ -2723,30 +2483,6 @@
     "Proposed Completion Date": "2026-03-02T00:00:00",
     "ISO": "ERCOT"
   },
-  "23INR0261": {
-    "Queue ID": "23INR0261",
-    "Project Name": "Dodd Solar I",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 201.8,
-    "Status": "Completed",
-    "County": "Henderson",
-    "State": "Texas",
-    "Queue Date": "2021-06-24T00:00:00",
-    "Proposed Completion Date": "2028-06-05T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0272": {
-    "Queue ID": "23INR0272",
-    "Project Name": "BRP Aras BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 303.59,
-    "Status": "Active",
-    "County": "Upton",
-    "State": "Texas",
-    "Queue Date": "2021-05-31T00:00:00",
-    "Proposed Completion Date": "2028-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "23INR0273": {
     "Queue ID": "23INR0273",
     "Project Name": "Poco Trail Solar",
@@ -2756,19 +2492,7 @@
     "County": "Wilbarger",
     "State": "Texas",
     "Queue Date": "2021-09-14T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0275": {
-    "Queue ID": "23INR0275",
-    "Project Name": "BRP Nile BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 202.34,
-    "Status": "Active",
-    "County": "Webb",
-    "State": "Texas",
-    "Queue Date": "2021-05-31T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2029-04-30T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0278": {
@@ -2835,12 +2559,12 @@
     "Queue ID": "23INR0289",
     "Project Name": "Skull Creek Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 137.26,
+    "Capacity (MW)": 136.98,
     "Status": "Completed",
     "County": "Anderson",
     "State": "Texas",
     "Queue Date": "2021-05-28T00:00:00",
-    "Proposed Completion Date": "2027-05-16T00:00:00",
+    "Proposed Completion Date": "2027-07-30T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0290": {
@@ -2853,18 +2577,6 @@
     "State": "Texas",
     "Queue Date": "2021-05-31T00:00:00",
     "Proposed Completion Date": "2027-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0296": {
-    "Queue ID": "23INR0296",
-    "Project Name": "Trojan Solar SLF",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 150.59,
-    "Status": "Completed",
-    "County": "Cooke",
-    "State": "Texas",
-    "Queue Date": "2021-07-01T00:00:00",
-    "Proposed Completion Date": "2026-05-05T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0300": {
@@ -2975,28 +2687,16 @@
     "Proposed Completion Date": "2027-10-27T00:00:00",
     "ISO": "ERCOT"
   },
-  "23INR0340": {
-    "Queue ID": "23INR0340",
-    "Project Name": "Larkspur Energy Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 307.46,
-    "Status": "Completed",
-    "County": "Upton",
-    "State": "Texas",
-    "Queue Date": "2021-08-02T00:00:00",
-    "Proposed Completion Date": "2027-05-05T00:00:00",
-    "ISO": "ERCOT"
-  },
   "23INR0342": {
     "Queue ID": "23INR0342",
     "Project Name": "Brizo BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 140.76,
+    "Capacity (MW)": 144.22,
     "Status": "Completed",
     "County": "Victoria",
     "State": "Texas",
     "Queue Date": "2021-10-05T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2027-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0344": {
@@ -3008,7 +2708,7 @@
     "County": "Bell",
     "State": "Texas",
     "Queue Date": "2021-09-21T00:00:00",
-    "Proposed Completion Date": "2026-04-17T00:00:00",
+    "Proposed Completion Date": "2026-06-12T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0349": {
@@ -3032,19 +2732,7 @@
     "County": "Starr",
     "State": "Texas",
     "Queue Date": "2021-09-01T00:00:00",
-    "Proposed Completion Date": "2027-06-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0358": {
-    "Queue ID": "23INR0358",
-    "Project Name": "Castor BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.39,
-    "Status": "Completed",
-    "County": "Brazoria",
-    "State": "Texas",
-    "Queue Date": "2021-10-04T00:00:00",
-    "Proposed Completion Date": "2026-05-22T00:00:00",
+    "Proposed Completion Date": "2028-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0359": {
@@ -3080,7 +2768,7 @@
     "County": "Limestone",
     "State": "Texas",
     "Queue Date": "2021-08-19T00:00:00",
-    "Proposed Completion Date": "2027-03-15T00:00:00",
+    "Proposed Completion Date": "2028-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0368": {
@@ -3104,19 +2792,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2021-09-09T00:00:00",
-    "Proposed Completion Date": "2026-01-16T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0381": {
-    "Queue ID": "23INR0381",
-    "Project Name": "Bexar ESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 102.6,
-    "Status": "Completed",
-    "County": "Bexar",
-    "State": "Texas",
-    "Queue Date": "2021-09-21T00:00:00",
-    "Proposed Completion Date": "2026-02-10T00:00:00",
+    "Proposed Completion Date": "2028-01-15T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0382": {
@@ -3131,30 +2807,6 @@
     "Proposed Completion Date": "2027-12-06T00:00:00",
     "ISO": "ERCOT"
   },
-  "23INR0385": {
-    "Queue ID": "23INR0385",
-    "Project Name": "Camp Creek Solar SLF",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 110.0,
-    "Status": "Completed",
-    "County": "Robertson",
-    "State": "Texas",
-    "Queue Date": "2021-12-24T00:00:00",
-    "Proposed Completion Date": "2028-09-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0391": {
-    "Queue ID": "23INR0391",
-    "Project Name": "THUNDER ROAD ENERGY STORAGE",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 153.4,
-    "Status": "Active",
-    "County": "Dallas",
-    "State": "Texas",
-    "Queue Date": "2021-10-22T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
-    "ISO": "ERCOT"
-  },
   "23INR0401": {
     "Queue ID": "23INR0401",
     "Project Name": "Headcamp Energy Storage Plant",
@@ -3164,7 +2816,7 @@
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2021-12-03T00:00:00",
-    "Proposed Completion Date": "2025-11-26T00:00:00",
+    "Proposed Completion Date": "2026-07-13T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0409": {
@@ -3195,8 +2847,8 @@
     "Queue ID": "23INR0421",
     "Project Name": "Bee Branch IA",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.53,
-    "Status": "Active",
+    "Capacity (MW)": 203.75,
+    "Status": "Completed",
     "County": "Robertson",
     "State": "Texas",
     "Queue Date": "2021-11-15T00:00:00",
@@ -3213,18 +2865,6 @@
     "State": "Texas",
     "Queue Date": "2021-12-20T00:00:00",
     "Proposed Completion Date": "2027-06-11T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "23INR0431": {
-    "Queue ID": "23INR0431",
-    "Project Name": "BRP Pollux BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 163.42,
-    "Status": "Active",
-    "County": "Bosque",
-    "State": "Texas",
-    "Queue Date": "2022-01-06T00:00:00",
-    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0439": {
@@ -3248,7 +2888,7 @@
     "County": "Starr",
     "State": "Texas",
     "Queue Date": "2022-02-21T00:00:00",
-    "Proposed Completion Date": "2028-12-01T00:00:00",
+    "Proposed Completion Date": "2029-09-28T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0456": {
@@ -3267,7 +2907,7 @@
     "Queue ID": "23INR0462",
     "Project Name": "Palladium Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 152.0,
+    "Capacity (MW)": 156.33,
     "Status": "Active",
     "County": "Hidalgo",
     "State": "Texas",
@@ -3332,7 +2972,7 @@
     "County": "Bell",
     "State": "Texas",
     "Queue Date": "2022-04-18T00:00:00",
-    "Proposed Completion Date": "2027-11-10T00:00:00",
+    "Proposed Completion Date": "2028-12-15T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0471": {
@@ -3351,7 +2991,7 @@
     "Queue ID": "23INR0473",
     "Project Name": "Sepanta Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 217.26,
+    "Capacity (MW)": 218.0,
     "Status": "Active",
     "County": "Nolan",
     "State": "Texas",
@@ -3376,11 +3016,11 @@
     "Project Name": "Rhoda Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 141.23,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2022-04-18T00:00:00",
-    "Proposed Completion Date": "2028-04-07T00:00:00",
+    "Proposed Completion Date": "2028-08-01T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0479": {
@@ -3411,7 +3051,7 @@
     "Queue ID": "23INR0485",
     "Project Name": "Hacienda Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 201.9,
+    "Capacity (MW)": 205.8,
     "Status": "Active",
     "County": "Galveston",
     "State": "Texas",
@@ -3488,7 +3128,7 @@
     "County": "Crane",
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2026-02-27T00:00:00",
+    "Proposed Completion Date": "2026-07-08T00:00:00",
     "ISO": "ERCOT"
   },
   "23INR0502": {
@@ -3551,18 +3191,6 @@
     "Proposed Completion Date": "2029-06-05T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0010": {
-    "Queue ID": "24INR0010",
-    "Project Name": "Pinnington Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 653.7,
-    "Status": "Completed",
-    "County": "Jack",
-    "State": "Texas",
-    "Queue Date": "2020-12-03T00:00:00",
-    "Proposed Completion Date": "2026-04-30T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0011": {
     "Queue ID": "24INR0011",
     "Project Name": "Pinnington Storage",
@@ -3596,7 +3224,7 @@
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2021-03-16T00:00:00",
-    "Proposed Completion Date": "2026-02-27T00:00:00",
+    "Proposed Completion Date": "2026-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0031": {
@@ -3608,7 +3236,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2021-10-08T00:00:00",
-    "Proposed Completion Date": "2026-04-01T00:00:00",
+    "Proposed Completion Date": "2026-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0038": {
@@ -3656,7 +3284,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2021-03-30T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2026-11-18T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0044": {
@@ -3668,19 +3296,7 @@
     "County": "Haskell",
     "State": "Texas",
     "Queue Date": "2021-11-04T00:00:00",
-    "Proposed Completion Date": "2026-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0056": {
-    "Queue ID": "24INR0056",
-    "Project Name": "Pradera Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 118.0,
-    "Status": "Active",
-    "County": "Webb",
-    "State": "Texas",
-    "Queue Date": "2021-07-08T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
+    "Proposed Completion Date": "2026-06-26T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0058": {
@@ -3711,7 +3327,7 @@
     "Queue ID": "24INR0065",
     "Project Name": "Keys Hollow Solar Phase II SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 200.8,
+    "Capacity (MW)": 200.85,
     "Status": "Completed",
     "County": "Goliad",
     "State": "Texas",
@@ -3723,7 +3339,7 @@
     "Queue ID": "24INR0067",
     "Project Name": "KEYS HOLLOW SOLAR SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 200.8,
+    "Capacity (MW)": 200.85,
     "Status": "Completed",
     "County": "Goliad",
     "State": "Texas",
@@ -3740,7 +3356,7 @@
     "County": "Lampasas",
     "State": "Texas",
     "Queue Date": "2021-06-10T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0070": {
@@ -3776,7 +3392,7 @@
     "County": "Johnson",
     "State": "Texas",
     "Queue Date": "2021-11-10T00:00:00",
-    "Proposed Completion Date": "2028-06-27T00:00:00",
+    "Proposed Completion Date": "2028-12-15T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0077": {
@@ -3812,7 +3428,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2021-07-14T00:00:00",
-    "Proposed Completion Date": "2028-12-01T00:00:00",
+    "Proposed Completion Date": "2029-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0087": {
@@ -3824,7 +3440,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2021-07-14T00:00:00",
-    "Proposed Completion Date": "2028-12-01T00:00:00",
+    "Proposed Completion Date": "2029-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0094": {
@@ -3836,7 +3452,7 @@
     "County": "Jack",
     "State": "Texas",
     "Queue Date": "2021-09-21T00:00:00",
-    "Proposed Completion Date": "2027-04-15T00:00:00",
+    "Proposed Completion Date": "2028-04-12T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0095": {
@@ -3872,7 +3488,7 @@
     "County": "Jack",
     "State": "Texas",
     "Queue Date": "2021-09-28T00:00:00",
-    "Proposed Completion Date": "2027-04-15T00:00:00",
+    "Proposed Completion Date": "2028-04-12T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0099": {
@@ -3885,18 +3501,6 @@
     "State": "Texas",
     "Queue Date": "2021-07-27T00:00:00",
     "Proposed Completion Date": "2029-06-07T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0101": {
-    "Queue ID": "24INR0101",
-    "Project Name": "Lampe Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 60.24,
-    "Status": "Active",
-    "County": "Washington",
-    "State": "Texas",
-    "Queue Date": "2021-08-03T00:00:00",
-    "Proposed Completion Date": "2027-12-26T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0102": {
@@ -3947,30 +3551,6 @@
     "Proposed Completion Date": "2029-03-12T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0109": {
-    "Queue ID": "24INR0109",
-    "Project Name": "Oriana BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 60.3,
-    "Status": "Completed",
-    "County": "Victoria",
-    "State": "Texas",
-    "Queue Date": "2021-08-25T00:00:00",
-    "Proposed Completion Date": "2028-10-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0110": {
-    "Queue ID": "24INR0110",
-    "Project Name": "Kildare",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 70.0,
-    "Status": "Active",
-    "County": "Jackson",
-    "State": "Texas",
-    "Queue Date": "2022-01-28T00:00:00",
-    "Proposed Completion Date": "2026-09-30T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0115": {
     "Queue ID": "24INR0115",
     "Project Name": "Aster Solar",
@@ -4000,7 +3580,7 @@
     "Project Name": "Possum Kingdom Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 262.22,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Jack",
     "State": "Texas",
     "Queue Date": "2021-09-13T00:00:00",
@@ -4091,30 +3671,6 @@
     "Proposed Completion Date": "2027-10-15T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0128": {
-    "Queue ID": "24INR0128",
-    "Project Name": "Desna BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.46,
-    "Status": "Completed",
-    "County": "Brazoria",
-    "State": "Texas",
-    "Queue Date": "2021-12-15T00:00:00",
-    "Proposed Completion Date": "2026-05-06T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0130": {
-    "Queue ID": "24INR0130",
-    "Project Name": "BRP Artemis BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 411.32,
-    "Status": "Active",
-    "County": "Grimes",
-    "State": "Texas",
-    "Queue Date": "2021-12-20T00:00:00",
-    "Proposed Completion Date": "2028-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0131": {
     "Queue ID": "24INR0131",
     "Project Name": "Zelus BESS",
@@ -4155,7 +3711,7 @@
     "Queue ID": "24INR0136",
     "Project Name": "Eagle Springs Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 33.14,
+    "Capacity (MW)": 33.94,
     "Status": "Completed",
     "County": "Delta",
     "State": "Texas",
@@ -4323,7 +3879,7 @@
     "Queue ID": "24INR0161",
     "Project Name": "Miranda Solar Project",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 261.42,
+    "Capacity (MW)": 202.0,
     "Status": "Completed",
     "County": "McMullen",
     "State": "Texas",
@@ -4391,30 +3947,6 @@
     "Proposed Completion Date": "2028-01-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0180": {
-    "Queue ID": "24INR0180",
-    "Project Name": "Frio Farm",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 106.5,
-    "Status": "Active",
-    "County": "Frio",
-    "State": "Texas",
-    "Queue Date": "2021-12-20T00:00:00",
-    "Proposed Completion Date": "2026-06-25T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0181": {
-    "Queue ID": "24INR0181",
-    "Project Name": "Bynum Solar Project",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 56.0,
-    "Status": "Completed",
-    "County": "Coryell",
-    "State": "Texas",
-    "Queue Date": "2021-12-18T00:00:00",
-    "Proposed Completion Date": "2026-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0182": {
     "Queue ID": "24INR0182",
     "Project Name": "DeSpain Solar Project",
@@ -4424,7 +3956,7 @@
     "County": "Kinney",
     "State": "Texas",
     "Queue Date": "2021-12-05T00:00:00",
-    "Proposed Completion Date": "2027-12-15T00:00:00",
+    "Proposed Completion Date": "2028-06-11T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0184": {
@@ -4451,18 +3983,6 @@
     "Proposed Completion Date": "2027-12-29T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0187": {
-    "Queue ID": "24INR0187",
-    "Project Name": " Rowdy Creek BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 175.89,
-    "Status": "Completed",
-    "County": "Lamar",
-    "State": "Texas",
-    "Queue Date": "2022-01-28T00:00:00",
-    "Proposed Completion Date": "2027-04-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0188": {
     "Queue ID": "24INR0188",
     "Project Name": "Tehuacana Creek Solar",
@@ -4472,7 +3992,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2021-12-20T00:00:00",
-    "Proposed Completion Date": "2027-03-10T00:00:00",
+    "Proposed Completion Date": "2027-05-18T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0196": {
@@ -4515,7 +4035,7 @@
     "Queue ID": "24INR0201",
     "Project Name": "Short Creek Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 628.33,
+    "Capacity (MW)": 627.81,
     "Status": "Completed",
     "County": "Wichita",
     "State": "Texas",
@@ -4532,7 +4052,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2022-01-07T00:00:00",
-    "Proposed Completion Date": "2028-09-08T00:00:00",
+    "Proposed Completion Date": "2028-09-18T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0206": {
@@ -4568,7 +4088,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2022-03-07T00:00:00",
-    "Proposed Completion Date": "2025-11-27T00:00:00",
+    "Proposed Completion Date": "2026-07-15T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0210": {
@@ -4643,18 +4163,6 @@
     "Proposed Completion Date": "2028-06-30T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0260": {
-    "Queue ID": "24INR0260",
-    "Project Name": "Lager Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 31.1,
-    "Status": "Active",
-    "County": "Nueces",
-    "State": "Texas",
-    "Queue Date": "2022-02-28T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0269": {
     "Queue ID": "24INR0269",
     "Project Name": "Bar Candela Solar SLF",
@@ -4671,7 +4179,7 @@
     "Queue ID": "24INR0274",
     "Project Name": "Bufflehead BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 153.3,
+    "Capacity (MW)": 150.48,
     "Status": "Completed",
     "County": "Collin",
     "State": "Texas",
@@ -4708,11 +4216,11 @@
     "Project Name": "Royal River BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 310.7,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2022-03-30T00:00:00",
-    "Proposed Completion Date": "2027-01-11T00:00:00",
+    "Proposed Completion Date": "2027-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0285": {
@@ -4724,7 +4232,7 @@
     "County": "Chambers",
     "State": "Texas",
     "Queue Date": "2022-03-30T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
+    "Proposed Completion Date": "2029-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0287": {
@@ -4755,7 +4263,7 @@
     "Queue ID": "24INR0294",
     "Project Name": "Citrus Flatts BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 101.2,
+    "Capacity (MW)": 103.01,
     "Status": "Completed",
     "County": "Cameron",
     "State": "Texas",
@@ -4767,12 +4275,12 @@
     "Queue ID": "24INR0298",
     "Project Name": "Leighton Solar SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 183.0,
+    "Capacity (MW)": 181.0,
     "Status": "Completed",
     "County": "Limestone",
     "State": "Texas",
     "Queue Date": "2022-05-11T00:00:00",
-    "Proposed Completion Date": "2027-09-01T00:00:00",
+    "Proposed Completion Date": "2027-11-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0302": {
@@ -4784,7 +4292,7 @@
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2022-04-18T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
+    "Proposed Completion Date": "2026-07-24T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0303": {
@@ -4820,7 +4328,7 @@
     "County": "Cameron",
     "State": "Texas",
     "Queue Date": "2022-05-10T00:00:00",
-    "Proposed Completion Date": "2026-04-14T00:00:00",
+    "Proposed Completion Date": "2026-10-23T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0308": {
@@ -4832,7 +4340,7 @@
     "County": "Taylor",
     "State": "Texas",
     "Queue Date": "2022-06-02T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
+    "Proposed Completion Date": "2029-03-02T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0313": {
@@ -4844,7 +4352,7 @@
     "County": "Burnet",
     "State": "Texas",
     "Queue Date": "2022-04-18T00:00:00",
-    "Proposed Completion Date": "2026-08-10T00:00:00",
+    "Proposed Completion Date": "2026-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0319": {
@@ -4875,7 +4383,7 @@
     "Queue ID": "24INR0331",
     "Project Name": "Chisme Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 146.0,
+    "Capacity (MW)": 150.7,
     "Status": "Active",
     "County": "Brown",
     "State": "Texas",
@@ -4940,19 +4448,7 @@
     "County": "Taylor",
     "State": "Texas",
     "Queue Date": "2022-06-02T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0352": {
-    "Queue ID": "24INR0352",
-    "Project Name": "Guinness BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.51,
-    "Status": "Active",
-    "County": "Williamson",
-    "State": "Texas",
-    "Queue Date": "2022-07-25T00:00:00",
-    "Proposed Completion Date": "2027-04-15T00:00:00",
+    "Proposed Completion Date": "2029-03-02T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0355": {
@@ -4964,7 +4460,7 @@
     "County": "Henderson",
     "State": "Texas",
     "Queue Date": "2022-06-02T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0356": {
@@ -4976,67 +4472,7 @@
     "County": "McLennan",
     "State": "Texas",
     "Queue Date": "2022-05-16T00:00:00",
-    "Proposed Completion Date": "2027-06-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0358": {
-    "Queue ID": "24INR0358",
-    "Project Name": "Blanket Ranch South Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 101.3,
-    "Status": "Active",
-    "County": "Brown",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2028-09-22T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0360": {
-    "Queue ID": "24INR0360",
-    "Project Name": " Blanket Ranch North Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 188.5,
-    "Status": "Active",
-    "County": "Brown",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2028-09-22T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0361": {
-    "Queue ID": "24INR0361",
-    "Project Name": " Blanket Ranch South Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 34.3,
-    "Status": "Active",
-    "County": "Brown",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2028-09-22T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0362": {
-    "Queue ID": "24INR0362",
-    "Project Name": " Blanket Ranch North Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 50.9,
-    "Status": "Active",
-    "County": "Brown",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2028-09-22T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0364": {
-    "Queue ID": "24INR0364",
-    "Project Name": "Pitts Dudik II",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 30.23,
-    "Status": "Completed",
-    "County": "Hill",
-    "State": "Texas",
-    "Queue Date": "2022-07-18T00:00:00",
-    "Proposed Completion Date": "2026-04-24T00:00:00",
+    "Proposed Completion Date": "2028-08-15T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0365": {
@@ -5051,36 +4487,12 @@
     "Proposed Completion Date": "2026-08-18T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0368": {
-    "Queue ID": "24INR0368",
-    "Project Name": "Glory Bee Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 305.0,
-    "Status": "Active",
-    "County": "Erath",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2026-04-14T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0369": {
-    "Queue ID": "24INR0369",
-    "Project Name": "Glory Bee Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 101.0,
-    "Status": "Active",
-    "County": "Erath",
-    "State": "Texas",
-    "Queue Date": "2022-06-10T00:00:00",
-    "Proposed Completion Date": "2026-04-14T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0375": {
     "Queue ID": "24INR0375",
     "Project Name": "Possum Kingdom BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 200.86,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Jack",
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
@@ -5163,7 +4575,7 @@
     "Queue ID": "24INR0386",
     "Project Name": "Black & Gold Energy Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 203.83,
+    "Capacity (MW)": 203.8,
     "Status": "Completed",
     "County": "Menard",
     "State": "Texas",
@@ -5252,7 +4664,7 @@
     "County": "Motley",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2026-01-30T00:00:00",
+    "Proposed Completion Date": "2026-04-30T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0404": {
@@ -5284,7 +4696,7 @@
     "Project Name": "Mercury Solar III",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 203.5,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2022-08-16T00:00:00",
@@ -5313,30 +4725,6 @@
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
     "Proposed Completion Date": "2028-09-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0416": {
-    "Queue ID": "24INR0416",
-    "Project Name": "Trelas",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.83,
-    "Status": "Active",
-    "County": "McCulloch",
-    "State": "Texas",
-    "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2028-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0417": {
-    "Queue ID": "24INR0417",
-    "Project Name": "Sierra Diablo Energy Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 203.81,
-    "Status": "Active",
-    "County": "Van Zandt",
-    "State": "Texas",
-    "Queue Date": "2022-08-05T00:00:00",
-    "Proposed Completion Date": "2026-04-20T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0419": {
@@ -5375,18 +4763,6 @@
     "Proposed Completion Date": "2028-06-30T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0423": {
-    "Queue ID": "24INR0423",
-    "Project Name": "Hollow Branch Creek Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 460.0,
-    "Status": "Active",
-    "County": "Leon",
-    "State": "Texas",
-    "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0425": {
     "Queue ID": "24INR0425",
     "Project Name": "Two Brothers ESS",
@@ -5396,27 +4772,15 @@
     "County": "Victoria",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2027-09-09T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0436": {
-    "Queue ID": "24INR0436",
-    "Project Name": "Carambola BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.9,
-    "Status": "Completed",
-    "County": "Hidalgo",
-    "State": "Texas",
-    "Queue Date": "2022-10-18T00:00:00",
-    "Proposed Completion Date": "2026-04-20T00:00:00",
+    "Proposed Completion Date": "2028-02-29T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0440": {
     "Queue ID": "24INR0440",
     "Project Name": "Starling Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 144.5,
-    "Status": "Active",
+    "Capacity (MW)": 140.6,
+    "Status": "Completed",
     "County": "Gonzales",
     "State": "Texas",
     "Queue Date": "2022-10-06T00:00:00",
@@ -5427,7 +4791,7 @@
     "Queue ID": "24INR0442",
     "Project Name": "Midnight Sun Energy Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 510.0,
+    "Capacity (MW)": 523.86,
     "Status": "Completed",
     "County": "Crockett",
     "State": "Texas",
@@ -5516,7 +4880,7 @@
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2022-11-07T00:00:00",
-    "Proposed Completion Date": "2027-06-30T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0453": {
@@ -5540,7 +4904,7 @@
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2022-11-07T00:00:00",
-    "Proposed Completion Date": "2027-06-30T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0455": {
@@ -5579,18 +4943,6 @@
     "Proposed Completion Date": "2027-12-17T00:00:00",
     "ISO": "ERCOT"
   },
-  "24INR0471": {
-    "Queue ID": "24INR0471",
-    "Project Name": "McGee Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 151.39,
-    "Status": "Completed",
-    "County": "Henderson",
-    "State": "Texas",
-    "Queue Date": "2022-11-15T00:00:00",
-    "Proposed Completion Date": "2026-05-29T00:00:00",
-    "ISO": "ERCOT"
-  },
   "24INR0472": {
     "Queue ID": "24INR0472",
     "Project Name": "Amador Storage",
@@ -5600,55 +4952,7 @@
     "County": "Van Zandt",
     "State": "Texas",
     "Queue Date": "2022-11-23T00:00:00",
-    "Proposed Completion Date": "2026-05-13T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0473": {
-    "Queue ID": "24INR0473",
-    "Project Name": "Hooper Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 50.48,
-    "Status": "Active",
-    "County": "Lee",
-    "State": "Texas",
-    "Queue Date": "2022-12-07T00:00:00",
-    "Proposed Completion Date": "2027-12-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0474": {
-    "Queue ID": "24INR0474",
-    "Project Name": "Hooper Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 30.68,
-    "Status": "Active",
-    "County": "Lee",
-    "State": "Texas",
-    "Queue Date": "2022-12-07T00:00:00",
-    "Proposed Completion Date": "2027-12-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0476": {
-    "Queue ID": "24INR0476",
-    "Project Name": "DOS RIOS ENERGY STORAGE SLF",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 164.5,
-    "Status": "Completed",
-    "County": "Milam",
-    "State": "Texas",
-    "Queue Date": "2022-11-15T00:00:00",
-    "Proposed Completion Date": "2027-10-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0477": {
-    "Queue ID": "24INR0477",
-    "Project Name": "Barrett Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 125.81,
-    "Status": "Completed",
-    "County": "Rains",
-    "State": "Texas",
-    "Queue Date": "2023-02-27T00:00:00",
-    "Proposed Completion Date": "2026-03-16T00:00:00",
+    "Proposed Completion Date": "2026-12-04T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0485": {
@@ -5672,7 +4976,7 @@
     "County": "Taylor",
     "State": "Texas",
     "Queue Date": "2023-02-20T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
+    "Proposed Completion Date": "2029-03-02T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0491": {
@@ -5696,7 +5000,7 @@
     "County": "Fort Bend",
     "State": "Texas",
     "Queue Date": "2022-11-23T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
+    "Proposed Completion Date": "2026-07-20T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0494": {
@@ -5716,7 +5020,7 @@
     "Project Name": "Indigo Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 60.0,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Fisher",
     "State": "Texas",
     "Queue Date": "2022-12-15T00:00:00",
@@ -5768,7 +5072,7 @@
     "County": "Scurry",
     "State": "Texas",
     "Queue Date": "2023-01-30T00:00:00",
-    "Proposed Completion Date": "2027-09-13T00:00:00",
+    "Proposed Completion Date": "2028-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0528": {
@@ -5780,7 +5084,7 @@
     "County": "Nueces",
     "State": "Texas",
     "Queue Date": "2023-02-09T00:00:00",
-    "Proposed Completion Date": "2027-03-29T00:00:00",
+    "Proposed Completion Date": "2027-12-15T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0530": {
@@ -5805,18 +5109,6 @@
     "State": "Texas",
     "Queue Date": "2023-05-22T00:00:00",
     "Proposed Completion Date": "2027-04-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "24INR0533": {
-    "Queue ID": "24INR0533",
-    "Project Name": "Padua Grid BESS Unit 2",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 150.94,
-    "Status": "Completed",
-    "County": "Bexar",
-    "State": "Texas",
-    "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2026-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0534": {
@@ -5864,7 +5156,7 @@
     "County": "Lampasas",
     "State": "Texas",
     "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2027-05-03T00:00:00",
+    "Proposed Completion Date": "2029-04-28T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0544": {
@@ -5929,14 +5221,14 @@
   },
   "24INR0584": {
     "Queue ID": "24INR0584",
-    "Project Name": "Houston IV BESS",
+    "Project Name": "Kegans BESS (Houston IV BESS)",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 164.6,
     "Status": "Completed",
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2023-07-10T00:00:00",
-    "Proposed Completion Date": "2026-06-03T00:00:00",
+    "Proposed Completion Date": "2026-09-05T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0617": {
@@ -5948,7 +5240,7 @@
     "County": "Maverick",
     "State": "Texas",
     "Queue Date": "2023-09-23T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2027-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "24INR0763": {
@@ -6044,7 +5336,7 @@
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2022-05-10T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "Proposed Completion Date": "2028-04-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0052": {
@@ -6152,7 +5444,7 @@
     "County": "Gray",
     "State": "Texas",
     "Queue Date": "2022-08-05T00:00:00",
-    "Proposed Completion Date": "2027-12-20T00:00:00",
+    "Proposed Completion Date": "2028-06-08T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0081": {
@@ -6212,7 +5504,19 @@
     "County": "Collin",
     "State": "Texas",
     "Queue Date": "2022-06-02T00:00:00",
-    "Proposed Completion Date": "2026-07-14T00:00:00",
+    "Proposed Completion Date": "2027-01-29T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "25INR0102": {
+    "Queue ID": "25INR0102",
+    "Project Name": "Austin Bayou Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 502.48,
+    "Status": "Completed",
+    "County": "Brazoria",
+    "State": "Texas",
+    "Queue Date": "2022-06-27T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0103": {
@@ -6224,7 +5528,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2022-07-05T00:00:00",
-    "Proposed Completion Date": "2027-08-05T00:00:00",
+    "Proposed Completion Date": "2028-08-05T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0106": {
@@ -6237,18 +5541,6 @@
     "State": "Texas",
     "Queue Date": "2022-06-27T00:00:00",
     "Proposed Completion Date": "2027-09-25T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0109": {
-    "Queue ID": "25INR0109",
-    "Project Name": "Sun Cactus Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 120.63,
-    "Status": "Completed",
-    "County": "Duval",
-    "State": "Texas",
-    "Queue Date": "2022-07-05T00:00:00",
-    "Proposed Completion Date": "2027-10-15T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0112": {
@@ -6323,18 +5615,6 @@
     "Proposed Completion Date": "2026-12-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0134": {
-    "Queue ID": "25INR0134",
-    "Project Name": "Hoskins Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 204.12,
-    "Status": "Active",
-    "County": "Lamar",
-    "State": "Texas",
-    "Queue Date": "2022-10-24T00:00:00",
-    "Proposed Completion Date": "2026-08-31T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0135": {
     "Queue ID": "25INR0135",
     "Project Name": "Hayrick BESS",
@@ -6368,7 +5648,7 @@
     "County": "Mitchell",
     "State": "Texas",
     "Queue Date": "2022-09-27T00:00:00",
-    "Proposed Completion Date": "2028-01-31T00:00:00",
+    "Proposed Completion Date": "2028-09-18T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0140": {
@@ -6380,7 +5660,7 @@
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2027-06-28T00:00:00",
+    "Proposed Completion Date": "2028-04-30T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0142": {
@@ -6436,7 +5716,7 @@
     "Project Name": "Nymphaea Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 120.9,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Wichita",
     "State": "Texas",
     "Queue Date": "2022-09-21T00:00:00",
@@ -6448,7 +5728,7 @@
     "Project Name": "Nymphaea Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 61.0,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Wichita",
     "State": "Texas",
     "Queue Date": "2022-09-21T00:00:00",
@@ -6471,36 +5751,36 @@
     "Queue ID": "25INR0164",
     "Project Name": "Star Dairy Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 125.61,
+    "Capacity (MW)": 115.61,
     "Status": "Completed",
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2022-11-23T00:00:00",
-    "Proposed Completion Date": "2027-04-03T00:00:00",
+    "Proposed Completion Date": "2027-07-12T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0165": {
     "Queue ID": "25INR0165",
     "Project Name": "Timberlakes Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 203.5,
+    "Capacity (MW)": 200.71,
     "Status": "Active",
     "County": "Dickens",
     "State": "Texas",
     "Queue Date": "2022-11-07T00:00:00",
-    "Proposed Completion Date": "2028-04-01T00:00:00",
+    "Proposed Completion Date": "2028-11-15T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0166": {
     "Queue ID": "25INR0166",
-    "Project Name": "Padrino Solar",
+    "Project Name": "Compadre Solar II",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 201.4,
     "Status": "Completed",
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2026-07-30T00:00:00",
+    "Proposed Completion Date": "2026-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0168": {
@@ -6524,7 +5804,7 @@
     "County": "Freestone",
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2027-05-10T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0170": {
@@ -6536,7 +5816,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2022-09-02T00:00:00",
-    "Proposed Completion Date": "2028-04-14T00:00:00",
+    "Proposed Completion Date": "2028-02-29T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0172": {
@@ -6548,7 +5828,7 @@
     "County": "Dickens",
     "State": "Texas",
     "Queue Date": "2022-12-07T00:00:00",
-    "Proposed Completion Date": "2028-04-19T00:00:00",
+    "Proposed Completion Date": "2028-08-25T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0173": {
@@ -6560,7 +5840,7 @@
     "County": "Dickens",
     "State": "Texas",
     "Queue Date": "2022-12-15T00:00:00",
-    "Proposed Completion Date": "2028-04-19T00:00:00",
+    "Proposed Completion Date": "2028-08-25T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0174": {
@@ -6572,7 +5852,7 @@
     "County": "Concho",
     "State": "Texas",
     "Queue Date": "2022-12-07T00:00:00",
-    "Proposed Completion Date": "2027-10-14T00:00:00",
+    "Proposed Completion Date": "2028-01-09T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0175": {
@@ -6584,7 +5864,7 @@
     "County": "Concho",
     "State": "Texas",
     "Queue Date": "2022-12-15T00:00:00",
-    "Proposed Completion Date": "2027-10-14T00:00:00",
+    "Proposed Completion Date": "2028-01-09T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0176": {
@@ -6628,7 +5908,7 @@
     "Project Name": "Staccato BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 201.8,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Fayette",
     "State": "Texas",
     "Queue Date": "2022-11-07T00:00:00",
@@ -6680,7 +5960,7 @@
     "County": "Uvalde",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0195": {
@@ -6692,7 +5972,7 @@
     "County": "Uvalde",
     "State": "Texas",
     "Queue Date": "2022-09-15T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0196": {
@@ -6704,7 +5984,7 @@
     "County": "Scurry",
     "State": "Texas",
     "Queue Date": "2023-02-20T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
+    "Proposed Completion Date": "2029-03-02T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0197": {
@@ -6716,7 +5996,7 @@
     "County": "Scurry",
     "State": "Texas",
     "Queue Date": "2023-02-20T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
+    "Proposed Completion Date": "2029-03-02T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0199": {
@@ -6740,12 +6020,12 @@
     "County": "Kerr",
     "State": "Texas",
     "Queue Date": "2022-10-06T00:00:00",
-    "Proposed Completion Date": "2027-03-18T00:00:00",
+    "Proposed Completion Date": "2028-03-17T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0204": {
     "Queue ID": "25INR0204",
-    "Project Name": "Claxton Solar",
+    "Project Name": "Cedar Range Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 150.64,
     "Status": "Completed",
@@ -6765,18 +6045,6 @@
     "State": "Texas",
     "Queue Date": "2022-09-27T00:00:00",
     "Proposed Completion Date": "2026-06-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0208": {
-    "Queue ID": "25INR0208",
-    "Project Name": "Iron Belt Energy Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 401.9,
-    "Status": "Completed",
-    "County": "Borden",
-    "State": "Texas",
-    "Queue Date": "2023-01-03T00:00:00",
-    "Proposed Completion Date": "2027-07-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0214": {
@@ -6800,7 +6068,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2022-10-24T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "Proposed Completion Date": "2028-10-08T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0221": {
@@ -6812,19 +6080,7 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2022-10-24T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0222": {
-    "Queue ID": "25INR0222",
-    "Project Name": "Olympic BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 222.81,
-    "Status": "Active",
-    "County": "Nueces",
-    "State": "Texas",
-    "Queue Date": "2022-10-18T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2028-10-08T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0225": {
@@ -6884,7 +6140,7 @@
     "County": "Hood",
     "State": "Texas",
     "Queue Date": "2022-11-07T00:00:00",
-    "Proposed Completion Date": "2026-07-31T00:00:00",
+    "Proposed Completion Date": "2026-11-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0232": {
@@ -6908,7 +6164,43 @@
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2022-12-07T00:00:00",
-    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "25INR0235": {
+    "Queue ID": "25INR0235",
+    "Project Name": "Austin Bayou Storage I",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 150.68,
+    "Status": "Completed",
+    "County": "Brazoria",
+    "State": "Texas",
+    "Queue Date": "2023-03-08T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "25INR0236": {
+    "Queue ID": "25INR0236",
+    "Project Name": "Austin Bayou Storage II",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 156.6,
+    "Status": "Completed",
+    "County": "Brazoria",
+    "State": "Texas",
+    "Queue Date": "2023-03-08T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "25INR0237": {
+    "Queue ID": "25INR0237",
+    "Project Name": "Austin Bayou Storage III",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 156.6,
+    "Status": "Completed",
+    "County": "Brazoria",
+    "State": "Texas",
+    "Queue Date": "2023-03-08T00:00:00",
+    "Proposed Completion Date": "2027-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0238": {
@@ -6920,7 +6212,7 @@
     "County": "Collin",
     "State": "Texas",
     "Queue Date": "2023-05-15T00:00:00",
-    "Proposed Completion Date": "2025-12-11T00:00:00",
+    "Proposed Completion Date": "2027-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0239": {
@@ -7071,7 +6363,7 @@
     "Queue ID": "25INR0282",
     "Project Name": "Hornet Solar II SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 208.95,
+    "Capacity (MW)": 201.49,
     "Status": "Completed",
     "County": "Swisher",
     "State": "Texas",
@@ -7139,28 +6431,16 @@
     "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0300": {
-    "Queue ID": "25INR0300",
-    "Project Name": "Wizard BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 150.82,
-    "Status": "Completed",
-    "County": "Galveston",
-    "State": "Texas",
-    "Queue Date": "2023-03-27T00:00:00",
-    "Proposed Completion Date": "2026-03-11T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0301": {
     "Queue ID": "25INR0301",
     "Project Name": "Van Zandt Energy Storage ",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 256.58,
-    "Status": "Active",
+    "Capacity (MW)": 256.0,
+    "Status": "Completed",
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2028-04-13T00:00:00",
+    "Proposed Completion Date": "2027-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0304": {
@@ -7203,12 +6483,12 @@
     "Queue ID": "25INR0319",
     "Project Name": "Northington Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 129.81,
+    "Capacity (MW)": 125.9,
     "Status": "Completed",
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2023-02-20T00:00:00",
-    "Proposed Completion Date": "2027-07-15T00:00:00",
+    "Proposed Completion Date": "2027-11-30T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0321": {
@@ -7263,12 +6543,12 @@
     "Queue ID": "25INR0334",
     "Project Name": "Star Dairy Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 204.93,
+    "Capacity (MW)": 205.24,
     "Status": "Completed",
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-04-03T00:00:00",
+    "Proposed Completion Date": "2027-07-12T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0337": {
@@ -7280,7 +6560,7 @@
     "County": "Bell",
     "State": "Texas",
     "Queue Date": "2023-12-18T00:00:00",
-    "Proposed Completion Date": "2027-02-01T00:00:00",
+    "Proposed Completion Date": "2029-01-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0338": {
@@ -7340,7 +6620,7 @@
     "County": "Brazos",
     "State": "Texas",
     "Queue Date": "2023-05-22T00:00:00",
-    "Proposed Completion Date": "2026-04-01T00:00:00",
+    "Proposed Completion Date": "2029-07-28T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0353": {
@@ -7369,7 +6649,7 @@
   },
   "25INR0368": {
     "Queue ID": "25INR0368",
-    "Project Name": "Echols Creek Solar",
+    "Project Name": "Echols Grove Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 201.56,
     "Status": "Completed",
@@ -7391,18 +6671,6 @@
     "Proposed Completion Date": "2027-08-13T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0371": {
-    "Queue ID": "25INR0371",
-    "Project Name": "McMurtre Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 176.13,
-    "Status": "Active",
-    "County": "Hunt",
-    "State": "Texas",
-    "Queue Date": "2023-03-13T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0372": {
     "Queue ID": "25INR0372",
     "Project Name": "Elan BESS",
@@ -7415,24 +6683,12 @@
     "Proposed Completion Date": "2026-12-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0374": {
-    "Queue ID": "25INR0374",
-    "Project Name": "Meridian BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 31.23,
-    "Status": "Active",
-    "County": "Bosque",
-    "State": "Texas",
-    "Queue Date": "2023-03-13T00:00:00",
-    "Proposed Completion Date": "2027-10-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0375": {
     "Queue ID": "25INR0375",
     "Project Name": "NavBoot BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 303.7,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Nueces",
     "State": "Texas",
     "Queue Date": "2023-03-13T00:00:00",
@@ -7463,18 +6719,6 @@
     "Proposed Completion Date": "2029-02-18T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0380": {
-    "Queue ID": "25INR0380",
-    "Project Name": "Fike BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.8,
-    "Status": "Active",
-    "County": "Hidalgo",
-    "State": "Texas",
-    "Queue Date": "2023-05-15T00:00:00",
-    "Proposed Completion Date": "2027-06-18T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0382": {
     "Queue ID": "25INR0382",
     "Project Name": "HappyDogSolar",
@@ -7484,7 +6728,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2027-04-13T00:00:00",
+    "Proposed Completion Date": "2027-08-04T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0384": {
@@ -7496,7 +6740,7 @@
     "County": "Van Zandt",
     "State": "Texas",
     "Queue Date": "2023-03-27T00:00:00",
-    "Proposed Completion Date": "2026-08-31T00:00:00",
+    "Proposed Completion Date": "2027-08-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0385": {
@@ -7509,18 +6753,6 @@
     "State": "Texas",
     "Queue Date": "2023-04-19T00:00:00",
     "Proposed Completion Date": "2027-12-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0386": {
-    "Queue ID": "25INR0386",
-    "Project Name": "Diaz BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 241.48,
-    "Status": "Active",
-    "County": "Cameron",
-    "State": "Texas",
-    "Queue Date": "2023-05-22T00:00:00",
-    "Proposed Completion Date": "2027-11-18T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0389": {
@@ -7556,7 +6788,7 @@
     "County": "Collin",
     "State": "Texas",
     "Queue Date": "2023-03-08T00:00:00",
-    "Proposed Completion Date": "2027-05-30T00:00:00",
+    "Proposed Completion Date": "2028-02-12T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0392": {
@@ -7568,7 +6800,7 @@
     "County": "Collin",
     "State": "Texas",
     "Queue Date": "2023-03-08T00:00:00",
-    "Proposed Completion Date": "2027-05-30T00:00:00",
+    "Proposed Completion Date": "2028-02-12T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0394": {
@@ -7605,18 +6837,6 @@
     "State": "Texas",
     "Queue Date": "2023-05-26T00:00:00",
     "Proposed Completion Date": "2028-04-19T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0397": {
-    "Queue ID": "25INR0397",
-    "Project Name": "Beeman BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 50.18,
-    "Status": "Active",
-    "County": "Gonzales",
-    "State": "Texas",
-    "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0400": {
@@ -7672,23 +6892,11 @@
     "Project Name": "Mesa View Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 251.3,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Upton",
     "State": "Texas",
     "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-06-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0419": {
-    "Queue ID": "25INR0419",
-    "Project Name": "Marengo BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 120.72,
-    "Status": "Active",
-    "County": "Cameron",
-    "State": "Texas",
-    "Queue Date": "2023-05-15T00:00:00",
-    "Proposed Completion Date": "2028-05-15T00:00:00",
+    "Proposed Completion Date": "2027-07-15T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0420": {
@@ -7736,7 +6944,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2023-05-15T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2028-03-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0430": {
@@ -7779,12 +6987,12 @@
     "Queue ID": "25INR0440",
     "Project Name": "Bronc Rodeo Solar Project",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 121.63,
+    "Capacity (MW)": 105.7,
     "Status": "Active",
     "County": "Falls",
     "State": "Texas",
     "Queue Date": "2023-05-03T00:00:00",
-    "Proposed Completion Date": "2028-04-17T00:00:00",
+    "Proposed Completion Date": "2028-09-18T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0441": {
@@ -7808,7 +7016,7 @@
     "County": "Milam",
     "State": "Texas",
     "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2027-04-13T00:00:00",
+    "Proposed Completion Date": "2027-08-04T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0446": {
@@ -7845,18 +7053,6 @@
     "State": "Texas",
     "Queue Date": "2023-05-26T00:00:00",
     "Proposed Completion Date": "2027-12-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "25INR0455": {
-    "Queue ID": "25INR0455",
-    "Project Name": "John Bull BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 147.42,
-    "Status": "Active",
-    "County": "Nueces",
-    "State": "Texas",
-    "Queue Date": "2023-07-31T00:00:00",
-    "Proposed Completion Date": "2028-04-16T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0458": {
@@ -7943,18 +7139,6 @@
     "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "25INR0487": {
-    "Queue ID": "25INR0487",
-    "Project Name": "Marick Rose BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 50.18,
-    "Status": "Active",
-    "County": "Fort Bend",
-    "State": "Texas",
-    "Queue Date": "2023-07-10T00:00:00",
-    "Proposed Completion Date": "2026-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "25INR0489": {
     "Queue ID": "25INR0489",
     "Project Name": "Ranchero BESS",
@@ -7988,7 +7172,7 @@
     "County": "Wilbarger",
     "State": "Texas",
     "Queue Date": "2023-10-20T00:00:00",
-    "Proposed Completion Date": "2026-04-03T00:00:00",
+    "Proposed Completion Date": "2026-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0493": {
@@ -8000,7 +7184,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2024-09-02T00:00:00",
-    "Proposed Completion Date": "2026-02-16T00:00:00",
+    "Proposed Completion Date": "2026-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0495": {
@@ -8252,7 +7436,7 @@
     "County": "Upton",
     "State": "Texas",
     "Queue Date": "2023-10-13T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
+    "Proposed Completion Date": "2028-03-30T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0558": {
@@ -8360,7 +7544,7 @@
     "County": "Rusk",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
-    "Proposed Completion Date": "2027-03-01T00:00:00",
+    "Proposed Completion Date": "2027-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0591": {
@@ -8372,7 +7556,7 @@
     "County": "Rusk",
     "State": "Texas",
     "Queue Date": "2024-04-09T00:00:00",
-    "Proposed Completion Date": "2027-03-01T00:00:00",
+    "Proposed Completion Date": "2027-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0606": {
@@ -8384,7 +7568,7 @@
     "County": "Ward",
     "State": "Texas",
     "Queue Date": "2024-02-26T00:00:00",
-    "Proposed Completion Date": "2027-09-30T00:00:00",
+    "Proposed Completion Date": "2028-05-20T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0608": {
@@ -8480,7 +7664,7 @@
     "County": "Fisher",
     "State": "Texas",
     "Queue Date": "2024-05-20T00:00:00",
-    "Proposed Completion Date": "2028-04-19T00:00:00",
+    "Proposed Completion Date": "2028-09-21T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0653": {
@@ -8564,7 +7748,7 @@
     "County": "Childress",
     "State": "Texas",
     "Queue Date": "2024-06-03T00:00:00",
-    "Proposed Completion Date": "2026-03-15T00:00:00",
+    "Proposed Completion Date": "2026-05-20T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0673": {
@@ -8576,7 +7760,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2026-02-16T00:00:00",
+    "Proposed Completion Date": "2026-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0688": {
@@ -8597,7 +7781,7 @@
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 153.7,
     "Status": "Active",
-    "County": "Houston",
+    "County": "Leon",
     "State": "Texas",
     "Queue Date": "2024-11-26T00:00:00",
     "Proposed Completion Date": "2028-02-16T00:00:00",
@@ -8612,12 +7796,12 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2024-10-10T00:00:00",
-    "Proposed Completion Date": "2026-06-30T00:00:00",
+    "Proposed Completion Date": "2026-07-31T00:00:00",
     "ISO": "ERCOT"
   },
   "25INR0853": {
     "Queue ID": "25INR0853",
-    "Project Name": "Copper Canyon BESS",
+    "Project Name": "Tango Lily BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 200.95,
     "Status": "Active",
@@ -8732,7 +7916,7 @@
     "County": "Bastrop",
     "State": "Texas",
     "Queue Date": "2023-01-17T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2029-10-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0068": {
@@ -8780,7 +7964,7 @@
     "County": "Wilson",
     "State": "Texas",
     "Queue Date": "2023-01-30T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
+    "Proposed Completion Date": "2028-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0077": {
@@ -8792,7 +7976,7 @@
     "County": "Wilson",
     "State": "Texas",
     "Queue Date": "2023-02-20T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
+    "Proposed Completion Date": "2028-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0082": {
@@ -8840,7 +8024,7 @@
     "County": "Kaufman",
     "State": "Texas",
     "Queue Date": "2024-05-20T00:00:00",
-    "Proposed Completion Date": "2028-09-19T00:00:00",
+    "Proposed Completion Date": "2029-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0088": {
@@ -8852,7 +8036,7 @@
     "County": "La Salle",
     "State": "Texas",
     "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2028-09-13T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0089": {
@@ -8872,7 +8056,7 @@
     "Project Name": "Douie Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 221.2,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Freestone",
     "State": "Texas",
     "Queue Date": "2023-05-15T00:00:00",
@@ -8913,18 +8097,6 @@
     "State": "Texas",
     "Queue Date": "2023-04-07T00:00:00",
     "Proposed Completion Date": "2028-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "26INR0114": {
-    "Queue ID": "26INR0114",
-    "Project Name": "Ochoa Energy Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 260.16,
-    "Status": "Active",
-    "County": "Waller",
-    "State": "Texas",
-    "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-06-03T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0116": {
@@ -8968,7 +8140,7 @@
     "Project Name": "Elm Flats Solar SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 125.84,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2024-07-30T00:00:00",
@@ -9200,7 +8372,7 @@
     "County": "Zavala",
     "State": "Texas",
     "Queue Date": "2023-09-25T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2029-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0180": {
@@ -9236,7 +8408,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2023-07-31T00:00:00",
-    "Proposed Completion Date": "2028-04-18T00:00:00",
+    "Proposed Completion Date": "2028-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0185": {
@@ -9315,7 +8487,7 @@
     "Queue ID": "26INR0201",
     "Project Name": "Rock Rose BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 211.5,
+    "Capacity (MW)": 208.5,
     "Status": "Completed",
     "County": "Fort Bend",
     "State": "Texas",
@@ -9328,7 +8500,7 @@
     "Project Name": "Titus Low Carbon Ventures Solar 1",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 338.04,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2023-10-13T00:00:00",
@@ -9392,7 +8564,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2023-10-04T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
+    "Proposed Completion Date": "2027-11-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0228": {
@@ -9476,7 +8648,7 @@
     "County": "Ellis",
     "State": "Texas",
     "Queue Date": "2023-10-25T00:00:00",
-    "Proposed Completion Date": "2027-10-29T00:00:00",
+    "Proposed Completion Date": "2032-12-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0243": {
@@ -9500,7 +8672,7 @@
     "County": "Kinney",
     "State": "Texas",
     "Queue Date": "2023-10-25T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0246": {
@@ -9512,7 +8684,7 @@
     "County": "Kinney",
     "State": "Texas",
     "Queue Date": "2023-10-04T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0247": {
@@ -9524,19 +8696,7 @@
     "County": "Martin",
     "State": "Texas",
     "Queue Date": "2023-09-08T00:00:00",
-    "Proposed Completion Date": "2027-03-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "26INR0248": {
-    "Queue ID": "26INR0248",
-    "Project Name": "Sengun BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.89,
-    "Status": "Active",
-    "County": "Nueces",
-    "State": "Texas",
-    "Queue Date": "2024-01-03T00:00:00",
-    "Proposed Completion Date": "2028-03-17T00:00:00",
+    "Proposed Completion Date": "2030-11-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0250": {
@@ -9584,7 +8744,7 @@
     "County": "Van Zandt",
     "State": "Texas",
     "Queue Date": "2023-10-04T00:00:00",
-    "Proposed Completion Date": "2028-03-18T00:00:00",
+    "Proposed Completion Date": "2030-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0255": {
@@ -9671,18 +8831,6 @@
     "Proposed Completion Date": "2027-07-06T00:00:00",
     "ISO": "ERCOT"
   },
-  "26INR0272": {
-    "Queue ID": "26INR0272",
-    "Project Name": "Momentum Stout BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.5,
-    "Status": "Active",
-    "County": "Burnet",
-    "State": "Texas",
-    "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2027-10-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "26INR0273": {
     "Queue ID": "26INR0273",
     "Project Name": "Momentum Hazy Jane BESS",
@@ -9716,7 +8864,7 @@
     "County": "Wichita",
     "State": "Texas",
     "Queue Date": "2023-09-23T00:00:00",
-    "Proposed Completion Date": "2028-07-25T00:00:00",
+    "Proposed Completion Date": "2029-03-03T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0285": {
@@ -9724,7 +8872,7 @@
     "Project Name": "Hill Valley BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 245.8,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Grimes",
     "State": "Texas",
     "Queue Date": "2023-12-04T00:00:00",
@@ -9740,14 +8888,14 @@
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2028-08-28T00:00:00",
+    "Proposed Completion Date": "2029-06-29T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0290": {
     "Queue ID": "26INR0290",
     "Project Name": "Cold Creek Solar 2",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 445.41,
+    "Capacity (MW)": 431.87,
     "Status": "Completed",
     "County": "Schleicher",
     "State": "Texas",
@@ -9759,7 +8907,7 @@
     "Queue ID": "26INR0291",
     "Project Name": "Cold Creek Storage 2",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 174.24,
+    "Capacity (MW)": 171.75,
     "Status": "Completed",
     "County": "Schleicher",
     "State": "Texas",
@@ -9776,7 +8924,7 @@
     "County": "Archer",
     "State": "Texas",
     "Queue Date": "2023-11-30T00:00:00",
-    "Proposed Completion Date": "2027-04-12T00:00:00",
+    "Proposed Completion Date": "2028-01-24T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0296": {
@@ -9788,7 +8936,7 @@
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2023-11-30T00:00:00",
-    "Proposed Completion Date": "2027-02-09T00:00:00",
+    "Proposed Completion Date": "2027-04-19T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0300": {
@@ -9872,7 +9020,7 @@
     "County": "Haskell",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
-    "Proposed Completion Date": "2026-06-01T00:00:00",
+    "Proposed Completion Date": "2026-07-21T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0311": {
@@ -9903,7 +9051,7 @@
     "Queue ID": "26INR0313",
     "Project Name": "Edens Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 70.37,
+    "Capacity (MW)": 70.75,
     "Status": "Active",
     "County": "Hill",
     "State": "Texas",
@@ -9932,7 +9080,7 @@
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2029-07-10T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0318": {
@@ -9957,18 +9105,6 @@
     "State": "Texas",
     "Queue Date": "2024-01-03T00:00:00",
     "Proposed Completion Date": "2028-08-15T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "26INR0321": {
-    "Queue ID": "26INR0321",
-    "Project Name": "Windmill Ridge Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 151.4,
-    "Status": "Active",
-    "County": "Brazoria",
-    "State": "Texas",
-    "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0324": {
@@ -10040,7 +9176,7 @@
     "County": "Bexar",
     "State": "Texas",
     "Queue Date": "2023-11-30T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2029-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0333": {
@@ -10052,7 +9188,7 @@
     "County": "Galveston",
     "State": "Texas",
     "Queue Date": "2023-10-13T00:00:00",
-    "Proposed Completion Date": "2026-04-28T00:00:00",
+    "Proposed Completion Date": "2026-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0340": {
@@ -10064,7 +9200,7 @@
     "County": "Galveston",
     "State": "Texas",
     "Queue Date": "2023-10-25T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
+    "Proposed Completion Date": "2027-05-24T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0341": {
@@ -10103,18 +9239,6 @@
     "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "26INR0349": {
-    "Queue ID": "26INR0349",
-    "Project Name": "ARTIO ENERGY STORAGE",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.94,
-    "Status": "Active",
-    "County": "Collin",
-    "State": "Texas",
-    "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2028-10-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "26INR0355": {
     "Queue ID": "26INR0355",
     "Project Name": "Pleiades Storage",
@@ -10124,7 +9248,7 @@
     "County": "Glasscock",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
-    "Proposed Completion Date": "2028-09-22T00:00:00",
+    "Proposed Completion Date": "2029-09-22T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0356": {
@@ -10264,7 +9388,7 @@
     "Project Name": "Nanulak BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 181.54,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Reeves",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
@@ -10280,7 +9404,7 @@
     "County": "Mitchell",
     "State": "Texas",
     "Queue Date": "2024-03-29T00:00:00",
-    "Proposed Completion Date": "2027-03-20T00:00:00",
+    "Proposed Completion Date": "2028-03-20T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0388": {
@@ -10292,38 +9416,38 @@
     "County": "Reeves",
     "State": "Texas",
     "Queue Date": "2024-02-02T00:00:00",
-    "Proposed Completion Date": "2027-06-30T00:00:00",
+    "Proposed Completion Date": "2027-11-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0391": {
     "Queue ID": "26INR0391",
     "Project Name": "Jumping Cactus Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.37,
+    "Capacity (MW)": 125.32,
     "Status": "Active",
     "County": "Duval",
     "State": "Texas",
     "Queue Date": "2024-01-11T00:00:00",
-    "Proposed Completion Date": "2028-10-15T00:00:00",
+    "Proposed Completion Date": "2029-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0393": {
     "Queue ID": "26INR0393",
     "Project Name": "Dove Wing Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 122.41,
+    "Capacity (MW)": 122.21,
     "Status": "Active",
     "County": "Duval",
     "State": "Texas",
     "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2028-10-15T00:00:00",
+    "Proposed Completion Date": "2029-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0402": {
     "Queue ID": "26INR0402",
     "Project Name": "HILLBORO BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 127.29,
+    "Capacity (MW)": 130.9,
     "Status": "Active",
     "County": "Hill",
     "State": "Texas",
@@ -10376,7 +9500,7 @@
     "County": "Madison",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2029-09-08T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0412": {
@@ -10400,7 +9524,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2027-03-01T00:00:00",
+    "Proposed Completion Date": "2028-01-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0418": {
@@ -10415,6 +9539,18 @@
     "Proposed Completion Date": "2027-08-16T00:00:00",
     "ISO": "ERCOT"
   },
+  "26INR0419": {
+    "Queue ID": "26INR0419",
+    "Project Name": "Lone Bow Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 277.46,
+    "Status": "Active",
+    "County": "Val Verde",
+    "State": "Texas",
+    "Queue Date": "2026-05-11T00:00:00",
+    "Proposed Completion Date": "2029-12-03T00:00:00",
+    "ISO": "ERCOT"
+  },
   "26INR0420": {
     "Queue ID": "26INR0420",
     "Project Name": "Whitetail BESS",
@@ -10424,7 +9560,7 @@
     "County": "Mitchell",
     "State": "Texas",
     "Queue Date": "2024-02-27T00:00:00",
-    "Proposed Completion Date": "2028-03-10T00:00:00",
+    "Proposed Completion Date": "2029-06-08T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0422": {
@@ -10444,7 +9580,7 @@
     "Project Name": "Twinwood Solar 1",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 358.06,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Waller",
     "State": "Texas",
     "Queue Date": "2024-03-22T00:00:00",
@@ -10456,7 +9592,7 @@
     "Project Name": "Maderagemela BESS1",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 153.96,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Waller",
     "State": "Texas",
     "Queue Date": "2024-02-27T00:00:00",
@@ -10480,7 +9616,7 @@
     "Project Name": "Diamond Cowboy Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 103.5,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2024-04-15T00:00:00",
@@ -10616,7 +9752,7 @@
     "County": "Kinney",
     "State": "Texas",
     "Queue Date": "2024-07-01T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0452": {
@@ -10700,7 +9836,7 @@
     "County": "Hunt",
     "State": "Texas",
     "Queue Date": "2024-10-29T00:00:00",
-    "Proposed Completion Date": "2027-11-30T00:00:00",
+    "Proposed Completion Date": "2028-08-10T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0465": {
@@ -10760,7 +9896,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2024-11-26T00:00:00",
-    "Proposed Completion Date": "2028-02-18T00:00:00",
+    "Proposed Completion Date": "2028-10-08T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0470": {
@@ -10772,7 +9908,7 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2024-11-26T00:00:00",
-    "Proposed Completion Date": "2028-02-18T00:00:00",
+    "Proposed Completion Date": "2028-10-08T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0472": {
@@ -10943,18 +10079,6 @@
     "Proposed Completion Date": "2028-09-30T00:00:00",
     "ISO": "ERCOT"
   },
-  "26INR0506": {
-    "Queue ID": "26INR0506",
-    "Project Name": "Momentum Bock",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.38,
-    "Status": "Active",
-    "County": "Lamar",
-    "State": "Texas",
-    "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2028-04-20T00:00:00",
-    "ISO": "ERCOT"
-  },
   "26INR0511": {
     "Queue ID": "26INR0511",
     "Project Name": "Little Star Solar",
@@ -10964,7 +10088,7 @@
     "County": "Bastrop",
     "State": "Texas",
     "Queue Date": "2024-07-01T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0514": {
@@ -10976,7 +10100,7 @@
     "County": "Bastrop",
     "State": "Texas",
     "Queue Date": "2024-09-10T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0521": {
@@ -11024,7 +10148,7 @@
     "County": "Fort Bend",
     "State": "Texas",
     "Queue Date": "2024-11-19T00:00:00",
-    "Proposed Completion Date": "2027-04-30T00:00:00",
+    "Proposed Completion Date": "2028-04-30T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0527": {
@@ -11043,12 +10167,12 @@
     "Queue ID": "26INR0543",
     "Project Name": "Three Canes Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 334.73,
+    "Capacity (MW)": 334.5,
     "Status": "Completed",
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2024-07-22T00:00:00",
-    "Proposed Completion Date": "2027-07-31T00:00:00",
+    "Proposed Completion Date": "2028-02-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0544": {
@@ -11060,7 +10184,7 @@
     "County": "Wichita",
     "State": "Texas",
     "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2027-08-18T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0545": {
@@ -11096,7 +10220,7 @@
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2024-09-10T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2029-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0550": {
@@ -11132,7 +10256,7 @@
     "County": "Dimmit",
     "State": "Texas",
     "Queue Date": "2024-08-16T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2028-09-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0556": {
@@ -11192,7 +10316,7 @@
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2024-10-01T00:00:00",
-    "Proposed Completion Date": "2026-12-01T00:00:00",
+    "Proposed Completion Date": "2028-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0598": {
@@ -11307,7 +10431,7 @@
     "Queue ID": "26INR0612",
     "Project Name": "Clay County Yang Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 307.51,
+    "Capacity (MW)": 307.27,
     "Status": "Active",
     "County": "Clay",
     "State": "Texas",
@@ -11331,7 +10455,7 @@
     "Queue ID": "26INR0614",
     "Project Name": "Bell County Leifester Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.0,
+    "Capacity (MW)": 204.9,
     "Status": "Active",
     "County": "Bell",
     "State": "Texas",
@@ -11343,7 +10467,7 @@
     "Queue ID": "26INR0615",
     "Project Name": "Bell County Morgan Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 256.4,
+    "Capacity (MW)": 256.27,
     "Status": "Active",
     "County": "Bell",
     "State": "Texas",
@@ -11379,7 +10503,7 @@
     "Queue ID": "26INR0618",
     "Project Name": "Taylor County Paul Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.0,
+    "Capacity (MW)": 204.9,
     "Status": "Active",
     "County": "Taylor",
     "State": "Texas",
@@ -11396,7 +10520,7 @@
     "County": "Limestone",
     "State": "Texas",
     "Queue Date": "2025-01-28T00:00:00",
-    "Proposed Completion Date": "2027-04-05T00:00:00",
+    "Proposed Completion Date": "2027-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0621": {
@@ -11480,7 +10604,7 @@
     "County": "Cameron",
     "State": "Texas",
     "Queue Date": "2025-01-28T00:00:00",
-    "Proposed Completion Date": "2027-03-08T00:00:00",
+    "Proposed Completion Date": "2028-04-03T00:00:00",
     "ISO": "ERCOT"
   },
   "26INR0654": {
@@ -11495,30 +10619,6 @@
     "Proposed Completion Date": "2027-10-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "26INR0669": {
-    "Queue ID": "26INR0669",
-    "Project Name": "Greyhound Solar - Phase E",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 150.71,
-    "Status": "Completed",
-    "County": "Ector",
-    "State": "Texas",
-    "Queue Date": "2025-04-17T00:00:00",
-    "Proposed Completion Date": "2025-11-20T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "26INR0670": {
-    "Queue ID": "26INR0670",
-    "Project Name": "Greyhound Solar - Phase F",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 101.6,
-    "Status": "Completed",
-    "County": "Ector",
-    "State": "Texas",
-    "Queue Date": "2025-04-17T00:00:00",
-    "Proposed Completion Date": "2025-11-13T00:00:00",
-    "ISO": "ERCOT"
-  },
   "26INR0686": {
     "Queue ID": "26INR0686",
     "Project Name": "Zeus Mitchell BESS II",
@@ -11531,6 +10631,18 @@
     "Proposed Completion Date": "2027-05-01T00:00:00",
     "ISO": "ERCOT"
   },
+  "26INR0701": {
+    "Queue ID": "26INR0701",
+    "Project Name": "Key City Solar SLF",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 989.1,
+    "Status": "Active",
+    "County": "Taylor",
+    "State": "Texas",
+    "Queue Date": "2025-07-07T00:00:00",
+    "Proposed Completion Date": "2029-03-31T00:00:00",
+    "ISO": "ERCOT"
+  },
   "26INR0725": {
     "Queue ID": "26INR0725",
     "Project Name": "PHOTON BESS REPOWERING",
@@ -11540,7 +10652,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2025-11-05T00:00:00",
-    "Proposed Completion Date": "2027-05-17T00:00:00",
+    "Proposed Completion Date": "2027-08-17T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0002": {
@@ -11612,19 +10724,7 @@
     "County": "Henderson",
     "State": "Texas",
     "Queue Date": "2023-03-13T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0020": {
-    "Queue ID": "27INR0020",
-    "Project Name": "SCOTT CROSSING SOLAR SLF",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 364.14,
-    "Status": "Active",
-    "County": "Haskell",
-    "State": "Texas",
-    "Queue Date": "2023-03-27T00:00:00",
-    "Proposed Completion Date": "2027-09-01T00:00:00",
+    "Proposed Completion Date": "2029-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0022": {
@@ -11691,12 +10791,12 @@
     "Queue ID": "27INR0040",
     "Project Name": "Solar Star Rhome Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 220.7,
+    "Capacity (MW)": 226.24,
     "Status": "Active",
     "County": "Wise",
     "State": "Texas",
     "Queue Date": "2023-04-19T00:00:00",
-    "Proposed Completion Date": "2027-03-31T00:00:00",
+    "Proposed Completion Date": "2029-09-27T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0047": {
@@ -11708,7 +10808,7 @@
     "County": "Nueces",
     "State": "Texas",
     "Queue Date": "2023-06-28T00:00:00",
-    "Proposed Completion Date": "2029-01-26T00:00:00",
+    "Proposed Completion Date": "2028-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0049": {
@@ -11716,7 +10816,7 @@
     "Project Name": "Darkwood Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 150.76,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Comanche",
     "State": "Texas",
     "Queue Date": "2023-06-28T00:00:00",
@@ -11728,11 +10828,23 @@
     "Project Name": "Darkwood BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 150.5,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Comanche",
     "State": "Texas",
     "Queue Date": "2023-06-07T00:00:00",
-    "Proposed Completion Date": "2027-09-20T00:00:00",
+    "Proposed Completion Date": "2028-07-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0074": {
+    "Queue ID": "27INR0074",
+    "Project Name": "Desert Hill Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 250.5,
+    "Status": "Active",
+    "County": "Culberson",
+    "State": "Texas",
+    "Queue Date": "2024-01-11T00:00:00",
+    "Proposed Completion Date": "2030-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0077": {
@@ -11768,43 +10880,19 @@
     "County": "Bee",
     "State": "Texas",
     "Queue Date": "2023-10-13T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2029-07-10T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0085": {
     "Queue ID": "27INR0085",
     "Project Name": "Eagle Claw Energy Center",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 200.84,
+    "Capacity (MW)": 204.58,
     "Status": "Completed",
     "County": "Grimes",
     "State": "Texas",
     "Queue Date": "2023-10-13T00:00:00",
     "Proposed Completion Date": "2028-03-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0086": {
-    "Queue ID": "27INR0086",
-    "Project Name": "Tumbleweed Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 613.89,
-    "Status": "Active",
-    "County": "Borden",
-    "State": "Texas",
-    "Queue Date": "2023-09-22T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0087": {
-    "Queue ID": "27INR0087",
-    "Project Name": "Tumbleweed Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 507.2,
-    "Status": "Active",
-    "County": "Borden",
-    "State": "Texas",
-    "Queue Date": "2023-10-04T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0090": {
@@ -11828,7 +10916,7 @@
     "County": "Lavaca",
     "State": "Texas",
     "Queue Date": "2023-12-04T00:00:00",
-    "Proposed Completion Date": "2029-08-01T00:00:00",
+    "Proposed Completion Date": "2030-09-20T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0092": {
@@ -11852,7 +10940,7 @@
     "County": "Guadalupe",
     "State": "Texas",
     "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
+    "Proposed Completion Date": "2030-05-30T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0096": {
@@ -11864,7 +10952,7 @@
     "County": "Brazoria",
     "State": "Texas",
     "Queue Date": "2023-11-14T00:00:00",
-    "Proposed Completion Date": "2026-12-31T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0097": {
@@ -11951,6 +11039,18 @@
     "Proposed Completion Date": "2032-04-30T00:00:00",
     "ISO": "ERCOT"
   },
+  "27INR0115": {
+    "Queue ID": "27INR0115",
+    "Project Name": "Diamante BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 513.68,
+    "Status": "Active",
+    "County": "Grimes",
+    "State": "Texas",
+    "Queue Date": "2024-02-27T00:00:00",
+    "Proposed Completion Date": "2028-11-01T00:00:00",
+    "ISO": "ERCOT"
+  },
   "27INR0117": {
     "Queue ID": "27INR0117",
     "Project Name": "Roble BESS",
@@ -12027,7 +11127,7 @@
     "Queue ID": "27INR0127",
     "Project Name": "Bigway Solar I",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 203.0,
+    "Capacity (MW)": 195.2,
     "Status": "Completed",
     "County": "King",
     "State": "Texas",
@@ -12039,7 +11139,7 @@
     "Queue ID": "27INR0128",
     "Project Name": "Bigway Solar II",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 203.0,
+    "Capacity (MW)": 206.0,
     "Status": "Completed",
     "County": "King",
     "State": "Texas",
@@ -12152,7 +11252,7 @@
     "County": "Colorado",
     "State": "Texas",
     "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0148": {
@@ -12164,7 +11264,7 @@
     "County": "Colorado",
     "State": "Texas",
     "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0149": {
@@ -12200,7 +11300,7 @@
     "County": "Karnes",
     "State": "Texas",
     "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2029-09-30T00:00:00",
+    "Proposed Completion Date": "2030-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0152": {
@@ -12212,19 +11312,7 @@
     "County": "Karnes",
     "State": "Texas",
     "Queue Date": "2024-01-11T00:00:00",
-    "Proposed Completion Date": "2029-09-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0154": {
-    "Queue ID": "27INR0154",
-    "Project Name": "Jim Wells BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.32,
-    "Status": "Active",
-    "County": "Jim Wells",
-    "State": "Texas",
-    "Queue Date": "2024-02-07T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
+    "Proposed Completion Date": "2030-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0169": {
@@ -12339,7 +11427,7 @@
     "Queue ID": "27INR0195",
     "Project Name": "CORRUSCANT BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 401.45,
+    "Capacity (MW)": 417.79,
     "Status": "Active",
     "County": "Dickens",
     "State": "Texas",
@@ -12356,7 +11444,7 @@
     "County": "Houston",
     "State": "Texas",
     "Queue Date": "2024-02-27T00:00:00",
-    "Proposed Completion Date": "2027-04-12T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0198": {
@@ -12527,18 +11615,6 @@
     "Proposed Completion Date": "2029-02-22T00:00:00",
     "ISO": "ERCOT"
   },
-  "27INR0223": {
-    "Queue ID": "27INR0223",
-    "Project Name": "Benitoite Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.65,
-    "Status": "Active",
-    "County": "Van Zandt",
-    "State": "Texas",
-    "Queue Date": "2024-03-22T00:00:00",
-    "Proposed Completion Date": "2027-08-25T00:00:00",
-    "ISO": "ERCOT"
-  },
   "27INR0224": {
     "Queue ID": "27INR0224",
     "Project Name": "Leopard BESS",
@@ -12560,7 +11636,7 @@
     "County": "Nacogdoches",
     "State": "Texas",
     "Queue Date": "2024-03-29T00:00:00",
-    "Proposed Completion Date": "2028-09-09T00:00:00",
+    "Proposed Completion Date": "2028-09-12T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0227": {
@@ -12584,7 +11660,7 @@
     "County": "Nacogdoches",
     "State": "Texas",
     "Queue Date": "2024-04-09T00:00:00",
-    "Proposed Completion Date": "2028-09-09T00:00:00",
+    "Proposed Completion Date": "2028-09-12T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0231": {
@@ -12596,7 +11672,7 @@
     "County": "Schleicher",
     "State": "Texas",
     "Queue Date": "2024-03-29T00:00:00",
-    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "Proposed Completion Date": "2029-06-15T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0232": {
@@ -12625,14 +11701,14 @@
   },
   "27INR0234": {
     "Queue ID": "27INR0234",
-    "Project Name": "Maddox Solar",
+    "Project Name": "Lima Solar Project",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 101.3,
     "Status": "Active",
     "County": "Grayson",
     "State": "Texas",
     "Queue Date": "2024-05-09T00:00:00",
-    "Proposed Completion Date": "2028-04-01T00:00:00",
+    "Proposed Completion Date": "2029-03-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0235": {
@@ -12683,24 +11759,12 @@
     "Proposed Completion Date": "2029-01-15T00:00:00",
     "ISO": "ERCOT"
   },
-  "27INR0243": {
-    "Queue ID": "27INR0243",
-    "Project Name": "Brookview Road BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 203.2,
-    "Status": "Completed",
-    "County": "Harris",
-    "State": "Texas",
-    "Queue Date": "2024-04-09T00:00:00",
-    "Proposed Completion Date": "2028-05-02T00:00:00",
-    "ISO": "ERCOT"
-  },
   "27INR0245": {
     "Queue ID": "27INR0245",
     "Project Name": "Pez Rojo BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 217.23,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2024-07-01T00:00:00",
@@ -12716,7 +11780,7 @@
     "County": "Angelina",
     "State": "Texas",
     "Queue Date": "2024-06-13T00:00:00",
-    "Proposed Completion Date": "2028-07-01T00:00:00",
+    "Proposed Completion Date": "2028-09-21T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0248": {
@@ -12728,7 +11792,7 @@
     "County": "Goliad",
     "State": "Texas",
     "Queue Date": "2024-06-13T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0249": {
@@ -12740,7 +11804,7 @@
     "County": "Jim Wells",
     "State": "Texas",
     "Queue Date": "2024-05-20T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0251": {
@@ -12752,7 +11816,7 @@
     "County": "Jackson",
     "State": "Texas",
     "Queue Date": "2024-06-03T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0252": {
@@ -12776,19 +11840,7 @@
     "County": "Maverick",
     "State": "Texas",
     "Queue Date": "2024-05-09T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0254": {
-    "Queue ID": "27INR0254",
-    "Project Name": "REVOLUTION BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 208.8,
-    "Status": "Active",
-    "County": "La Salle",
-    "State": "Texas",
-    "Queue Date": "2024-05-09T00:00:00",
-    "Proposed Completion Date": "2027-05-01T00:00:00",
+    "Proposed Completion Date": "2030-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0255": {
@@ -12800,7 +11852,7 @@
     "County": "Ward",
     "State": "Texas",
     "Queue Date": "2024-05-09T00:00:00",
-    "Proposed Completion Date": "2027-09-30T00:00:00",
+    "Proposed Completion Date": "2029-09-29T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0260": {
@@ -12812,7 +11864,7 @@
     "County": "Jackson",
     "State": "Texas",
     "Queue Date": "2024-06-03T00:00:00",
-    "Proposed Completion Date": "2027-05-31T00:00:00",
+    "Proposed Completion Date": "2028-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0261": {
@@ -12908,7 +11960,7 @@
     "County": "Bexar",
     "State": "Texas",
     "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2027-02-15T00:00:00",
+    "Proposed Completion Date": "2029-02-15T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0298": {
@@ -12935,18 +11987,6 @@
     "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "27INR0303": {
-    "Queue ID": "27INR0303",
-    "Project Name": "Rocky Point BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 150.96,
-    "Status": "Active",
-    "County": "Coke",
-    "State": "Texas",
-    "Queue Date": "2024-07-30T00:00:00",
-    "Proposed Completion Date": "2027-11-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "27INR0305": {
     "Queue ID": "27INR0305",
     "Project Name": "Kurtz Solar SLF",
@@ -12968,7 +12008,7 @@
     "County": "Jim Wells",
     "State": "Texas",
     "Queue Date": "2024-08-16T00:00:00",
-    "Proposed Completion Date": "2028-07-29T00:00:00",
+    "Proposed Completion Date": "2029-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0308": {
@@ -12980,7 +12020,7 @@
     "County": "Jim Wells",
     "State": "Texas",
     "Queue Date": "2024-08-16T00:00:00",
-    "Proposed Completion Date": "2027-07-31T00:00:00",
+    "Proposed Completion Date": "2029-05-11T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0309": {
@@ -12999,24 +12039,12 @@
     "Queue ID": "27INR0313",
     "Project Name": "Spindletop Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 286.04,
+    "Capacity (MW)": 286.4,
     "Status": "Completed",
     "County": "Nacogdoches",
     "State": "Texas",
     "Queue Date": "2024-07-30T00:00:00",
     "Proposed Completion Date": "2027-12-29T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0314": {
-    "Queue ID": "27INR0314",
-    "Project Name": "Spindletop Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 142.57,
-    "Status": "Completed",
-    "County": "Nacogdoches",
-    "State": "Texas",
-    "Queue Date": "2024-07-30T00:00:00",
-    "Proposed Completion Date": "2027-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0315": {
@@ -13028,7 +12056,7 @@
     "County": "Reagan",
     "State": "Texas",
     "Queue Date": "2024-10-01T00:00:00",
-    "Proposed Completion Date": "2027-08-31T00:00:00",
+    "Proposed Completion Date": "2029-07-26T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0316": {
@@ -13040,7 +12068,7 @@
     "County": "Freestone",
     "State": "Texas",
     "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
+    "Proposed Completion Date": "2029-04-16T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0317": {
@@ -13077,18 +12105,6 @@
     "State": "Texas",
     "Queue Date": "2025-11-24T00:00:00",
     "Proposed Completion Date": "2029-09-20T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0326": {
-    "Queue ID": "27INR0326",
-    "Project Name": "Thunderbird Valley  Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 150.39,
-    "Status": "Active",
-    "County": "Young",
-    "State": "Texas",
-    "Queue Date": "2024-11-19T00:00:00",
-    "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0327": {
@@ -13163,23 +12179,11 @@
     "Proposed Completion Date": "2029-09-02T00:00:00",
     "ISO": "ERCOT"
   },
-  "27INR0341": {
-    "Queue ID": "27INR0341",
-    "Project Name": "Tomahawk Road BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.0,
-    "Status": "Active",
-    "County": "Ector",
-    "State": "Texas",
-    "Queue Date": "2024-08-16T00:00:00",
-    "Proposed Completion Date": "2028-03-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "27INR0342": {
     "Queue ID": "27INR0342",
     "Project Name": "Dorsey Road BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 155.0,
+    "Capacity (MW)": 150.39,
     "Status": "Active",
     "County": "Bexar",
     "State": "Texas",
@@ -13191,7 +12195,7 @@
     "Queue ID": "27INR0343",
     "Project Name": "Plant Road BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 206.0,
+    "Capacity (MW)": 200.73,
     "Status": "Active",
     "County": "Ector",
     "State": "Texas",
@@ -13251,7 +12255,7 @@
     "Queue ID": "27INR0355",
     "Project Name": "Gardner Draw Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 300.0,
+    "Capacity (MW)": 309.5,
     "Status": "Completed",
     "County": "Glasscock",
     "State": "Texas",
@@ -13300,7 +12304,7 @@
     "Project Name": "Comanche BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 614.4,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Comanche",
     "State": "Texas",
     "Queue Date": "2024-12-06T00:00:00",
@@ -13484,7 +12488,7 @@
     "County": "Wharton",
     "State": "Texas",
     "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2027-06-01T00:00:00",
+    "Proposed Completion Date": "2027-10-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0393": {
@@ -13496,7 +12500,7 @@
     "County": "Bexar",
     "State": "Texas",
     "Queue Date": "2024-12-19T00:00:00",
-    "Proposed Completion Date": "2027-06-08T00:00:00",
+    "Proposed Completion Date": "2027-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0395": {
@@ -13521,18 +12525,6 @@
     "State": "Texas",
     "Queue Date": "2025-04-25T00:00:00",
     "Proposed Completion Date": "2029-07-02T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0397": {
-    "Queue ID": "27INR0397",
-    "Project Name": "Zodiac Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 125.58,
-    "Status": "Active",
-    "County": "Val Verde",
-    "State": "Texas",
-    "Queue Date": "2024-11-19T00:00:00",
-    "Proposed Completion Date": "2028-08-29T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0398": {
@@ -13592,19 +12584,19 @@
     "County": "Lamar",
     "State": "Texas",
     "Queue Date": "2025-06-19T00:00:00",
-    "Proposed Completion Date": "2029-04-27T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0412": {
     "Queue ID": "27INR0412",
     "Project Name": "Spinosa BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 201.2,
+    "Capacity (MW)": 201.16,
     "Status": "Active",
     "County": "Wichita",
     "State": "Texas",
     "Queue Date": "2025-04-29T00:00:00",
-    "Proposed Completion Date": "2028-10-10T00:00:00",
+    "Proposed Completion Date": "2030-05-08T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0413": {
@@ -13623,7 +12615,7 @@
     "Queue ID": "27INR0414",
     "Project Name": "Diamond Sage BESS 1",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.14,
+    "Capacity (MW)": 103.5,
     "Status": "Active",
     "County": "Webb",
     "State": "Texas",
@@ -13875,7 +12867,7 @@
     "Queue ID": "27INR0444",
     "Project Name": "Diamond Sage BESS 2",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 100.14,
+    "Capacity (MW)": 103.5,
     "Status": "Active",
     "County": "Webb",
     "State": "Texas",
@@ -14092,7 +13084,7 @@
     "Project Name": "Blackland Prairie 1 Energy Storage",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 102.1,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Travis",
     "State": "Texas",
     "Queue Date": "2025-03-24T00:00:00",
@@ -14132,7 +13124,7 @@
     "County": "Rusk",
     "State": "Texas",
     "Queue Date": "2025-06-19T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
+    "Proposed Completion Date": "2028-02-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0492": {
@@ -14144,19 +13136,19 @@
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2025-04-21T00:00:00",
-    "Proposed Completion Date": "2027-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0493": {
     "Queue ID": "27INR0493",
     "Project Name": "Velociraptor BESS I",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 261.12,
+    "Capacity (MW)": 246.0,
     "Status": "Active",
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2025-05-27T00:00:00",
-    "Proposed Completion Date": "2028-11-17T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0494": {
@@ -14219,30 +13211,6 @@
     "Proposed Completion Date": "2027-12-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "27INR0515": {
-    "Queue ID": "27INR0515",
-    "Project Name": "Paolo Sole Gustine Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 40.34,
-    "Status": "Active",
-    "County": "Comanche",
-    "State": "Texas",
-    "Queue Date": "2025-05-27T00:00:00",
-    "Proposed Completion Date": "2028-07-11T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "27INR0516": {
-    "Queue ID": "27INR0516",
-    "Project Name": "Paolo Sole Hamilton Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 40.63,
-    "Status": "Active",
-    "County": "Hamilton",
-    "State": "Texas",
-    "Queue Date": "2025-05-27T00:00:00",
-    "Proposed Completion Date": "2028-07-11T00:00:00",
-    "ISO": "ERCOT"
-  },
   "27INR0519": {
     "Queue ID": "27INR0519",
     "Project Name": "Wagyu BESS SLF",
@@ -14303,6 +13271,18 @@
     "Proposed Completion Date": "2027-12-18T00:00:00",
     "ISO": "ERCOT"
   },
+  "27INR0555": {
+    "Queue ID": "27INR0555",
+    "Project Name": "Montezuma Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 183.88,
+    "Status": "Active",
+    "County": "Colorado",
+    "State": "Texas",
+    "Queue Date": "2025-09-22T00:00:00",
+    "Proposed Completion Date": "2029-01-30T00:00:00",
+    "ISO": "ERCOT"
+  },
   "27INR0556": {
     "Queue ID": "27INR0556",
     "Project Name": "Gulf Gateway Storage One ",
@@ -14312,7 +13292,7 @@
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2025-08-26T00:00:00",
-    "Proposed Completion Date": "2027-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0562": {
@@ -14337,6 +13317,30 @@
     "State": "Texas",
     "Queue Date": "2025-11-05T00:00:00",
     "Proposed Completion Date": "2029-09-17T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0576": {
+    "Queue ID": "27INR0576",
+    "Project Name": "Trailblazer BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 261.97,
+    "Status": "Active",
+    "County": "Nolan",
+    "State": "Texas",
+    "Queue Date": "2026-03-18T00:00:00",
+    "Proposed Completion Date": "2027-12-12T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0578": {
+    "Queue ID": "27INR0578",
+    "Project Name": "Trailblazer Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 323.02,
+    "Status": "Active",
+    "County": "Nolan",
+    "State": "Texas",
+    "Queue Date": "2026-03-18T00:00:00",
+    "Proposed Completion Date": "2027-12-12T00:00:00",
     "ISO": "ERCOT"
   },
   "27INR0584": {
@@ -14373,6 +13377,102 @@
     "State": "Texas",
     "Queue Date": "2025-12-17T00:00:00",
     "Proposed Completion Date": "2027-06-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0611": {
+    "Queue ID": "27INR0611",
+    "Project Name": "Bodkin BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 79.1,
+    "Status": "Active",
+    "County": "Brazoria",
+    "State": "Texas",
+    "Queue Date": "2026-04-02T00:00:00",
+    "Proposed Completion Date": "2027-12-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0614": {
+    "Queue ID": "27INR0614",
+    "Project Name": "Armadillo Solar Phase 2",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 200.71,
+    "Status": "Active",
+    "County": "Navarro",
+    "State": "Texas",
+    "Queue Date": null,
+    "Proposed Completion Date": "2027-03-04T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0618": {
+    "Queue ID": "27INR0618",
+    "Project Name": "Prairie Point Energy Storage I",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 1000.0,
+    "Status": "Active",
+    "County": "Wise",
+    "State": "Texas",
+    "Queue Date": "2026-05-13T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0619": {
+    "Queue ID": "27INR0619",
+    "Project Name": "Prairie Point Energy Storage II",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 1000.0,
+    "Status": "Active",
+    "County": "Wise",
+    "State": "Texas",
+    "Queue Date": "2026-05-13T00:00:00",
+    "Proposed Completion Date": "2027-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0620": {
+    "Queue ID": "27INR0620",
+    "Project Name": "st gall IIIA Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.69,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-04-22T00:00:00",
+    "Proposed Completion Date": "2028-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0621": {
+    "Queue ID": "27INR0621",
+    "Project Name": "st gall IIIB Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.69,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-04-22T00:00:00",
+    "Proposed Completion Date": "2028-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0623": {
+    "Queue ID": "27INR0623",
+    "Project Name": "Helion Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Scurry",
+    "State": "Texas",
+    "Queue Date": "2026-05-15T00:00:00",
+    "Proposed Completion Date": "2027-10-22T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "27INR0624": {
+    "Queue ID": "27INR0624",
+    "Project Name": "Helion BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 100.0,
+    "Status": "Active",
+    "County": "Scurry",
+    "State": "Texas",
+    "Queue Date": "2026-05-15T00:00:00",
+    "Proposed Completion Date": "2027-09-16T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0005": {
@@ -14416,7 +13516,7 @@
     "Project Name": "Varadero Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 206.0,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Limestone",
     "State": "Texas",
     "Queue Date": "2023-07-10T00:00:00",
@@ -14492,7 +13592,7 @@
     "County": "Duval",
     "State": "Texas",
     "Queue Date": "2024-02-27T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2030-12-31T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0043": {
@@ -14612,7 +13712,7 @@
     "County": "Karnes",
     "State": "Texas",
     "Queue Date": "2024-04-15T00:00:00",
-    "Proposed Completion Date": "2028-03-15T00:00:00",
+    "Proposed Completion Date": "2028-09-15T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0074": {
@@ -14660,7 +13760,7 @@
     "County": "Archer",
     "State": "Texas",
     "Queue Date": "2024-07-01T00:00:00",
-    "Proposed Completion Date": "2028-09-18T00:00:00",
+    "Proposed Completion Date": "2029-04-19T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0094": {
@@ -14672,7 +13772,7 @@
     "County": "Anderson",
     "State": "Texas",
     "Queue Date": "2024-06-13T00:00:00",
-    "Proposed Completion Date": "2028-04-17T00:00:00",
+    "Proposed Completion Date": "2028-09-18T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0095": {
@@ -14807,30 +13907,6 @@
     "Proposed Completion Date": "2029-07-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0132": {
-    "Queue ID": "28INR0132",
-    "Project Name": "River Boat Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 502.2,
-    "Status": "Active",
-    "County": "Mitchell",
-    "State": "Texas",
-    "Queue Date": "2024-09-04T00:00:00",
-    "Proposed Completion Date": "2028-09-25T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "28INR0133": {
-    "Queue ID": "28INR0133",
-    "Project Name": "River Boat Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 207.02,
-    "Status": "Active",
-    "County": "Mitchell",
-    "State": "Texas",
-    "Queue Date": "2024-10-01T00:00:00",
-    "Proposed Completion Date": "2028-09-25T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0134": {
     "Queue ID": "28INR0134",
     "Project Name": "Salt-Lick Storage",
@@ -14900,7 +13976,7 @@
     "County": "Harris",
     "State": "Texas",
     "Queue Date": "2024-09-10T00:00:00",
-    "Proposed Completion Date": "2026-07-20T00:00:00",
+    "Proposed Completion Date": "2026-12-18T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0155": {
@@ -15107,18 +14183,6 @@
     "Proposed Completion Date": "2028-07-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0194": {
-    "Queue ID": "28INR0194",
-    "Project Name": "Tapaderos Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 301.6,
-    "Status": "Active",
-    "County": "Young",
-    "State": "Texas",
-    "Queue Date": "2024-11-19T00:00:00",
-    "Proposed Completion Date": "2028-09-19T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0195": {
     "Queue ID": "28INR0195",
     "Project Name": "Star Grass Renewable Energy Solar SLF",
@@ -15131,18 +14195,6 @@
     "Proposed Completion Date": "2029-09-14T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0196": {
-    "Queue ID": "28INR0196",
-    "Project Name": "Tapaderos Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 207.0,
-    "Status": "Active",
-    "County": "Young",
-    "State": "Texas",
-    "Queue Date": "2024-11-19T00:00:00",
-    "Proposed Completion Date": "2028-09-19T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0198": {
     "Queue ID": "28INR0198",
     "Project Name": "Winters Glow Solar",
@@ -15152,7 +14204,7 @@
     "County": "Runnels",
     "State": "Texas",
     "Queue Date": "2024-10-29T00:00:00",
-    "Proposed Completion Date": "2028-09-19T00:00:00",
+    "Proposed Completion Date": "2029-04-17T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0199": {
@@ -15164,7 +14216,7 @@
     "County": "Runnels",
     "State": "Texas",
     "Queue Date": "2024-10-29T00:00:00",
-    "Proposed Completion Date": "2028-09-19T00:00:00",
+    "Proposed Completion Date": "2029-04-17T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0202": {
@@ -15280,7 +14332,7 @@
     "Project Name": "Bayou Creek Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 255.47,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2024-12-19T00:00:00",
@@ -15356,7 +14408,7 @@
     "County": "La Salle",
     "State": "Texas",
     "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2028-07-02T00:00:00",
+    "Proposed Completion Date": "2029-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0241": {
@@ -15368,7 +14420,7 @@
     "County": "La Salle",
     "State": "Texas",
     "Queue Date": "2026-02-26T00:00:00",
-    "Proposed Completion Date": "2028-07-02T00:00:00",
+    "Proposed Completion Date": "2029-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0245": {
@@ -15524,7 +14576,7 @@
     "County": "Cottle",
     "State": "Texas",
     "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2028-07-29T00:00:00",
+    "Proposed Completion Date": "2029-08-13T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0268": {
@@ -15536,7 +14588,7 @@
     "County": "Cottle",
     "State": "Texas",
     "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2028-07-29T00:00:00",
+    "Proposed Completion Date": "2029-08-13T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0269": {
@@ -15572,19 +14624,7 @@
     "County": "Brewster",
     "State": "Texas",
     "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2027-01-30T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "28INR0272": {
-    "Queue ID": "28INR0272",
-    "Project Name": "Miracle Ranch Solar SLF",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 221.6,
-    "Status": "Active",
-    "County": "Webb",
-    "State": "Texas",
-    "Queue Date": "2025-02-25T00:00:00",
-    "Proposed Completion Date": "2028-06-30T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0277": {
@@ -15603,7 +14643,7 @@
     "Queue ID": "28INR0278",
     "Project Name": "Spur Energy Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 306.31,
+    "Capacity (MW)": 612.62,
     "Status": "Active",
     "County": "Wise",
     "State": "Texas",
@@ -15611,28 +14651,16 @@
     "Proposed Completion Date": "2029-09-15T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0281": {
-    "Queue ID": "28INR0281",
-    "Project Name": "Jukebox Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 281.0,
-    "Status": "Active",
-    "County": "Frio",
-    "State": "Texas",
-    "Queue Date": "2025-06-19T00:00:00",
-    "Proposed Completion Date": "2027-07-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0288": {
     "Queue ID": "28INR0288",
     "Project Name": "Outrider BESS",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 302.0,
-    "Status": "Active",
+    "Status": "Completed",
     "County": "Dickens",
     "State": "Texas",
     "Queue Date": "2025-06-05T00:00:00",
-    "Proposed Completion Date": "2028-09-30T00:00:00",
+    "Proposed Completion Date": "2029-06-26T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0290": {
@@ -15719,18 +14747,6 @@
     "Proposed Completion Date": "2029-03-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0300": {
-    "Queue ID": "28INR0300",
-    "Project Name": "Champion Road BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 205.2,
-    "Status": "Active",
-    "County": "Angelina",
-    "State": "Texas",
-    "Queue Date": "2025-02-14T00:00:00",
-    "Proposed Completion Date": "2028-09-30T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0301": {
     "Queue ID": "28INR0301",
     "Project Name": "Carpet Tech Solar One",
@@ -15771,7 +14787,7 @@
     "Queue ID": "28INR0305",
     "Project Name": "Iron Cowboy Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 120.69,
+    "Capacity (MW)": 144.59,
     "Status": "Active",
     "County": "San Patricio",
     "State": "Texas",
@@ -15800,7 +14816,7 @@
     "County": "Zapata",
     "State": "Texas",
     "Queue Date": "2025-10-28T00:00:00",
-    "Proposed Completion Date": "2028-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0321": {
@@ -15819,24 +14835,24 @@
     "Queue ID": "28INR0322",
     "Project Name": "Velociraptor Solar II",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 251.73,
+    "Capacity (MW)": 241.81,
     "Status": "Active",
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2025-05-27T00:00:00",
-    "Proposed Completion Date": "2028-11-17T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0323": {
     "Queue ID": "28INR0323",
     "Project Name": "Velociraptor BESS II",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 261.29,
+    "Capacity (MW)": 246.21,
     "Status": "Active",
     "County": "Ector",
     "State": "Texas",
     "Queue Date": "2025-05-27T00:00:00",
-    "Proposed Completion Date": "2028-11-17T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0324": {
@@ -15947,18 +14963,6 @@
     "Proposed Completion Date": "2029-11-15T00:00:00",
     "ISO": "ERCOT"
   },
-  "28INR0346": {
-    "Queue ID": "28INR0346",
-    "Project Name": "Maximino Road BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 206.0,
-    "Status": "Active",
-    "County": "Comal",
-    "State": "Texas",
-    "Queue Date": "2025-03-24T00:00:00",
-    "Proposed Completion Date": "2028-05-31T00:00:00",
-    "ISO": "ERCOT"
-  },
   "28INR0348": {
     "Queue ID": "28INR0348",
     "Project Name": "Ringtail Energy Storage",
@@ -16004,7 +15008,7 @@
     "County": "Victoria",
     "State": "Texas",
     "Queue Date": "2025-06-19T00:00:00",
-    "Proposed Completion Date": "2029-01-01T00:00:00",
+    "Proposed Completion Date": "2029-09-30T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0358": {
@@ -16012,18 +15016,6 @@
     "Project Name": "Cherry Sage Solar 1 SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 142.51,
-    "Status": "Active",
-    "County": "Concho",
-    "State": "Texas",
-    "Queue Date": "2025-04-25T00:00:00",
-    "Proposed Completion Date": "2029-02-23T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "28INR0359": {
-    "Queue ID": "28INR0359",
-    "Project Name": "Cherry Sage Storage 1 SLF",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 150.28,
     "Status": "Active",
     "County": "Concho",
     "State": "Texas",
@@ -16047,12 +15039,12 @@
     "Queue ID": "28INR0373",
     "Project Name": "Berryman Road Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 154.09,
+    "Capacity (MW)": 150.39,
     "Status": "Active",
     "County": "Archer",
     "State": "Texas",
     "Queue Date": "2025-06-05T00:00:00",
-    "Proposed Completion Date": "2029-04-16T00:00:00",
+    "Proposed Completion Date": "2029-09-24T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0385": {
@@ -16191,12 +15183,24 @@
     "Queue ID": "28INR0404",
     "Project Name": "Penelope Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 97.5,
+    "Capacity (MW)": 97.8,
     "Status": "Active",
     "County": "Hill",
     "State": "Texas",
     "Queue Date": "2025-07-21T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2029-09-24T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0411": {
+    "Queue ID": "28INR0411",
+    "Project Name": "Black Creek BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 120.0,
+    "Status": "Active",
+    "County": "Frio",
+    "State": "Texas",
+    "Queue Date": "2025-07-29T00:00:00",
+    "Proposed Completion Date": "2029-03-20T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0412": {
@@ -16227,24 +15231,24 @@
     "Queue ID": "28INR0422",
     "Project Name": "Prairie Branch Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 301.14,
+    "Capacity (MW)": 301.23,
     "Status": "Active",
     "County": "Montague",
     "State": "Texas",
     "Queue Date": "2025-09-09T00:00:00",
-    "Proposed Completion Date": "2028-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0423": {
     "Queue ID": "28INR0423",
     "Project Name": "Prairie Branch BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 310.16,
+    "Capacity (MW)": 310.17,
     "Status": "Active",
     "County": "Montague",
     "State": "Texas",
     "Queue Date": "2025-09-09T00:00:00",
-    "Proposed Completion Date": "2028-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0426": {
@@ -16257,6 +15261,42 @@
     "State": "Texas",
     "Queue Date": "2025-10-03T00:00:00",
     "Proposed Completion Date": "2029-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0427": {
+    "Queue ID": "28INR0427",
+    "Project Name": "Ouroboros Grid BESS 4",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 201.14,
+    "Status": "Active",
+    "County": "Cameron",
+    "State": "Texas",
+    "Queue Date": "2025-08-18T00:00:00",
+    "Proposed Completion Date": "2029-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0428": {
+    "Queue ID": "28INR0428",
+    "Project Name": "Ouroboros Grid BESS 5",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.96,
+    "Status": "Active",
+    "County": "Cameron",
+    "State": "Texas",
+    "Queue Date": "2025-08-18T00:00:00",
+    "Proposed Completion Date": "2029-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0429": {
+    "Queue ID": "28INR0429",
+    "Project Name": "Ouroboros Grid BESS 6",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.94,
+    "Status": "Active",
+    "County": "Cameron",
+    "State": "Texas",
+    "Queue Date": "2025-08-18T00:00:00",
+    "Proposed Completion Date": "2029-06-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0433": {
@@ -16295,6 +15335,18 @@
     "Proposed Completion Date": "2028-05-02T00:00:00",
     "ISO": "ERCOT"
   },
+  "28INR0438": {
+    "Queue ID": "28INR0438",
+    "Project Name": "Moss Rock Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 157.12,
+    "Status": "Active",
+    "County": "Mills",
+    "State": "Texas",
+    "Queue Date": "2025-09-22T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
   "28INR0442": {
     "Queue ID": "28INR0442",
     "Project Name": "Zunkerville BESS",
@@ -16304,7 +15356,7 @@
     "County": "Karnes",
     "State": "Texas",
     "Queue Date": "2025-09-22T00:00:00",
-    "Proposed Completion Date": "2028-06-01T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0443": {
@@ -16316,7 +15368,7 @@
     "County": "Karnes",
     "State": "Texas",
     "Queue Date": "2025-12-02T00:00:00",
-    "Proposed Completion Date": "2028-06-01T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0448": {
@@ -16329,18 +15381,6 @@
     "State": "Texas",
     "Queue Date": "2025-09-22T00:00:00",
     "Proposed Completion Date": "2028-12-01T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "28INR0450": {
-    "Queue ID": "28INR0450",
-    "Project Name": "Bunting Solar Project",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 126.1,
-    "Status": "Active",
-    "County": "Frio",
-    "State": "Texas",
-    "Queue Date": "2025-10-21T00:00:00",
-    "Proposed Completion Date": "2028-09-15T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0452": {
@@ -16389,6 +15429,18 @@
     "State": "Texas",
     "Queue Date": "2025-12-23T00:00:00",
     "Proposed Completion Date": "2028-06-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0462": {
+    "Queue ID": "28INR0462",
+    "Project Name": "Senterfitt Solar ",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 68.39,
+    "Status": "Active",
+    "County": "Lampasas",
+    "State": "Texas",
+    "Queue Date": "2026-03-11T00:00:00",
+    "Proposed Completion Date": "2029-07-03T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0463": {
@@ -16448,31 +15500,31 @@
     "County": "Navarro",
     "State": "Texas",
     "Queue Date": "2026-01-13T00:00:00",
-    "Proposed Completion Date": "2028-09-08T00:00:00",
+    "Proposed Completion Date": "2029-09-17T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0469": {
     "Queue ID": "28INR0469",
-    "Project Name": "Paint Brush PV1",
+    "Project Name": "Paintbrush PV1",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 251.5,
     "Status": "Active",
     "County": "Coleman",
     "State": "Texas",
     "Queue Date": "2025-12-02T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2030-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0470": {
     "Queue ID": "28INR0470",
-    "Project Name": "Paint Brush PV2",
+    "Project Name": "Paintbrush PV2",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 251.5,
     "Status": "Active",
     "County": "Coleman",
     "State": "Texas",
     "Queue Date": "2025-12-02T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2030-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0472": {
@@ -16508,7 +15560,7 @@
     "County": "Bexar",
     "State": "Texas",
     "Queue Date": "2026-02-10T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2030-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0475": {
@@ -16520,7 +15572,7 @@
     "County": "Bexar",
     "State": "Texas",
     "Queue Date": "2026-02-10T00:00:00",
-    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "Proposed Completion Date": "2030-05-31T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0476": {
@@ -16535,6 +15587,30 @@
     "Proposed Completion Date": "2029-06-30T00:00:00",
     "ISO": "ERCOT"
   },
+  "28INR0482": {
+    "Queue ID": "28INR0482",
+    "Project Name": "Falcon II Solar ",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 100.32,
+    "Status": "Active",
+    "County": "Zapata",
+    "State": "Texas",
+    "Queue Date": "2026-03-29T00:00:00",
+    "Proposed Completion Date": "2032-02-16T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0483": {
+    "Queue ID": "28INR0483",
+    "Project Name": "Falcon II BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 103.3,
+    "Status": "Active",
+    "County": "Zapata",
+    "State": "Texas",
+    "Queue Date": "2026-03-29T00:00:00",
+    "Proposed Completion Date": "2032-02-16T00:00:00",
+    "ISO": "ERCOT"
+  },
   "28INR0484": {
     "Queue ID": "28INR0484",
     "Project Name": "Pathfinder Energy Storage, LLC",
@@ -16544,7 +15620,7 @@
     "County": "San Patricio",
     "State": "Texas",
     "Queue Date": "2026-01-26T00:00:00",
-    "Proposed Completion Date": "2028-09-05T00:00:00",
+    "Proposed Completion Date": "2029-12-28T00:00:00",
     "ISO": "ERCOT"
   },
   "28INR0486": {
@@ -16569,6 +15645,54 @@
     "State": "Texas",
     "Queue Date": "2026-01-26T00:00:00",
     "Proposed Completion Date": "2028-02-15T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0498": {
+    "Queue ID": "28INR0498",
+    "Project Name": "Old Aqueduct BESS II",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 300.96,
+    "Status": "Active",
+    "County": "Hale",
+    "State": "Texas",
+    "Queue Date": "2026-03-10T00:00:00",
+    "Proposed Completion Date": "2028-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0503": {
+    "Queue ID": "28INR0503",
+    "Project Name": "Rancho Grande Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 251.58,
+    "Status": "Active",
+    "County": "Zapata",
+    "State": "Texas",
+    "Queue Date": "2026-04-02T00:00:00",
+    "Proposed Completion Date": "2028-05-09T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0514": {
+    "Queue ID": "28INR0514",
+    "Project Name": "Young Road Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 101.7,
+    "Status": "Active",
+    "County": "Baylor",
+    "State": "Texas",
+    "Queue Date": "2026-05-11T00:00:00",
+    "Proposed Completion Date": "2028-04-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "28INR0531": {
+    "Queue ID": "28INR0531",
+    "Project Name": "Crape Myrtle Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 140.69,
+    "Status": "Active",
+    "County": "Ellis",
+    "State": "Texas",
+    "Queue Date": null,
+    "Proposed Completion Date": "2028-06-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0003": {
@@ -16616,7 +15740,7 @@
     "County": "Crane",
     "State": "Texas",
     "Queue Date": "2024-06-13T00:00:00",
-    "Proposed Completion Date": "2031-03-21T00:00:00",
+    "Proposed Completion Date": "2029-03-21T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0015": {
@@ -16676,7 +15800,7 @@
     "County": "Jones",
     "State": "Texas",
     "Queue Date": "2024-06-03T00:00:00",
-    "Proposed Completion Date": "2028-12-02T00:00:00",
+    "Proposed Completion Date": "2029-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0030": {
@@ -16835,28 +15959,28 @@
     "Proposed Completion Date": "2028-09-30T00:00:00",
     "ISO": "ERCOT"
   },
-  "29INR0088": {
-    "Queue ID": "29INR0088",
-    "Project Name": "Cricket Storage",
+  "29INR0105": {
+    "Queue ID": "29INR0105",
+    "Project Name": "Falls County Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 232.18,
+    "Capacity (MW)": 60.0,
     "Status": "Active",
-    "County": "Henderson",
+    "County": "Falls",
     "State": "Texas",
-    "Queue Date": "2025-04-04T00:00:00",
-    "Proposed Completion Date": "2028-10-05T00:00:00",
+    "Queue Date": "2025-04-29T00:00:00",
+    "Proposed Completion Date": "2029-10-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "29INR0089": {
-    "Queue ID": "29INR0089",
-    "Project Name": "Arnold Hills Storage",
+  "29INR0106": {
+    "Queue ID": "29INR0106",
+    "Project Name": "Kalina Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 122.5,
+    "Capacity (MW)": 104.56,
     "Status": "Active",
-    "County": "Henderson",
+    "County": "San Patricio",
     "State": "Texas",
-    "Queue Date": "2025-03-24T00:00:00",
-    "Proposed Completion Date": "2029-02-09T00:00:00",
+    "Queue Date": "2025-04-21T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0107": {
@@ -16869,18 +15993,6 @@
     "State": "Texas",
     "Queue Date": "2025-09-22T00:00:00",
     "Proposed Completion Date": "2029-11-13T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "29INR0109": {
-    "Queue ID": "29INR0109",
-    "Project Name": "Rockpile Storage",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 104.0,
-    "Status": "Active",
-    "County": "Frio",
-    "State": "Texas",
-    "Queue Date": "2025-04-21T00:00:00",
-    "Proposed Completion Date": "2029-06-12T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0115": {
@@ -16905,18 +16017,6 @@
     "State": "Texas",
     "Queue Date": "2025-06-11T00:00:00",
     "Proposed Completion Date": "2029-03-31T00:00:00",
-    "ISO": "ERCOT"
-  },
-  "29INR0122": {
-    "Queue ID": "29INR0122",
-    "Project Name": "Sundance Solar",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 301.0,
-    "Status": "Active",
-    "County": "Knox",
-    "State": "Texas",
-    "Queue Date": "2025-04-21T00:00:00",
-    "Proposed Completion Date": "2029-07-18T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0123": {
@@ -16995,7 +16095,7 @@
     "Queue ID": "29INR0147",
     "Project Name": "Selenite Springs Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 300.0,
+    "Capacity (MW)": 253.0,
     "Status": "Completed",
     "County": "Pecos",
     "State": "Texas",
@@ -17015,18 +16115,6 @@
     "Proposed Completion Date": "2029-12-31T00:00:00",
     "ISO": "ERCOT"
   },
-  "29INR0151": {
-    "Queue ID": "29INR0151",
-    "Project Name": "Juanita Creek BESS",
-    "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 303.6,
-    "Status": "Active",
-    "County": "Matagorda",
-    "State": "Texas",
-    "Queue Date": "2025-06-19T00:00:00",
-    "Proposed Completion Date": "2031-10-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "29INR0152": {
     "Queue ID": "29INR0152",
     "Project Name": "Ranger BESS",
@@ -17036,7 +16124,19 @@
     "County": "Medina",
     "State": "Texas",
     "Queue Date": "2025-06-12T00:00:00",
-    "Proposed Completion Date": "2028-04-29T00:00:00",
+    "Proposed Completion Date": "2029-04-29T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0154": {
+    "Queue ID": "29INR0154",
+    "Project Name": "Las Mujeres Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 684.33,
+    "Status": "Active",
+    "County": "Jim Hogg",
+    "State": "Texas",
+    "Queue Date": "2026-05-13T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0160": {
@@ -17084,7 +16184,7 @@
     "County": "Zapata",
     "State": "Texas",
     "Queue Date": "2025-09-09T00:00:00",
-    "Proposed Completion Date": "2028-06-24T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0170": {
@@ -17096,7 +16196,7 @@
     "County": "Brewster",
     "State": "Texas",
     "Queue Date": "2025-08-21T00:00:00",
-    "Proposed Completion Date": "2027-01-30T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0171": {
@@ -17108,7 +16208,7 @@
     "County": "Young",
     "State": "Texas",
     "Queue Date": "2025-08-26T00:00:00",
-    "Proposed Completion Date": "2029-02-14T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0172": {
@@ -17120,7 +16220,7 @@
     "County": "Young",
     "State": "Texas",
     "Queue Date": "2025-08-26T00:00:00",
-    "Proposed Completion Date": "2029-02-14T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0173": {
@@ -17147,21 +16247,9 @@
     "Proposed Completion Date": "2029-10-01T00:00:00",
     "ISO": "ERCOT"
   },
-  "29INR0178": {
-    "Queue ID": "29INR0178",
-    "Project Name": "Rattlesnake Gap Solar SLF",
-    "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 93.0,
-    "Status": "Active",
-    "County": "Howard",
-    "State": "Texas",
-    "Queue Date": "2025-09-22T00:00:00",
-    "Proposed Completion Date": "2029-06-01T00:00:00",
-    "ISO": "ERCOT"
-  },
   "29INR0181": {
     "Queue ID": "29INR0181",
-    "Project Name": "Glass Mountain Solar Solstice",
+    "Project Name": "Pecos Flats Solar III",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 304.0,
     "Status": "Active",
@@ -17173,19 +16261,19 @@
   },
   "29INR0182": {
     "Queue ID": "29INR0182",
-    "Project Name": "Glass Mountain Solar 2",
+    "Project Name": "Pecos Flats Solar II",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 304.3,
     "Status": "Active",
     "County": "Pecos",
     "State": "Texas",
     "Queue Date": "2025-09-22T00:00:00",
-    "Proposed Completion Date": "2029-03-22T00:00:00",
+    "Proposed Completion Date": "2029-02-05T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0183": {
     "Queue ID": "29INR0183",
-    "Project Name": "Glass Mountain Solar 1",
+    "Project Name": "Pecos Flats Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 304.3,
     "Status": "Active",
@@ -17252,7 +16340,7 @@
     "County": "Hopkins",
     "State": "Texas",
     "Queue Date": "2025-09-09T00:00:00",
-    "Proposed Completion Date": "2029-08-01T00:00:00",
+    "Proposed Completion Date": "2029-09-24T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0192": {
@@ -17283,12 +16371,24 @@
     "Queue ID": "29INR0196",
     "Project Name": "Two Step Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 402.06,
+    "Capacity (MW)": 401.62,
     "Status": "Active",
     "County": "Ellis",
     "State": "Texas",
     "Queue Date": "2025-12-17T00:00:00",
     "Proposed Completion Date": "2029-09-17T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0197": {
+    "Queue ID": "29INR0197",
+    "Project Name": "Zora Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 250.8,
+    "Status": "Active",
+    "County": "Wharton",
+    "State": "Texas",
+    "Queue Date": "2026-05-13T00:00:00",
+    "Proposed Completion Date": "2029-10-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0198": {
@@ -17307,24 +16407,24 @@
     "Queue ID": "29INR0203",
     "Project Name": "Miller Bend Energy Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 531.69,
+    "Capacity (MW)": 531.84,
     "Status": "Active",
     "County": "Young",
     "State": "Texas",
     "Queue Date": "2025-12-17T00:00:00",
-    "Proposed Completion Date": "2029-06-01T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0204": {
     "Queue ID": "29INR0204",
     "Project Name": "Miller Bend Energy BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 547.62,
+    "Capacity (MW)": 547.65,
     "Status": "Active",
     "County": "Young",
     "State": "Texas",
     "Queue Date": "2025-12-17T00:00:00",
-    "Proposed Completion Date": "2029-06-01T00:00:00",
+    "Proposed Completion Date": "2029-12-01T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0207": {
@@ -17361,6 +16461,18 @@
     "State": "Texas",
     "Queue Date": "2026-02-05T00:00:00",
     "Proposed Completion Date": "2029-12-18T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0214": {
+    "Queue ID": "29INR0214",
+    "Project Name": "Amphion Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.0,
+    "Status": "Active",
+    "County": "Atascosa",
+    "State": "Texas",
+    "Queue Date": "2026-02-10T00:00:00",
+    "Proposed Completion Date": "2029-05-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0217": {
@@ -17401,38 +16513,50 @@
   },
   "29INR0220": {
     "Queue ID": "29INR0220",
-    "Project Name": "Paint Brush PV3",
+    "Project Name": " Paintbrush PV3",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 251.5,
     "Status": "Active",
     "County": "Coleman",
     "State": "Texas",
     "Queue Date": "2025-12-02T00:00:00",
-    "Proposed Completion Date": "2029-12-31T00:00:00",
+    "Proposed Completion Date": "2030-10-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0221": {
     "Queue ID": "29INR0221",
-    "Project Name": "Paint Brush PV4",
+    "Project Name": " Paintbrush PV4",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 251.5,
     "Status": "Active",
     "County": "Coleman",
     "State": "Texas",
     "Queue Date": "2025-12-02T00:00:00",
-    "Proposed Completion Date": "2029-12-31T00:00:00",
+    "Proposed Completion Date": "2030-10-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0222": {
     "Queue ID": "29INR0222",
-    "Project Name": "Paint Brush BESS1",
+    "Project Name": "Paintbrush BESS1",
     "Generation Type": "Other - Battery Energy Storage",
     "Capacity (MW)": 201.31,
     "Status": "Active",
     "County": "Coleman",
     "State": "Texas",
     "Queue Date": "2026-01-13T00:00:00",
-    "Proposed Completion Date": "2029-12-31T00:00:00",
+    "Proposed Completion Date": "2030-10-15T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0223": {
+    "Queue ID": "29INR0223",
+    "Project Name": "Mandolin Solar II SLF",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 304.4,
+    "Status": "Active",
+    "County": "Starr",
+    "State": "Texas",
+    "Queue Date": null,
+    "Proposed Completion Date": "2029-06-15T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0225": {
@@ -17475,7 +16599,7 @@
     "Queue ID": "29INR0229",
     "Project Name": "Brazos Energy Center 1",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 300.76,
+    "Capacity (MW)": 300.6,
     "Status": "Active",
     "County": "McLennan",
     "State": "Texas",
@@ -17487,7 +16611,7 @@
     "Queue ID": "29INR0230",
     "Project Name": "Brazos Energy Center 2",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 300.76,
+    "Capacity (MW)": 300.6,
     "Status": "Active",
     "County": "McLennan",
     "State": "Texas",
@@ -17497,7 +16621,7 @@
   },
   "29INR0231": {
     "Queue ID": "29INR0231",
-    "Project Name": "Copper Canyon Solar",
+    "Project Name": "Tango Lily Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
     "Capacity (MW)": 200.95,
     "Status": "Active",
@@ -17535,7 +16659,7 @@
     "Queue ID": "29INR0244",
     "Project Name": "Oak Belt Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 207.0,
+    "Capacity (MW)": 209.7,
     "Status": "Active",
     "County": "Victoria",
     "State": "Texas",
@@ -17571,19 +16695,19 @@
     "Queue ID": "29INR0250",
     "Project Name": "Slash Pine Storage",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 206.38,
+    "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Kaufman",
     "State": "Texas",
     "Queue Date": "2026-01-13T00:00:00",
-    "Proposed Completion Date": "2029-12-18T00:00:00",
+    "Proposed Completion Date": "2029-09-17T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0251": {
     "Queue ID": "29INR0251",
-    "Project Name": "Sugarberry Solar",
+    "Project Name": "Sugarberry Solar SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 127.3,
+    "Capacity (MW)": 125.0,
     "Status": "Active",
     "County": "Kinney",
     "State": "Texas",
@@ -17595,24 +16719,48 @@
     "Queue ID": "29INR0255",
     "Project Name": "Los Toros Energy Center Solar SLF",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 401.4,
+    "Capacity (MW)": 401.56,
     "Status": "Active",
     "County": "Dawson",
     "State": "Texas",
     "Queue Date": "2026-02-25T00:00:00",
-    "Proposed Completion Date": "2029-09-01T00:00:00",
+    "Proposed Completion Date": "2030-03-31T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0267": {
     "Queue ID": "29INR0267",
     "Project Name": "Enfinity White Oak BESS",
     "Generation Type": "Other - Battery Energy Storage",
-    "Capacity (MW)": 207.96,
+    "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Borden",
     "State": "Texas",
     "Queue Date": "2026-02-25T00:00:00",
-    "Proposed Completion Date": "2029-12-18T00:00:00",
+    "Proposed Completion Date": "2029-09-17T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0274": {
+    "Queue ID": "29INR0274",
+    "Project Name": "Richardson McClung Ranch Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 251.95,
+    "Status": "Active",
+    "County": "Eastland",
+    "State": "Texas",
+    "Queue Date": "2026-01-28T00:00:00",
+    "Proposed Completion Date": "2029-11-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0275": {
+    "Queue ID": "29INR0275",
+    "Project Name": "Richardson McClung Ranch BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 205.49,
+    "Status": "Active",
+    "County": "Eastland",
+    "State": "Texas",
+    "Queue Date": "2026-01-26T00:00:00",
+    "Proposed Completion Date": "2029-11-30T00:00:00",
     "ISO": "ERCOT"
   },
   "29INR0279": {
@@ -17637,6 +16785,150 @@
     "State": "Texas",
     "Queue Date": "2026-02-19T00:00:00",
     "Proposed Completion Date": "2029-09-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0291": {
+    "Queue ID": "29INR0291",
+    "Project Name": " Enfinity Post Oak Solar SLF",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 500.0,
+    "Status": "Active",
+    "County": "Borden",
+    "State": "Texas",
+    "Queue Date": "2026-03-30T00:00:00",
+    "Proposed Completion Date": "2029-12-18T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0318": {
+    "Queue ID": "29INR0318",
+    "Project Name": "Nockenut Springs Storage 1",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 209.36,
+    "Status": "Active",
+    "County": "Wilson",
+    "State": "Texas",
+    "Queue Date": "2026-04-22T00:00:00",
+    "Proposed Completion Date": "2029-06-05T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0319": {
+    "Queue ID": "29INR0319",
+    "Project Name": "Nockenut Springs Storage 2",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 209.38,
+    "Status": "Active",
+    "County": "Wilson",
+    "State": "Texas",
+    "Queue Date": "2026-04-22T00:00:00",
+    "Proposed Completion Date": "2029-06-05T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0320": {
+    "Queue ID": "29INR0320",
+    "Project Name": "Nockenut Springs Storage 3",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 209.38,
+    "Status": "Active",
+    "County": "Wilson",
+    "State": "Texas",
+    "Queue Date": "2026-04-22T00:00:00",
+    "Proposed Completion Date": "2029-06-05T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0332": {
+    "Queue ID": "29INR0332",
+    "Project Name": "White Star Energy Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 201.2,
+    "Status": "Active",
+    "County": "Karnes",
+    "State": "Texas",
+    "Queue Date": "2026-05-13T00:00:00",
+    "Proposed Completion Date": "2029-12-31T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0347": {
+    "Queue ID": "29INR0347",
+    "Project Name": "Glass Mountain BB Solar 1",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 302.66,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-11T00:00:00",
+    "Proposed Completion Date": "2029-03-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0348": {
+    "Queue ID": "29INR0348",
+    "Project Name": "Glass Mountain BB Solar 2",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 302.66,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-11T00:00:00",
+    "Proposed Completion Date": "2029-03-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0349": {
+    "Queue ID": "29INR0349",
+    "Project Name": "Glass Mountain BB Solar 5",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 302.61,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-11T00:00:00",
+    "Proposed Completion Date": "2029-10-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0356": {
+    "Queue ID": "29INR0356",
+    "Project Name": "Enfinity Cedar",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 150.0,
+    "Status": "Active",
+    "County": "Irion",
+    "State": "Texas",
+    "Queue Date": null,
+    "Proposed Completion Date": "2030-07-17T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0357": {
+    "Queue ID": "29INR0357",
+    "Project Name": "Glass Mountain BB Solar 3",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 302.61,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-11T00:00:00",
+    "Proposed Completion Date": "2029-10-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0358": {
+    "Queue ID": "29INR0358",
+    "Project Name": "Glass Mountain BB Solar 4",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 302.61,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-11T00:00:00",
+    "Proposed Completion Date": "2029-10-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "29INR0360": {
+    "Queue ID": "29INR0360",
+    "Project Name": "Trumpet Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 455.0,
+    "Status": "Active",
+    "County": "Reeves",
+    "State": "Texas",
+    "Queue Date": "2026-06-17T00:00:00",
+    "Proposed Completion Date": "2029-07-01T00:00:00",
     "ISO": "ERCOT"
   },
   "30INR0005": {
@@ -17759,6 +17051,30 @@
     "Proposed Completion Date": "2028-08-30T00:00:00",
     "ISO": "ERCOT"
   },
+  "30INR0076": {
+    "Queue ID": "30INR0076",
+    "Project Name": "Zuma Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 201.37,
+    "Status": "Active",
+    "County": "Runnels",
+    "State": "Texas",
+    "Queue Date": "2026-04-02T00:00:00",
+    "Proposed Completion Date": "2030-09-09T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "30INR0083": {
+    "Queue ID": "30INR0083",
+    "Project Name": "Gravitas I Solar",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 1124.75,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-03-24T00:00:00",
+    "Proposed Completion Date": "2030-06-30T00:00:00",
+    "ISO": "ERCOT"
+  },
   "30INR0088": {
     "Queue ID": "30INR0088",
     "Project Name": "Mistflower Energy Center Solar",
@@ -17771,6 +17087,30 @@
     "Proposed Completion Date": "2030-06-01T00:00:00",
     "ISO": "ERCOT"
   },
+  "30INR0089": {
+    "Queue ID": "30INR0089",
+    "Project Name": "Mistflower Energy Center Storage",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 312.85,
+    "Status": "Active",
+    "County": "Runnels",
+    "State": "Texas",
+    "Queue Date": "2026-02-25T00:00:00",
+    "Proposed Completion Date": "2030-06-01T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "30INR0092": {
+    "Queue ID": "30INR0092",
+    "Project Name": "Wallflower Solar ",
+    "Generation Type": "Solar - Photovoltaic Solar",
+    "Capacity (MW)": 201.15,
+    "Status": "Active",
+    "County": "Zapata",
+    "State": "Texas",
+    "Queue Date": "2026-03-10T00:00:00",
+    "Proposed Completion Date": "2029-12-30T00:00:00",
+    "ISO": "ERCOT"
+  },
   "30INR0093": {
     "Queue ID": "30INR0093",
     "Project Name": "Wallflower Energy Storage",
@@ -17780,7 +17120,31 @@
     "County": "Zapata",
     "State": "Texas",
     "Queue Date": "2026-02-25T00:00:00",
-    "Proposed Completion Date": "2030-09-02T00:00:00",
+    "Proposed Completion Date": "2029-12-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "30INR0099": {
+    "Queue ID": "30INR0099",
+    "Project Name": "Quadspring BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 200.7,
+    "Status": "Active",
+    "County": "Loving",
+    "State": "Texas",
+    "Queue Date": "2026-06-12T00:00:00",
+    "Proposed Completion Date": "2030-06-30T00:00:00",
+    "ISO": "ERCOT"
+  },
+  "30INR0100": {
+    "Queue ID": "30INR0100",
+    "Project Name": "Pentarise BESS",
+    "Generation Type": "Other - Battery Energy Storage",
+    "Capacity (MW)": 150.6,
+    "Status": "Active",
+    "County": "Pecos",
+    "State": "Texas",
+    "Queue Date": "2026-06-12T00:00:00",
+    "Proposed Completion Date": "2030-06-30T00:00:00",
     "ISO": "ERCOT"
   },
   "31INR0009": {
@@ -17799,7 +17163,7 @@
     "Queue ID": "31INR0018",
     "Project Name": "Permian I Solar",
     "Generation Type": "Solar - Photovoltaic Solar",
-    "Capacity (MW)": 1125.69,
+    "Capacity (MW)": 1125.73,
     "Status": "Active",
     "County": "Pecos",
     "State": "Texas",
