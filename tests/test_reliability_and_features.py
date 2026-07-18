@@ -134,6 +134,52 @@ def test_pjm_queue_rejects_non_excel_response(monkeypatch) -> None:
         sentinel.fetch_pjm_planning_queue()
 
 
+def test_nyiso_queue_reuses_session_until_workbook_is_ready(monkeypatch) -> None:
+    class PendingResponse:
+        status_code = 202
+        headers = {"Retry-After": "1"}
+        content = b""
+
+    class ReadyResponse:
+        status_code = 200
+        headers: dict[str, str] = {}
+        content = b"PK-ready-workbook"
+
+        def raise_for_status(self) -> None:
+            return None
+
+    class FakeSession:
+        def __init__(self) -> None:
+            self.responses = [PendingResponse(), ReadyResponse()]
+            self.calls = 0
+
+        def get(self, *_args, **_kwargs):
+            response = self.responses[self.calls]
+            self.calls += 1
+            return response
+
+    session = FakeSession()
+
+    class FakeNyisoAdapter:
+        def get_raw_interconnection_queue(self):
+            raise AssertionError("the live downloader should be replaced")
+
+        def get_interconnection_queue(self):
+            workbook = self.get_raw_interconnection_queue()
+            assert workbook.read().startswith(b"PK")
+            return pd.DataFrame([{"Queue ID": "Q1"}])
+
+    monkeypatch.setattr(sentinel.requests, "Session", lambda: session)
+    monkeypatch.setattr(sentinel.gridstatus, "NYISO", FakeNyisoAdapter)
+    monkeypatch.setattr(sentinel.time, "sleep", lambda _delay: None)
+
+    queue = sentinel.fetch_nyiso_queue()
+
+    assert session.calls == 2
+    assert queue.iloc[0]["Queue ID"] == "Q1"
+    assert queue.iloc[0]["ISO"] == "NYISO"
+
+
 def test_duplicate_queue_ids_do_not_drop_units() -> None:
     frame = pd.DataFrame(
         [
