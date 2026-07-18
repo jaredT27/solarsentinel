@@ -77,7 +77,10 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             FORCE_FLAG="--force"
           fi
-          python solar_sentinel_enhanced.py $FORCE_FLAG
+          # Monitor-only until paying subscribers are onboarded. This keeps
+          # snapshots, diffs, history, and market health current without
+          # delivering customer alerts or calling geocoding services.
+          python solar_sentinel_enhanced.py --dry-run $FORCE_FLAG
           SCAN_EXIT=$?
           echo "exit_code=$SCAN_EXIT" >> "$GITHUB_OUTPUT"
           exit 0

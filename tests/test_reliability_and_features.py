@@ -249,6 +249,29 @@ def test_duplicate_queue_ids_do_not_drop_units() -> None:
     assert all(key.startswith("73::") for key in records)
 
 
+def test_missing_completion_dates_do_not_create_false_changes() -> None:
+    current = {
+        "Q1": {
+            "Queue ID": "Q1",
+            "Status": "Active",
+            "Capacity (MW)": 50,
+            "Proposed Completion Date": pd.NaT,
+        }
+    }
+    previous = {
+        "Q1": {
+            "Queue ID": "Q1",
+            "Status": "Active",
+            "Capacity (MW)": 50,
+            "Proposed Completion Date": None,
+        }
+    }
+
+    diff = sentinel.diff_projects(current, previous, sentinel.AlertConfig())
+
+    assert diff.changed_projects == []
+
+
 def test_personalized_subscriber_filters_match_every_rule() -> None:
     subscriber = Subscriber(
         name="Analyst",
