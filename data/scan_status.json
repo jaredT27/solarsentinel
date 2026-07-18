@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-18T20:59:35.278202+00:00",
+  "generated_at": "2026-07-18T21:54:37.304246+00:00",
   "status": "degraded",
-  "healthy_markets": 4,
+  "healthy_markets": 5,
   "total_markets": 6,
-  "elapsed_seconds": 25.45,
+  "elapsed_seconds": 17.17,
   "markets": [
     {
       "iso": "CAISO",
@@ -23,11 +23,11 @@
       "states": [
         "Texas"
       ],
-      "healthy": false,
-      "error": "Anomaly guard: 443 changes (29.8%) exceeds the configured daily safety limit",
-      "new": 53,
-      "changed": 317,
-      "withdrawn": 73,
+      "healthy": true,
+      "error": null,
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
       "records": 1432
     },
     {
