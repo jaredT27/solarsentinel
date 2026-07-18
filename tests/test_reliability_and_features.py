@@ -5,6 +5,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 import pandas as pd
+import pytest
 
 import solar_sentinel_enhanced as sentinel
 from sentinel_features import (
@@ -57,6 +58,80 @@ def test_isone_codes_and_state_abbreviation_are_normalized() -> None:
     filtered = sentinel.filter_projects(raw, ["Massachusetts"], sentinel.FilterConfig())
     assert len(filtered) == 1
     assert filtered.iloc[0]["State"] == "Massachusetts"
+
+
+class FakePjmResponse:
+    def __init__(self, content: bytes = b"PK-test-workbook") -> None:
+        self.content = content
+
+    def raise_for_status(self) -> None:
+        return None
+
+
+def test_pjm_queue_uses_planning_export_without_data_miner_key(monkeypatch) -> None:
+    monkeypatch.delenv("PJM_API_KEY", raising=False)
+    observed: dict[str, object] = {}
+
+    def fake_post(url, *, headers, timeout):
+        observed.update(url=url, headers=headers, timeout=timeout)
+        return FakePjmResponse()
+
+    raw = pd.DataFrame(
+        [
+            {
+                "Project ID": "AB1-001",
+                "Name": "Garden Storage",
+                "State": "NJ",
+                "County": "Salem",
+                "Status": "Active",
+                "MFO": 125,
+                "MW In Service": pd.NA,
+                "MW Energy": 130,
+                "MW Capacity": 120,
+                "Fuel": "Battery",
+                "Submitted Date": pd.Timestamp("2026-01-01"),
+                "Projected In Service Date": pd.Timestamp("2029-06-01"),
+            }
+        ]
+    )
+    monkeypatch.setattr(sentinel.requests, "post", fake_post)
+    monkeypatch.setattr(sentinel.pd, "read_excel", lambda _workbook: raw)
+
+    queue = sentinel.fetch_pjm_planning_queue()
+
+    assert observed["url"] == sentinel.PJM_PLANNING_EXPORT_URL
+    assert observed["headers"]["api-subscription-key"] == sentinel.PJM_PLANNING_CLIENT_KEY
+    assert "Ocp-Apim-Subscription-Key" not in observed["headers"]
+    assert queue.iloc[0]["Queue ID"] == "AB1-001"
+    assert queue.iloc[0]["Capacity (MW)"] == 125
+    assert queue.iloc[0]["ISO"] == "PJM"
+
+
+def test_pjm_queue_schema_change_fails_loudly(monkeypatch) -> None:
+    monkeypatch.setattr(
+        sentinel.requests,
+        "post",
+        lambda *_args, **_kwargs: FakePjmResponse(),
+    )
+    monkeypatch.setattr(
+        sentinel.pd,
+        "read_excel",
+        lambda _workbook: pd.DataFrame([{"Project ID": "changed-schema"}]),
+    )
+
+    with pytest.raises(ValueError, match="schema changed"):
+        sentinel.fetch_pjm_planning_queue()
+
+
+def test_pjm_queue_rejects_non_excel_response(monkeypatch) -> None:
+    monkeypatch.setattr(
+        sentinel.requests,
+        "post",
+        lambda *_args, **_kwargs: FakePjmResponse(b"<html>Access denied</html>"),
+    )
+
+    with pytest.raises(ValueError, match="did not return an XLSX"):
+        sentinel.fetch_pjm_planning_queue()
 
 
 def test_duplicate_queue_ids_do_not_drop_units() -> None:

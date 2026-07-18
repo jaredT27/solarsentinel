@@ -34,6 +34,7 @@ from __future__ import annotations
 
 import argparse
 import html as html_lib
+import io
 import json
 import logging
 import logging.handlers
@@ -93,7 +94,7 @@ ISO_QUEUE_URLS: dict[str, str] = {
     "ERCOT": "https://www.ercot.com/gridinfo/resource",
     "CAISO": "https://rimspub.caiso.com/rimsui/logon.do",
     "NYISO": "https://www.nyiso.com/interconnections",
-    "PJM":   "https://www.pjm.com/planning/service-requests/interconnection-queues",
+    "PJM":   "https://www.pjm.com/planning/service-requests",
     "ISONE": "https://irtt.iso-ne.com/reports/external",
 }
 
@@ -128,6 +129,29 @@ STANDARD_COLUMNS: list[str] = [
     "Queue Date",
     "Proposed Completion Date",
 ]
+
+# PJM's public interconnection queue is served by its Planning API, not by
+# Data Miner. The site client key below is shipped in PJM's public web bundle;
+# it is not a personal Data Miner subscription key. Keeping an environment
+# override gives us a fast recovery path if PJM rotates its public client key.
+PJM_PLANNING_EXPORT_URL = (
+    "https://services.pjm.com/PJMPlanningApi/api/Queue/ExportToXls"
+)
+PJM_PLANNING_CLIENT_KEY = os.getenv(
+    "PJM_PLANNING_CLIENT_KEY",
+    "E29477D0-70E0-4825-89B0-43F460BF9AB4",
+)
+PJM_REQUIRED_SOURCE_COLUMNS = {
+    "Project ID",
+    "Name",
+    "State",
+    "County",
+    "Status",
+    "MFO",
+    "Fuel",
+    "Submitted Date",
+    "Projected In Service Date",
+}
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -571,6 +595,86 @@ def get_google_earth_url(lat: float, lng: float) -> str:
 # QUEUE FETCHING — with tenacity retry
 # ═══════════════════════════════════════════════════════════════
 
+def fetch_pjm_planning_queue() -> pd.DataFrame:
+    """Fetch and normalize PJM's public Planning queue export.
+
+    PJM Data Miner does not publish the interconnection queue.  The public
+    service-request pages use this separate Planning API to export the serial
+    and cycle project inventory as an Excel workbook.
+    """
+    response = requests.post(
+        PJM_PLANNING_EXPORT_URL,
+        headers={
+            "api-subscription-key": PJM_PLANNING_CLIENT_KEY,
+            "Origin": "https://www.pjm.com",
+            "Referer": "https://www.pjm.com/",
+        },
+        timeout=90,
+    )
+    response.raise_for_status()
+
+    # XLSX files are ZIP containers. Reject HTML error pages and other
+    # malformed responses before pandas produces a misleading parser error.
+    if not response.content.startswith(b"PK"):
+        raise ValueError("PJM Planning export did not return an XLSX workbook")
+
+    source = pd.read_excel(io.BytesIO(response.content))
+    missing = PJM_REQUIRED_SOURCE_COLUMNS.difference(source.columns)
+    if missing:
+        raise ValueError(
+            "PJM Planning export schema changed; missing columns: "
+            + ", ".join(sorted(missing))
+        )
+    if source.empty:
+        raise ValueError("PJM Planning export returned no projects")
+
+    mfo = pd.to_numeric(source["MFO"], errors="coerce")
+    in_service = pd.to_numeric(
+        source.get("MW In Service", pd.Series(index=source.index, dtype=float)),
+        errors="coerce",
+    )
+    capacity = pd.concat([mfo, in_service], axis=1).min(axis=1, skipna=True)
+
+    # Some non-generation and migrated cycle records omit MFO. Preserve a
+    # useful capacity when PJM provides only its energy/capacity fields.
+    fallback_capacity = pd.concat(
+        [
+            pd.to_numeric(
+                source.get("MW Energy", pd.Series(index=source.index, dtype=float)),
+                errors="coerce",
+            ),
+            pd.to_numeric(
+                source.get("MW Capacity", pd.Series(index=source.index, dtype=float)),
+                errors="coerce",
+            ),
+        ],
+        axis=1,
+    ).max(axis=1, skipna=True)
+    capacity = capacity.fillna(fallback_capacity)
+
+    queue = source.rename(
+        columns={
+            "Project ID": "Queue ID",
+            "Name": "Project Name",
+            "Fuel": "Generation Type",
+            "Submitted Date": "Queue Date",
+            "Projected In Service Date": "Proposed Completion Date",
+        }
+    ).copy()
+    queue["Capacity (MW)"] = capacity
+    queue["ISO"] = "PJM"
+
+    for column in STANDARD_COLUMNS:
+        if column not in queue.columns:
+            queue[column] = pd.NA
+
+    logger.info(
+        "  -> %d total projects returned by PJM Planning API",
+        len(queue),
+    )
+    return queue[[*STANDARD_COLUMNS, "ISO"]]
+
+
 @retry(
     stop=stop_after_attempt(5),
     wait=wait_exponential(multiplier=1, min=5, max=30),
@@ -579,17 +683,15 @@ def get_google_earth_url(lat: float, lng: float) -> str:
     reraise=True,
 )
 def _fetch_iso_queue_with_retry(iso_name: str) -> pd.DataFrame:
-    """Internal: call gridstatus with automatic retry on transient errors."""
+    """Internal: call an ISO adapter with retries for transient errors."""
+    if iso_name == "PJM":
+        return fetch_pjm_planning_queue()
+
     iso_cls = getattr(gridstatus, iso_name, None) or getattr(
         gridstatus, iso_name.capitalize(), None,
     )
     if iso_cls is None:
         raise ValueError(f"gridstatus has no class '{iso_name}'")
-    if iso_name == "PJM" and not os.getenv("PJM_API_KEY", "").strip():
-        raise RuntimeError(
-            "PJM_API_KEY is not configured; create a PJM Data Miner API key "
-            "and add it as a GitHub Actions secret"
-        )
     return iso_cls().get_interconnection_queue()
 
 
@@ -599,11 +701,6 @@ def fetch_iso_queue(iso_name: str) -> pd.DataFrame:
     Returns an empty DataFrame (never raises) on permanent failure.
     """
     logger.info("Fetching %s interconnection queue …", iso_name)
-    if iso_name == "PJM" and not os.getenv("PJM_API_KEY", "").strip():
-        logger.error(
-            "PJM_API_KEY is not configured; add a PJM Data Miner key as a GitHub Actions secret"
-        )
-        return pd.DataFrame()
     try:
         df = _fetch_iso_queue_with_retry(iso_name)
         df["ISO"] = iso_name

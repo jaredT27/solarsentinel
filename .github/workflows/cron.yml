@@ -71,7 +71,6 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-          PJM_API_KEY: ${{ secrets.PJM_API_KEY }}
         run: |
           set +e
           FORCE_FLAG=""
