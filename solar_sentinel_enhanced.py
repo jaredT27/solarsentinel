@@ -1307,6 +1307,19 @@ def process_iso_group(
     # 4. Load previous snapshot (empty if --force)
     previous = {} if force else load_snapshot(iso_name)
 
+    # A newly enabled market has no trustworthy comparison point. Save the
+    # first complete inventory as its baseline instead of presenting every
+    # existing project as a new customer event. --force remains the explicit
+    # opt-in for re-alerting the entire current queue.
+    if not previous and not force:
+        logger.info(
+            "%s has no previous snapshot; saving %d records as its baseline",
+            iso_name,
+            len(current),
+        )
+        save_snapshot(iso_name, filtered_df)
+        return result
+
     # Reject suspicious upstream truncation before missing rows become false withdrawals.
     if previous and len(current) < len(previous) * cfg.reliability.min_snapshot_ratio:
         result.error = (

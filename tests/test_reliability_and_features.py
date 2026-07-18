@@ -247,3 +247,47 @@ def test_snapshot_drop_is_guarded(monkeypatch) -> None:
     )
     assert result.error and result.error.startswith("Snapshot guard")
     assert saved == []
+
+
+def test_first_successful_market_scan_creates_baseline_without_alerts(monkeypatch) -> None:
+    current = pd.DataFrame(
+        [
+            {
+                "Queue ID": "AB1-001",
+                "Project Name": "Garden Storage",
+                "Generation Type": "Battery",
+                "Capacity (MW)": 125,
+                "Status": "Active",
+                "County": "Salem",
+                "State": "New Jersey",
+                "ISO": "PJM",
+            }
+        ]
+    )
+    cfg = make_config()
+    cfg.states = [sentinel.StateConfig("New Jersey", "PJM", "#NJ")]
+    monkeypatch.setattr(sentinel, "fetch_iso_queue", lambda _iso: current)
+    monkeypatch.setattr(sentinel, "load_snapshot", lambda _iso: {})
+    saved: list[int] = []
+    monkeypatch.setattr(
+        sentinel,
+        "save_snapshot",
+        lambda _iso, projects: saved.append(len(projects)),
+    )
+    monkeypatch.setattr(
+        sentinel,
+        "send_to_channels",
+        lambda *_args, **_kwargs: pytest.fail("baseline scan must not send alerts"),
+    )
+
+    result = sentinel.process_iso_group(
+        "PJM",
+        cfg.states,
+        cfg,
+        dry_run=True,
+    )
+
+    assert result.error is None
+    assert result.records == 1
+    assert (result.new, result.changed, result.withdrawn) == (0, 0, 0)
+    assert saved == [1]
