@@ -1019,8 +1019,8 @@ def diff_projects(
             changes.append(f"Capacity: {old_mw:.0f} MW → {new_mw:.0f} MW")
 
         # Proposed Completion Date change
-        old_date = str(prev.get("Proposed Completion Date", "")).strip()[:10]
-        new_date = str(cur.get("Proposed Completion Date", "")).strip()[:10]
+        old_date = _safe_date(prev.get("Proposed Completion Date"))
+        new_date = _safe_date(cur.get("Proposed Completion Date"))
         if old_date != new_date and old_date and new_date:
             changes.append(f"Completion: {old_date} → {new_date}")
 
@@ -1068,6 +1068,23 @@ def _safe_float(val: Any) -> float:
         return 0.0 if pd.isna(f) else f
     except (TypeError, ValueError):
         return 0.0
+
+
+def _safe_date(val: Any) -> str:
+    """Normalize queue dates so null, NaN, and NaT compare as missing."""
+    if val is None:
+        return ""
+    try:
+        if pd.isna(val):
+            return ""
+    except (TypeError, ValueError):
+        pass
+    if isinstance(val, (datetime, date, pd.Timestamp)):
+        return val.strftime("%Y-%m-%d")
+    value = str(val).strip()
+    if value.lower() in {"", "none", "nan", "nat", "<na>"}:
+        return ""
+    return value[:10]
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -1478,7 +1495,11 @@ def process_iso_group(
         state = str(project.get("State", "")).strip()
         state_code = US_STATE_ABBREV.get(state, state[:2].upper())
         tag = tag_map.get(state, f"#{state_code}")
-        coords = geocode_project(project.get("County"), state, cfg.processing.geocode_delay_sec)
+        # Monitor-only runs must not make paid/slow enrichment calls. They
+        # still persist the same source-backed event to searchable history.
+        coords = None if dry_run else geocode_project(
+            project.get("County"), state, cfg.processing.geocode_delay_sec,
+        )
         image_url = get_satellite_image_url(*coords, cfg) if coords else None
         result.events.append(
             build_history_event(
