@@ -140,13 +140,25 @@ def test_nyiso_queue_reuses_session_until_workbook_is_ready(monkeypatch) -> None
         headers = {"Retry-After": "1"}
         content = b""
 
+        def __init__(self) -> None:
+            self.closed = False
+
+        def close(self) -> None:
+            self.closed = True
+
     class ReadyResponse:
         status_code = 200
         headers: dict[str, str] = {}
         content = b"PK-ready-workbook"
 
+        def __init__(self) -> None:
+            self.closed = False
+
         def raise_for_status(self) -> None:
             return None
+
+        def close(self) -> None:
+            self.closed = True
 
     class FakeSession:
         def __init__(self) -> None:
@@ -176,6 +188,8 @@ def test_nyiso_queue_reuses_session_until_workbook_is_ready(monkeypatch) -> None
     queue = sentinel.fetch_nyiso_queue()
 
     assert session.calls == 2
+    assert session.responses[0].closed
+    assert session.responses[1].closed
     assert queue.iloc[0]["Queue ID"] == "Q1"
     assert queue.iloc[0]["ISO"] == "NYISO"
 
