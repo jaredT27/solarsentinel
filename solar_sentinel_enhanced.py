@@ -154,7 +154,7 @@ PJM_REQUIRED_SOURCE_COLUMNS = {
 }
 NYISO_QUEUE_EXPORT_URL = (
     "https://www.nyiso.com/documents/20142/1407078/"
-    "NYISO-Interconnection-Queue.xlsx"
+    "NYISO-Interconnection-Queue.xlsx?download=true"
 )
 
 
@@ -693,10 +693,16 @@ def fetch_nyiso_queue() -> pd.DataFrame:
             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,"
             "application/octet-stream;q=0.9,*/*;q=0.8"
         ),
-        "User-Agent": "SolarSentinel/1.0 (+https://sentinel-alerts.vercel.app)",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.nyiso.com/connecting-to-the-grid",
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/138.0.0.0 Safari/537.36"
+        ),
     }
 
-    for attempt in range(1, 7):
+    for attempt in range(1, 5):
         response = session.get(NYISO_QUEUE_EXPORT_URL, headers=headers, timeout=90)
         if response.status_code == 202:
             retry_after = response.headers.get("Retry-After", "5")
@@ -705,7 +711,7 @@ def fetch_nyiso_queue() -> pd.DataFrame:
             except ValueError:
                 delay = 5
             logger.warning(
-                "NYISO workbook is being prepared (202); retrying in %.0fs (%d/6)",
+                "NYISO workbook is being prepared (202); retrying in %.0fs (%d/4)",
                 delay,
                 attempt,
             )
@@ -725,7 +731,7 @@ def fetch_nyiso_queue() -> pd.DataFrame:
         logger.info("  -> %d total projects returned by NYISO", len(queue))
         return queue
 
-    raise RuntimeError("NYISO workbook remained pending after 6 attempts")
+    raise RuntimeError("NYISO workbook remained pending after 4 attempts")
 
 
 @retry(
