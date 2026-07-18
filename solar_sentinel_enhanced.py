@@ -156,6 +156,7 @@ NYISO_QUEUE_EXPORT_URL = (
     "https://www.nyiso.com/documents/20142/1407078/"
     "NYISO-Interconnection-Queue.xlsx?download=true"
 )
+ISONE_QUEUE_EXPORT_URL = "https://irtt.iso-ne.com/reports/external"
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -744,6 +745,52 @@ def fetch_nyiso_queue() -> pd.DataFrame:
     raise RuntimeError("NYISO workbook remained pending after 3 attempts")
 
 
+def fetch_isone_queue() -> pd.DataFrame:
+    """Fetch ISO-NE with explicit timeouts missing from the upstream adapter."""
+    session = requests.Session()
+    headers = {
+        "Accept": "text/html,application/xhtml+xml",
+        "User-Agent": "Solar Sentinel queue monitor (Jared@Clauffice.com)",
+    }
+
+    for attempt in range(1, 4):
+        try:
+            response = session.get(
+                ISONE_QUEUE_EXPORT_URL,
+                headers=headers,
+                timeout=(10, 20),
+            )
+            response.raise_for_status()
+            content = response.content
+            response.close()
+            if b"publicqueue" not in content.lower():
+                raise ValueError("ISO-NE export did not contain the public queue")
+            break
+        except (requests.RequestException, ValueError):
+            if attempt == 3:
+                raise
+            delay = min(2 ** attempt, 5)
+            logger.warning(
+                "ISO-NE queue request failed; retrying in %ds (%d/3)",
+                delay,
+                attempt,
+            )
+            time.sleep(delay)
+    else:  # pragma: no cover - the loop either breaks or raises
+        raise RuntimeError("ISO-NE queue request exhausted retries")
+
+    # Keep gridstatus's maintained HTML parser while replacing only its
+    # unbounded downloader. The instance override is local to this call.
+    adapter = gridstatus.ISONE()
+    adapter.get_raw_interconnection_queue = (
+        lambda verbose=False: io.BytesIO(content)
+    )
+    queue = adapter.get_interconnection_queue()
+    queue["ISO"] = "ISONE"
+    logger.info("  -> %d total projects returned by ISO-NE", len(queue))
+    return queue
+
+
 @retry(
     stop=stop_after_attempt(5),
     wait=wait_exponential(multiplier=1, min=5, max=30),
@@ -771,14 +818,14 @@ def fetch_iso_queue(iso_name: str) -> pd.DataFrame:
     """
     logger.info("Fetching %s interconnection queue …", iso_name)
     try:
-        # NYISO implements its own session-aware, tightly bounded retry loop.
-        # Running it through the generic five-pass wrapper can otherwise hold
-        # the entire daily workflow open when NYISO blocks cloud egress.
-        df = (
-            fetch_nyiso_queue()
-            if iso_name == "NYISO"
-            else _fetch_iso_queue_with_retry(iso_name)
-        )
+        # These adapters implement tightly bounded retries because their
+        # upstream gridstatus downloaders do not bound every network path.
+        bounded_fetchers = {
+            "NYISO": fetch_nyiso_queue,
+            "ISONE": fetch_isone_queue,
+        }
+        fetcher = bounded_fetchers.get(iso_name)
+        df = fetcher() if fetcher else _fetch_iso_queue_with_retry(iso_name)
         df["ISO"] = iso_name
         logger.info("  -> %d total projects returned by %s", len(df), iso_name)
         return df
