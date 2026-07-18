@@ -194,6 +194,49 @@ def test_nyiso_queue_reuses_session_until_workbook_is_ready(monkeypatch) -> None
     assert queue.iloc[0]["ISO"] == "NYISO"
 
 
+def test_isone_queue_retries_with_explicit_timeout(monkeypatch) -> None:
+    class ReadyResponse:
+        content = b'<html><table id="publicqueue"></table></html>'
+
+        def raise_for_status(self) -> None:
+            return None
+
+        def close(self) -> None:
+            return None
+
+    class FakeSession:
+        def __init__(self) -> None:
+            self.calls: list[dict] = []
+
+        def get(self, *_args, **kwargs):
+            self.calls.append(kwargs)
+            if len(self.calls) == 1:
+                raise sentinel.requests.ConnectTimeout("upstream timed out")
+            return ReadyResponse()
+
+    session = FakeSession()
+
+    class FakeIsoneAdapter:
+        def get_raw_interconnection_queue(self, verbose=False):
+            raise AssertionError("the unbounded live downloader should be replaced")
+
+        def get_interconnection_queue(self):
+            html = self.get_raw_interconnection_queue()
+            assert b'publicqueue' in html.read()
+            return pd.DataFrame([{"Queue ID": "NE-1"}])
+
+    monkeypatch.setattr(sentinel.requests, "Session", lambda: session)
+    monkeypatch.setattr(sentinel.gridstatus, "ISONE", FakeIsoneAdapter)
+    monkeypatch.setattr(sentinel.time, "sleep", lambda _delay: None)
+
+    queue = sentinel.fetch_isone_queue()
+
+    assert len(session.calls) == 2
+    assert all(call["timeout"] == (10, 20) for call in session.calls)
+    assert queue.iloc[0]["Queue ID"] == "NE-1"
+    assert queue.iloc[0]["ISO"] == "ISONE"
+
+
 def test_duplicate_queue_ids_do_not_drop_units() -> None:
     frame = pd.DataFrame(
         [
