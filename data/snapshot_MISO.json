@@ -6,7 +6,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Gibson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-09-19T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -18,7 +18,7 @@
     "Capacity (MW)": 350.0,
     "Status": "Withdrawn",
     "County": "McLean",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -30,7 +30,7 @@
     "Capacity (MW)": 400.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -42,7 +42,7 @@
     "Capacity (MW)": 400.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -54,7 +54,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -66,7 +66,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -78,7 +78,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-05T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -90,7 +90,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Macoupin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -102,7 +102,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -114,7 +114,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Daviess",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -126,7 +126,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Hamilton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -138,7 +138,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -150,7 +150,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -162,7 +162,7 @@
     "Capacity (MW)": 141.23,
     "Status": "Active",
     "County": "Edgar",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -174,7 +174,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -186,7 +186,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Kosciusko",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -198,7 +198,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Dubois",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -210,7 +210,7 @@
     "Capacity (MW)": 60.0,
     "Status": "Withdrawn",
     "County": "Wayne",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -222,7 +222,7 @@
     "Capacity (MW)": 77.6,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -234,7 +234,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Active",
     "County": "Hamilton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -246,7 +246,7 @@
     "Capacity (MW)": 47.4,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -258,7 +258,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "LaSalle",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -270,7 +270,7 @@
     "Capacity (MW)": 120.0,
     "Status": "Withdrawn",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -282,7 +282,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -294,7 +294,7 @@
     "Capacity (MW)": 47.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -306,7 +306,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-21T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -318,7 +318,7 @@
     "Capacity (MW)": 350.0,
     "Status": "Withdrawn",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -330,7 +330,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -342,7 +342,7 @@
     "Capacity (MW)": 132.0,
     "Status": "Active",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -354,7 +354,7 @@
     "Capacity (MW)": 225.0,
     "Status": "Active",
     "County": "Madison",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -366,7 +366,7 @@
     "Capacity (MW)": 120.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -378,7 +378,7 @@
     "Capacity (MW)": 220.0,
     "Status": "Active",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -390,7 +390,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Macon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -402,7 +402,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -414,7 +414,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -426,7 +426,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -438,7 +438,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -450,7 +450,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Hamilton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -462,7 +462,7 @@
     "Capacity (MW)": 130.0,
     "Status": "Pending Revision Approval",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -474,7 +474,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -486,7 +486,7 @@
     "Capacity (MW)": 127.0,
     "Status": "Withdrawn",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -498,7 +498,7 @@
     "Capacity (MW)": 43.0,
     "Status": "Withdrawn",
     "County": "Rush",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -510,7 +510,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -522,7 +522,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Jackson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -534,7 +534,7 @@
     "Capacity (MW)": 190.0,
     "Status": "Active",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -546,7 +546,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -558,7 +558,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Parke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -570,7 +570,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Vanderburgh",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -582,7 +582,7 @@
     "Capacity (MW)": 190.0,
     "Status": "Withdrawn",
     "County": "Pulaski",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -594,7 +594,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Active",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -606,7 +606,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -618,7 +618,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -630,7 +630,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "De Witt",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -642,7 +642,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -654,7 +654,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Johnson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -666,7 +666,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -678,7 +678,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -690,7 +690,7 @@
     "Capacity (MW)": 400.0,
     "Status": "Withdrawn",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -702,7 +702,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -714,7 +714,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Gibson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-12-19T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -726,7 +726,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Spencer",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -738,7 +738,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "McDonough",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-12-31T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -750,7 +750,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -762,7 +762,7 @@
     "Capacity (MW)": 105.0,
     "Status": "Withdrawn",
     "County": "McDonough",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -774,7 +774,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -786,7 +786,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -798,7 +798,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Pulaski",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -810,7 +810,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Hendricks",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -822,7 +822,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Moultrie",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -834,7 +834,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Clinton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -846,7 +846,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -858,7 +858,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Ford",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -870,7 +870,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Iroquois",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-12-02T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -882,7 +882,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Rock Island",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -894,7 +894,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Monroe",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -906,7 +906,7 @@
     "Capacity (MW)": 44.0,
     "Status": "Withdrawn",
     "County": "Jennings",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -918,7 +918,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-09-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -930,7 +930,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -942,7 +942,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Wabash",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -954,7 +954,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -966,7 +966,7 @@
     "Capacity (MW)": 170.0,
     "Status": "Withdrawn",
     "County": "Clinton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -978,7 +978,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -990,7 +990,7 @@
     "Capacity (MW)": 198.0,
     "Status": "Withdrawn",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1002,7 +1002,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Switzerland",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1014,7 +1014,7 @@
     "Capacity (MW)": 400.0,
     "Status": "Pending Revision Approval",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1026,7 +1026,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1038,7 +1038,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Hamilton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1050,7 +1050,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "McLean",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1062,7 +1062,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1074,7 +1074,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Withdrawn",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1086,7 +1086,7 @@
     "Capacity (MW)": 60.0,
     "Status": "Pending Revision Approval",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1098,7 +1098,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Pending Revision Approval",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1110,7 +1110,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Rush",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1122,7 +1122,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1134,7 +1134,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1146,7 +1146,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1158,7 +1158,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1170,7 +1170,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1182,7 +1182,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1194,7 +1194,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "McLean",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1206,7 +1206,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-10-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1218,7 +1218,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1230,7 +1230,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1242,7 +1242,7 @@
     "Capacity (MW)": 84.0,
     "Status": "Withdrawn",
     "County": "Ripley",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1254,7 +1254,7 @@
     "Capacity (MW)": 500.0,
     "Status": "Withdrawn",
     "County": "Kosciusko",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1266,7 +1266,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1278,7 +1278,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1290,7 +1290,7 @@
     "Capacity (MW)": 173.0,
     "Status": "Withdrawn",
     "County": "Kosciusko",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1302,7 +1302,7 @@
     "Capacity (MW)": 220.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1314,7 +1314,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1326,7 +1326,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1338,7 +1338,7 @@
     "Capacity (MW)": 110.0,
     "Status": "Active",
     "County": "Putnam",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1350,7 +1350,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Active",
     "County": "Rock Island",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1362,7 +1362,7 @@
     "Capacity (MW)": 90.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1374,7 +1374,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Macon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1386,7 +1386,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Macon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1398,7 +1398,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1410,7 +1410,7 @@
     "Capacity (MW)": 164.0,
     "Status": "Withdrawn",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2023-08-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1422,7 +1422,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Pending Revision Approval",
     "County": "Peoria",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-11-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1434,7 +1434,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Pending Revision Approval",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1446,7 +1446,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Pending Revision Approval",
     "County": "Tippecanoe",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1458,7 +1458,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "LaSalle",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1470,7 +1470,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Johnson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1482,7 +1482,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Johnson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1494,7 +1494,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Johnson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1506,7 +1506,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1518,7 +1518,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1530,7 +1530,7 @@
     "Capacity (MW)": 185.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1542,7 +1542,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-09-08T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1554,7 +1554,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Parke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1566,7 +1566,7 @@
     "Capacity (MW)": 120.0,
     "Status": "Withdrawn",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-05T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1578,7 +1578,7 @@
     "Capacity (MW)": 97.0,
     "Status": "Withdrawn",
     "County": "LaSalle",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1590,7 +1590,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Withdrawn",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1602,7 +1602,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Scott County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1614,7 +1614,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Gibson County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1626,7 +1626,7 @@
     "Capacity (MW)": 195.0,
     "Status": "Done",
     "County": "Clinton County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2022-08-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1638,7 +1638,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Done",
     "County": "Lake County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2024-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1650,7 +1650,7 @@
     "Capacity (MW)": 240.0,
     "Status": "Done",
     "County": "Jasper County,Pulaski County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-10-20T04:00:00+00:00",
     "ISO": "MISO"
@@ -1662,7 +1662,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Gibson County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2022-11-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -1674,7 +1674,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2024-01-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -1686,7 +1686,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Saline County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2024-01-01T05:00:00+00:00",
     "ISO": "MISO"
@@ -1698,7 +1698,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Done",
     "County": "Logan County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2021-12-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -1710,7 +1710,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Withdrawn",
     "County": "LaSalle County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1722,7 +1722,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Jefferson County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-12-10T05:00:00+00:00",
     "ISO": "MISO"
@@ -1734,7 +1734,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Withdrawn",
     "County": "Hancock County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1746,7 +1746,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Withdrawn",
     "County": "McDonough County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1758,7 +1758,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Marshall County,Starke County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1770,7 +1770,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Knox County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1782,7 +1782,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Done",
     "County": "LaGrange County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1794,7 +1794,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Montgomery County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1806,7 +1806,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Withdrawn",
     "County": "Rush County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1818,7 +1818,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Randolph County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1830,7 +1830,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Vermillion County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-04-20T04:00:00+00:00",
     "ISO": "MISO"
@@ -1842,7 +1842,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Dubois County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1854,7 +1854,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Lake County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1866,7 +1866,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-08-20T04:00:00+00:00",
     "ISO": "MISO"
@@ -1878,7 +1878,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pulaski County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1890,7 +1890,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Greene County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1902,7 +1902,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1914,7 +1914,7 @@
     "Capacity (MW)": 48.0,
     "Status": "Withdrawn",
     "County": "Rock Island County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -1926,7 +1926,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Howard County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-08-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -1938,7 +1938,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "White County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-05-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1950,7 +1950,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Done",
     "County": "Spencer County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2016-11-14T05:00:00+00:00",
     "Proposed Completion Date": "2021-04-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1962,7 +1962,7 @@
     "Capacity (MW)": 199.0,
     "Status": "Done",
     "County": "Shelby County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-05-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1974,7 +1974,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Done",
     "County": "Sullivan County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-09-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1986,7 +1986,7 @@
     "Capacity (MW)": 99.0,
     "Status": "Done",
     "County": "Randolph County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2020-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -1998,7 +1998,7 @@
     "Capacity (MW)": 245.0,
     "Status": "Withdrawn",
     "County": "Sullivan County,Vigo County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2010,7 +2010,7 @@
     "Capacity (MW)": 275.0,
     "Status": "Done",
     "County": "Clay County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-10-29T04:00:00+00:00",
     "ISO": "MISO"
@@ -2022,7 +2022,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Christian County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-10-28T04:00:00+00:00",
     "ISO": "MISO"
@@ -2034,7 +2034,7 @@
     "Capacity (MW)": 90.0,
     "Status": "Done",
     "County": "Jasper County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-04-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2046,7 +2046,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Withdrawn",
     "County": "Jasper County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2058,7 +2058,7 @@
     "Capacity (MW)": 15.0,
     "Status": "Withdrawn",
     "County": "Montgomery County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2070,7 +2070,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "McLean County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-05-28T04:00:00+00:00",
     "ISO": "MISO"
@@ -2082,7 +2082,7 @@
     "Capacity (MW)": 149.0,
     "Status": "Done",
     "County": "White County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-05-28T04:00:00+00:00",
     "ISO": "MISO"
@@ -2094,7 +2094,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Withdrawn",
     "County": "Randolph County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2106,7 +2106,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pulaski County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2118,7 +2118,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Christian County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2023-09-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -2130,7 +2130,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Henry County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2023-05-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2142,7 +2142,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "White County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-08-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -2154,7 +2154,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Coles County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2020-10-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -2166,7 +2166,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Clay County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-10-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2178,7 +2178,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Cass County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-10-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -2190,7 +2190,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Boone County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-11-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2202,7 +2202,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Brown County,Jersey County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2214,7 +2214,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-03T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2226,7 +2226,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2238,7 +2238,7 @@
     "Capacity (MW)": 185.0,
     "Status": "Done",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-08-29T04:00:00+00:00",
     "Proposed Completion Date": "2027-11-19T05:00:00+00:00",
     "ISO": "MISO"
@@ -2250,7 +2250,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-10T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2262,7 +2262,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2274,7 +2274,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2286,7 +2286,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Lawrence",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2298,7 +2298,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Bartholomew",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2310,7 +2310,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Edwards",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2322,7 +2322,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2334,7 +2334,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Lake",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": "2027-09-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -2346,7 +2346,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-04-08T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2358,7 +2358,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2370,7 +2370,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-06-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2382,7 +2382,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Wabash",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2394,7 +2394,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2406,7 +2406,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Tipton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2418,7 +2418,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-06-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2430,7 +2430,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Howard",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2442,7 +2442,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Dubois",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-09-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2454,7 +2454,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Pending Transfer",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2466,7 +2466,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2478,7 +2478,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2490,7 +2490,7 @@
     "Capacity (MW)": 190.9,
     "Status": "Active",
     "County": "Iroquois",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2502,7 +2502,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Grant",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2514,7 +2514,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2526,7 +2526,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Ripley",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2538,7 +2538,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2550,7 +2550,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Johnson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-06-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2562,7 +2562,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2574,7 +2574,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Pending Transfer",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2586,7 +2586,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Bartholomew",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-09-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2598,7 +2598,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-31T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2610,7 +2610,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2622,7 +2622,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-04-05T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2634,7 +2634,7 @@
     "Capacity (MW)": 500.0,
     "Status": "Active",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2646,7 +2646,7 @@
     "Capacity (MW)": 67.0,
     "Status": "Active",
     "County": "Tipton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2658,7 +2658,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2670,7 +2670,7 @@
     "Capacity (MW)": 820.6,
     "Status": "Active",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-06-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2682,7 +2682,7 @@
     "Capacity (MW)": 124.0,
     "Status": "Withdrawn",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2694,7 +2694,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-01-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2706,7 +2706,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-01-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2718,7 +2718,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Adams",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-25T04:00:00+00:00",
     "Proposed Completion Date": "2028-08-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2730,7 +2730,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2742,7 +2742,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2022-11-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -2754,7 +2754,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2022-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2766,7 +2766,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Jackson County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2778,7 +2778,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Kosciusko County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2790,7 +2790,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Champaign County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-10-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2802,7 +2802,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Hancock County,Shelby County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2814,7 +2814,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Done",
     "County": "Clark County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": "2023-05-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2826,7 +2826,7 @@
     "Capacity (MW)": 5.0,
     "Status": "Done",
     "County": "Brown County,Martin County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2018-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2838,7 +2838,7 @@
     "Capacity (MW)": 99.0,
     "Status": "Done",
     "County": "Coles County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2850,7 +2850,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Done",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-27T04:00:00+00:00",
     "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2862,7 +2862,7 @@
     "Capacity (MW)": 199.3,
     "Status": "Withdrawn",
     "County": "Cumberland County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-26T04:00:00+00:00",
     "Proposed Completion Date": "2025-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2874,7 +2874,7 @@
     "Capacity (MW)": 32.5,
     "Status": "Withdrawn",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2886,7 +2886,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Knox County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2023-09-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -2898,7 +2898,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2910,7 +2910,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Done",
     "County": "Knox County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2023-09-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -2922,7 +2922,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Withdrawn",
     "County": "Spencer County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2934,7 +2934,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Done",
     "County": "Saline County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-27T04:00:00+00:00",
     "Proposed Completion Date": "2023-11-04T04:00:00+00:00",
     "ISO": "MISO"
@@ -2946,7 +2946,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Done",
     "County": "Saline County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-27T04:00:00+00:00",
     "Proposed Completion Date": "2023-11-04T04:00:00+00:00",
     "ISO": "MISO"
@@ -2958,7 +2958,7 @@
     "Capacity (MW)": 43.0,
     "Status": "Withdrawn",
     "County": "LaGrange County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2970,7 +2970,7 @@
     "Capacity (MW)": 99.0,
     "Status": "Done",
     "County": "Marion County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -2982,7 +2982,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Vanderburgh County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -2994,7 +2994,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Done",
     "County": "Vanderburgh County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3006,7 +3006,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Jackson County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3018,7 +3018,7 @@
     "Capacity (MW)": 280.0,
     "Status": "Done",
     "County": "Gibson County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2023-12-31T05:00:00+00:00",
     "ISO": "MISO"
@@ -3030,7 +3030,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Perry County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-12-01T05:00:00+00:00",
     "ISO": "MISO"
@@ -3042,7 +3042,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Gibson County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3054,7 +3054,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Done",
     "County": "Posey County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-04-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3066,7 +3066,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3078,7 +3078,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "St. Clair County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-06-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -3090,7 +3090,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Saline County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-02-01T05:00:00+00:00",
     "ISO": "MISO"
@@ -3102,7 +3102,7 @@
     "Capacity (MW)": 99.0,
     "Status": "Withdrawn",
     "County": "Starke County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3114,7 +3114,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Hendricks County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3126,7 +3126,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Lake County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3138,7 +3138,7 @@
     "Capacity (MW)": 146.0,
     "Status": "Done",
     "County": "Decatur County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-10-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -3150,7 +3150,7 @@
     "Capacity (MW)": 60.0,
     "Status": "Done",
     "County": "Jasper County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-04-26T04:00:00+00:00",
     "ISO": "MISO"
@@ -3162,7 +3162,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Fountain County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-11-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -3174,7 +3174,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Done",
     "County": "LaPorte County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-05-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -3186,7 +3186,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Gibson County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-12-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -3198,7 +3198,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Martin County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3210,7 +3210,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Madison County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-09-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -3222,7 +3222,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Bartholomew County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-08-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3234,7 +3234,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Howard County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-10-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3246,7 +3246,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Dubois County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-05-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3258,7 +3258,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Done",
     "County": "LaPorte County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-05-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -3270,7 +3270,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Clark County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-05-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -3282,7 +3282,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "LaGrange County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3294,7 +3294,7 @@
     "Capacity (MW)": 130.0,
     "Status": "Done",
     "County": "Pike County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2026-04-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3306,7 +3306,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Fulton County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-06-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -3318,7 +3318,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Withdrawn",
     "County": "Greene County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3330,7 +3330,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Porter County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-08-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3342,7 +3342,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Porter County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3354,7 +3354,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Porter County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-07-25T04:00:00+00:00",
     "ISO": "MISO"
@@ -3366,7 +3366,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Vermillion County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3378,7 +3378,7 @@
     "Capacity (MW)": 592.8,
     "Status": "Done",
     "County": "Macoupin County,Morgan County,Sangamon County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2024-03-03T05:00:00+00:00",
     "ISO": "MISO"
@@ -3390,7 +3390,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Done",
     "County": "Clark County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2023-05-02T04:00:00+00:00",
     "ISO": "MISO"
@@ -3402,7 +3402,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Done",
     "County": "Spencer County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2016-11-14T05:00:00+00:00",
     "Proposed Completion Date": "2020-07-02T04:00:00+00:00",
     "ISO": "MISO"
@@ -3414,7 +3414,7 @@
     "Capacity (MW)": 69.0,
     "Status": "Withdrawn",
     "County": "Gallatin County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3426,7 +3426,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Withdrawn",
     "County": "Washington County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3438,7 +3438,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Done",
     "County": "White County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-10-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3450,7 +3450,7 @@
     "Capacity (MW)": 119.0,
     "Status": "Withdrawn",
     "County": "Decatur County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3462,7 +3462,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Withdrawn",
     "County": "Vanderburgh County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-03-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -3474,7 +3474,7 @@
     "Capacity (MW)": 149.94,
     "Status": "Done",
     "County": "Cass County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2022-05-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -3486,7 +3486,7 @@
     "Capacity (MW)": 99.0,
     "Status": "Done",
     "County": "Fayette County",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2017-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2021-05-28T04:00:00+00:00",
     "ISO": "MISO"
@@ -3498,7 +3498,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Jasper County",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2019-04-29T04:00:00+00:00",
     "Proposed Completion Date": "2025-04-20T04:00:00+00:00",
     "ISO": "MISO"
@@ -3510,7 +3510,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3522,7 +3522,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3534,7 +3534,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3546,7 +3546,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3558,7 +3558,7 @@
     "Capacity (MW)": 65.0,
     "Status": "Withdrawn",
     "County": "Cass",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3570,7 +3570,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Lawrence",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3582,7 +3582,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2023-12-12T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3594,7 +3594,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Lawrence",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3606,7 +3606,7 @@
     "Capacity (MW)": 43.0,
     "Status": "Withdrawn",
     "County": "Shelby",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3618,7 +3618,7 @@
     "Capacity (MW)": 288.0,
     "Status": "Withdrawn",
     "County": "Johnson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3630,7 +3630,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Shelby",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3642,7 +3642,7 @@
     "Capacity (MW)": 72.0,
     "Status": "Withdrawn",
     "County": "Dubois",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-10-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3654,7 +3654,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Done",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": "2025-12-15T05:00:00+00:00",
     "ISO": "MISO"
@@ -3666,7 +3666,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": "2026-12-01T05:00:00+00:00",
     "ISO": "MISO"
@@ -3678,7 +3678,7 @@
     "Capacity (MW)": 145.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3690,7 +3690,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3702,7 +3702,7 @@
     "Capacity (MW)": 175.12,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3714,7 +3714,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-12-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3726,7 +3726,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Pulaski",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3738,7 +3738,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3750,7 +3750,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Rush",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3762,7 +3762,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3774,7 +3774,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3786,7 +3786,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-16T04:00:00+00:00",
     "Proposed Completion Date": "2026-08-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -3798,7 +3798,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-22T04:00:00+00:00",
     "Proposed Completion Date": "2026-08-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -3810,7 +3810,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3822,7 +3822,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Orange",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3834,7 +3834,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Bartholomew",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3846,7 +3846,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Tipton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3858,7 +3858,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": "2027-04-30T04:00:00+00:00",
     "ISO": "MISO"
@@ -3870,7 +3870,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3882,7 +3882,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-03-15T04:00:00+00:00",
     "Proposed Completion Date": "2026-09-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3894,7 +3894,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-10T04:00:00+00:00",
     "Proposed Completion Date": "2026-10-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -3906,7 +3906,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Logan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3918,7 +3918,7 @@
     "Capacity (MW)": 149.5,
     "Status": "Done",
     "County": "Logan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3930,7 +3930,7 @@
     "Capacity (MW)": 116.0,
     "Status": "Withdrawn",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-12-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3942,7 +3942,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-12-03T05:00:00+00:00",
     "Proposed Completion Date": "2026-09-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -3954,7 +3954,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-12-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3966,7 +3966,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -3978,7 +3978,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Done",
     "County": "Macon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": "2026-01-29T05:00:00+00:00",
     "ISO": "MISO"
@@ -3990,7 +3990,7 @@
     "Capacity (MW)": 74.7,
     "Status": "Withdrawn",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-04-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4002,7 +4002,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Done",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": "2026-04-20T04:00:00+00:00",
     "ISO": "MISO"
@@ -4014,7 +4014,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Cass",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4026,7 +4026,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Boone",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4038,7 +4038,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Withdrawn",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4050,7 +4050,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Starke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2023-08-04T04:00:00+00:00",
     "Proposed Completion Date": "2029-04-17T04:00:00+00:00",
     "ISO": "MISO"
@@ -4062,7 +4062,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-12-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4074,7 +4074,7 @@
     "Capacity (MW)": 110.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4086,7 +4086,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4098,7 +4098,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4110,7 +4110,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4122,7 +4122,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4134,7 +4134,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4146,7 +4146,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Withdrawn",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4158,7 +4158,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Madison",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4170,7 +4170,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Dubois",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4182,7 +4182,7 @@
     "Capacity (MW)": 210.0,
     "Status": "Withdrawn",
     "County": "Rush",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-10-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4194,7 +4194,7 @@
     "Capacity (MW)": 270.0,
     "Status": "Withdrawn",
     "County": "Cass",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4206,7 +4206,7 @@
     "Capacity (MW)": 294.1,
     "Status": "Withdrawn",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4218,7 +4218,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Done",
     "County": "De Witt",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4230,7 +4230,7 @@
     "Capacity (MW)": 292.9,
     "Status": "Done",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-04-06T04:00:00+00:00",
     "Proposed Completion Date": "2026-08-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -4242,7 +4242,7 @@
     "Capacity (MW)": 149.5,
     "Status": "Done",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-04-05T04:00:00+00:00",
     "Proposed Completion Date": "2027-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -4254,7 +4254,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Active",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4266,7 +4266,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4278,7 +4278,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4290,7 +4290,7 @@
     "Capacity (MW)": 45.0,
     "Status": "Active",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4302,7 +4302,7 @@
     "Capacity (MW)": 93.2,
     "Status": "Withdrawn",
     "County": "Tipton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-11T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4314,7 +4314,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Orange",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4326,7 +4326,7 @@
     "Capacity (MW)": 197.3,
     "Status": "Withdrawn",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4338,7 +4338,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-22T04:00:00+00:00",
     "Proposed Completion Date": "2026-03-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -4350,7 +4350,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Done",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": "2026-12-31T05:00:00+00:00",
     "ISO": "MISO"
@@ -4362,7 +4362,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": "2026-08-15T04:00:00+00:00",
     "ISO": "MISO"
@@ -4374,7 +4374,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4386,7 +4386,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4398,7 +4398,7 @@
     "Capacity (MW)": 39.0,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4410,7 +4410,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-01-11T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4422,7 +4422,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Done",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-24T04:00:00+00:00",
     "Proposed Completion Date": "2026-06-01T04:00:00+00:00",
     "ISO": "MISO"
@@ -4434,7 +4434,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Pulaski",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4446,7 +4446,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Done",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4458,7 +4458,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-20T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4470,7 +4470,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4482,7 +4482,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Withdrawn",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4494,7 +4494,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4506,7 +4506,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Withdrawn",
     "County": "Shelby",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2020-06-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4518,7 +4518,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-10T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4530,7 +4530,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4542,7 +4542,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4554,7 +4554,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-08-26T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4566,7 +4566,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4578,7 +4578,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Active",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4590,7 +4590,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Wabash",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4602,7 +4602,7 @@
     "Capacity (MW)": 170.0,
     "Status": "Withdrawn",
     "County": "Tippecanoe",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4614,7 +4614,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4626,7 +4626,7 @@
     "Capacity (MW)": 175.0,
     "Status": "Active",
     "County": "Adams",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4638,7 +4638,7 @@
     "Capacity (MW)": 199.99,
     "Status": "Withdrawn",
     "County": "Hendricks",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4650,7 +4650,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-31T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4662,7 +4662,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-06-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4674,7 +4674,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4686,7 +4686,7 @@
     "Capacity (MW)": 198.0,
     "Status": "Active",
     "County": "",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4698,7 +4698,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4710,7 +4710,7 @@
     "Capacity (MW)": 130.0,
     "Status": "Active",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4722,7 +4722,7 @@
     "Capacity (MW)": 35.0,
     "Status": "Withdrawn",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4734,7 +4734,7 @@
     "Capacity (MW)": 195.0,
     "Status": "Pending Revision Approval",
     "County": "Montgomery",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4746,7 +4746,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-01-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4758,7 +4758,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Rock Island",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4770,7 +4770,7 @@
     "Capacity (MW)": 20.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-05T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4782,7 +4782,7 @@
     "Capacity (MW)": 135.0,
     "Status": "Withdrawn",
     "County": "Jo Daviess",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4794,7 +4794,7 @@
     "Capacity (MW)": 245.0,
     "Status": "Active",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-05-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4806,7 +4806,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4818,7 +4818,7 @@
     "Capacity (MW)": 340.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-20T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4830,7 +4830,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-03-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4842,7 +4842,7 @@
     "Capacity (MW)": 245.0,
     "Status": "Active",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-07T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4854,7 +4854,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-03-31T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4866,7 +4866,7 @@
     "Capacity (MW)": 60.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4878,7 +4878,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4890,7 +4890,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4902,7 +4902,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "De Witt",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-10-02T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4914,7 +4914,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Lake",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-10-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4926,7 +4926,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-09-03T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4938,7 +4938,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-12-19T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4950,7 +4950,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Crawford",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4962,7 +4962,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Crawford",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4974,7 +4974,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4986,7 +4986,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -4998,7 +4998,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-01-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5010,7 +5010,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Pulaski",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5022,7 +5022,7 @@
     "Capacity (MW)": 400.0,
     "Status": "Withdrawn",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5034,7 +5034,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Morgan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5046,7 +5046,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Withdrawn",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5058,7 +5058,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Withdrawn",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5070,7 +5070,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5082,7 +5082,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Randolph",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5094,7 +5094,7 @@
     "Capacity (MW)": 60.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5106,7 +5106,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5118,7 +5118,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5130,7 +5130,7 @@
     "Capacity (MW)": 287.0,
     "Status": "Pending Revision Approval",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5142,7 +5142,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Pending Revision Approval",
     "County": "Adams",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5154,7 +5154,7 @@
     "Capacity (MW)": 143.0,
     "Status": "Active",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5166,7 +5166,7 @@
     "Capacity (MW)": 157.0,
     "Status": "Pending Revision Approval",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5178,7 +5178,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-02T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5190,7 +5190,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Starke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-03-10T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5202,7 +5202,7 @@
     "Capacity (MW)": 10.0,
     "Status": "Active",
     "County": "Dubois",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-08T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5214,7 +5214,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5226,7 +5226,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Starke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5238,7 +5238,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Pending Revision Approval",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5250,7 +5250,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Pending Revision Approval",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5262,7 +5262,7 @@
     "Capacity (MW)": 120.0,
     "Status": "Pending Revision Approval",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5274,7 +5274,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5286,7 +5286,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Pending Revision Approval",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-10-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5298,7 +5298,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Active",
     "County": "Macon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5310,7 +5310,7 @@
     "Capacity (MW)": 138.0,
     "Status": "Active",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5322,7 +5322,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5334,7 +5334,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5346,7 +5346,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Marion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5358,7 +5358,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Cumberland",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5370,7 +5370,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5382,7 +5382,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5394,7 +5394,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Pending Revision Approval",
     "County": "Ripley",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5406,7 +5406,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5418,7 +5418,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Pending Revision Approval",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5430,7 +5430,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Hamilton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5442,7 +5442,7 @@
     "Capacity (MW)": 240.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5454,7 +5454,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Clark",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5466,7 +5466,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Edgar",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5478,7 +5478,7 @@
     "Capacity (MW)": 100.8,
     "Status": "Withdrawn",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5490,7 +5490,7 @@
     "Capacity (MW)": 398.0,
     "Status": "Withdrawn",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5502,7 +5502,7 @@
     "Capacity (MW)": 228.0,
     "Status": "Withdrawn",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5514,7 +5514,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5526,7 +5526,7 @@
     "Capacity (MW)": 122.0,
     "Status": "Withdrawn",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5538,7 +5538,7 @@
     "Capacity (MW)": 75.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5550,7 +5550,7 @@
     "Capacity (MW)": 47.6,
     "Status": "Withdrawn",
     "County": "Mercer",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5562,7 +5562,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Jefferson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5574,7 +5574,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5586,7 +5586,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5598,7 +5598,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5610,7 +5610,7 @@
     "Capacity (MW)": 30.0,
     "Status": "Active",
     "County": "Morgan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-07-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5622,7 +5622,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Saline",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5634,7 +5634,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5646,7 +5646,7 @@
     "Capacity (MW)": 90.0,
     "Status": "Pending Revision Approval",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-08-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5658,7 +5658,7 @@
     "Capacity (MW)": 700.0,
     "Status": "Pending Revision Approval",
     "County": "Pulaski",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5670,7 +5670,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Pending Revision Approval",
     "County": "Starke",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5682,7 +5682,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Hamilton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-11-19T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5694,7 +5694,7 @@
     "Capacity (MW)": 245.0,
     "Status": "Active",
     "County": "Pulaski",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5706,7 +5706,7 @@
     "Capacity (MW)": 22.77,
     "Status": "Withdrawn",
     "County": "Hendricks",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5718,7 +5718,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5730,7 +5730,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Withdrawn",
     "County": "Rush",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5742,7 +5742,7 @@
     "Capacity (MW)": 160.0,
     "Status": "Active",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5754,7 +5754,7 @@
     "Capacity (MW)": 97.0,
     "Status": "Active",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5766,7 +5766,7 @@
     "Capacity (MW)": 186.0,
     "Status": "Active",
     "County": "Montgomery",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5778,7 +5778,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Pending Revision Approval",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5790,7 +5790,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5802,7 +5802,7 @@
     "Capacity (MW)": 80.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5814,7 +5814,7 @@
     "Capacity (MW)": 35.0,
     "Status": "Active",
     "County": "Warren",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5826,7 +5826,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5838,7 +5838,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Jefferson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5850,7 +5850,7 @@
     "Capacity (MW)": 270.0,
     "Status": "Withdrawn",
     "County": "Cook",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-08-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5862,7 +5862,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Pending Revision Approval",
     "County": "Adams",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5874,7 +5874,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Pending Revision Approval",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5886,7 +5886,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Logan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5898,7 +5898,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5910,7 +5910,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5922,7 +5922,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5934,7 +5934,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5946,7 +5946,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5958,7 +5958,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5970,7 +5970,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Pending Revision Approval",
     "County": "Peoria",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5982,7 +5982,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Marion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -5994,7 +5994,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Pending Revision Approval",
     "County": "Porter",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6006,7 +6006,7 @@
     "Capacity (MW)": 180.0,
     "Status": "Withdrawn",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6018,7 +6018,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Johnson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6030,7 +6030,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Revision Approval",
     "County": "Ford",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6042,7 +6042,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6054,7 +6054,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6066,7 +6066,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6078,7 +6078,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6090,7 +6090,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Johnson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6102,7 +6102,7 @@
     "Capacity (MW)": 145.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-06-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6114,7 +6114,7 @@
     "Capacity (MW)": 35.0,
     "Status": "Active",
     "County": "Marshall",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6126,7 +6126,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6138,7 +6138,7 @@
     "Capacity (MW)": 37.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-08-31T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6150,7 +6150,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6162,7 +6162,7 @@
     "Capacity (MW)": 199.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6174,7 +6174,7 @@
     "Capacity (MW)": 220.0,
     "Status": "Active",
     "County": "Putnam",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6186,7 +6186,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Whiteside",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6198,7 +6198,7 @@
     "Capacity (MW)": 265.0,
     "Status": "Pending Revision Approval",
     "County": "Iroquois",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6210,7 +6210,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Washington",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6222,7 +6222,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Bond",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6234,7 +6234,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Daviess",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6246,7 +6246,7 @@
     "Capacity (MW)": 198.0,
     "Status": "Pending Revision Approval",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6258,7 +6258,7 @@
     "Capacity (MW)": 362.0,
     "Status": "Withdrawn",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6270,7 +6270,7 @@
     "Capacity (MW)": 52.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6282,7 +6282,7 @@
     "Capacity (MW)": 320.0,
     "Status": "Active",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6294,7 +6294,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clinton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6306,7 +6306,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Montgomery",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6318,7 +6318,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Pending Revision Approval",
     "County": "Adams",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6330,7 +6330,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Clinton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6342,7 +6342,7 @@
     "Capacity (MW)": 234.0,
     "Status": "Withdrawn",
     "County": "Carroll",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6354,7 +6354,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Withdrawn",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6366,7 +6366,7 @@
     "Capacity (MW)": 190.0,
     "Status": "Withdrawn",
     "County": "Howard",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2023-08-21T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6378,7 +6378,7 @@
     "Capacity (MW)": 125.0,
     "Status": "Withdrawn",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2022-09-08T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6390,7 +6390,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6402,7 +6402,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6414,7 +6414,7 @@
     "Capacity (MW)": 133.0,
     "Status": "Active",
     "County": "Iroquois",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2022-09-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6426,7 +6426,7 @@
     "Capacity (MW)": 35.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6438,7 +6438,7 @@
     "Capacity (MW)": 17.0,
     "Status": "Withdrawn",
     "County": "Montgomery",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6450,7 +6450,7 @@
     "Capacity (MW)": 16.3,
     "Status": "Withdrawn",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6462,7 +6462,7 @@
     "Capacity (MW)": 380.0,
     "Status": "Withdrawn",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6474,7 +6474,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6486,7 +6486,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6498,7 +6498,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-05-06T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6510,7 +6510,7 @@
     "Capacity (MW)": 130.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6522,7 +6522,7 @@
     "Capacity (MW)": 145.0,
     "Status": "Withdrawn",
     "County": "Sullivan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6534,7 +6534,7 @@
     "Capacity (MW)": 175.0,
     "Status": "Active",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6546,7 +6546,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-04T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6558,7 +6558,7 @@
     "Capacity (MW)": 191.3,
     "Status": "Withdrawn",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6570,7 +6570,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6582,7 +6582,7 @@
     "Capacity (MW)": 37.0,
     "Status": "Withdrawn",
     "County": "Miami",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6594,7 +6594,7 @@
     "Capacity (MW)": 25.0,
     "Status": "Withdrawn",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6606,7 +6606,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-03-27T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6618,7 +6618,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6630,7 +6630,7 @@
     "Capacity (MW)": 392.0,
     "Status": "Withdrawn",
     "County": "Peoria",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-05-03T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6642,7 +6642,7 @@
     "Capacity (MW)": 343.0,
     "Status": "Active",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6654,7 +6654,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Edgar",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-30T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6666,7 +6666,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Edgar",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-30T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6678,7 +6678,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Bureau",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-02-20T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6690,7 +6690,7 @@
     "Capacity (MW)": 337.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-21T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6702,7 +6702,7 @@
     "Capacity (MW)": 401.8,
     "Status": "Withdrawn",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-07T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6714,7 +6714,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "LaGrange",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-07-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6726,7 +6726,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Saline",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-10-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6738,7 +6738,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-11-20T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6750,7 +6750,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Fulton",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-09-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6762,7 +6762,7 @@
     "Capacity (MW)": 21.44,
     "Status": "Withdrawn",
     "County": "Wayne",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6774,7 +6774,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Henry",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-05-02T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6786,7 +6786,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-01-13T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6798,7 +6798,7 @@
     "Capacity (MW)": 168.8,
     "Status": "Active",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-08-19T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6810,7 +6810,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Marion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-12-03T19:39:47+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6822,7 +6822,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Active",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-10-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6834,7 +6834,7 @@
     "Capacity (MW)": 130.0,
     "Status": "Active",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-08-11T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6846,7 +6846,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-11-11T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6858,7 +6858,7 @@
     "Capacity (MW)": 83.16,
     "Status": "Withdrawn",
     "County": "Gibson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6870,7 +6870,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2021-10-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6882,7 +6882,7 @@
     "Capacity (MW)": 15.0,
     "Status": "Withdrawn",
     "County": "Gibson",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-25T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6894,7 +6894,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6906,7 +6906,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6918,7 +6918,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Pike",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6930,7 +6930,7 @@
     "Capacity (MW)": 190.0,
     "Status": "Active",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6942,7 +6942,7 @@
     "Capacity (MW)": 113.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6954,7 +6954,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Fayette",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-07-28T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6966,7 +6966,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Warren",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6978,7 +6978,7 @@
     "Capacity (MW)": 15.0,
     "Status": "Withdrawn",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -6990,7 +6990,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Woodford",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7002,7 +7002,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7014,7 +7014,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "White",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7026,7 +7026,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "LaGrange",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7038,7 +7038,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Newton",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7050,7 +7050,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7062,7 +7062,7 @@
     "Capacity (MW)": 149.0,
     "Status": "Active",
     "County": "LaPorte",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7074,7 +7074,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Jasper",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7086,7 +7086,7 @@
     "Capacity (MW)": 148.0,
     "Status": "Withdrawn",
     "County": "Daviess",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7098,7 +7098,7 @@
     "Capacity (MW)": 145.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7110,7 +7110,7 @@
     "Capacity (MW)": 43.5,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7122,7 +7122,7 @@
     "Capacity (MW)": 175.0,
     "Status": "Withdrawn",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7134,7 +7134,7 @@
     "Capacity (MW)": 220.0,
     "Status": "Active",
     "County": "Greene",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7146,7 +7146,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Montgomery",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7158,7 +7158,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Morgan",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7170,7 +7170,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Active",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7182,7 +7182,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Franklin",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7194,7 +7194,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Champaign",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7206,7 +7206,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Wayne",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7218,7 +7218,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7230,7 +7230,7 @@
     "Capacity (MW)": 140.0,
     "Status": "Withdrawn",
     "County": "Hancock",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7242,7 +7242,7 @@
     "Capacity (MW)": 110.0,
     "Status": "Withdrawn",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7254,7 +7254,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Kosciusko",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-15T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7266,7 +7266,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7278,7 +7278,7 @@
     "Capacity (MW)": 171.0,
     "Status": "Active",
     "County": "Piatt",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7290,7 +7290,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Boone",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7302,7 +7302,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Lawrence",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7314,7 +7314,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Posey",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7326,7 +7326,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Withdrawn",
     "County": "Lawrence",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7338,7 +7338,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Knox",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7350,7 +7350,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Clay",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7362,7 +7362,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7374,7 +7374,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Transfer",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-22T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7386,7 +7386,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Williamson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7398,7 +7398,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Withdrawn",
     "County": "Pike",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-05-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7410,7 +7410,7 @@
     "Capacity (MW)": 123.0,
     "Status": "Withdrawn",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7422,7 +7422,7 @@
     "Capacity (MW)": 365.0,
     "Status": "Active",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-20T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7434,7 +7434,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Lake",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-07-03T04:00:00+00:00",
     "Proposed Completion Date": "2028-05-31T04:00:00+00:00",
     "ISO": "MISO"
@@ -7446,7 +7446,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-01-29T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7458,7 +7458,7 @@
     "Capacity (MW)": 175.0,
     "Status": "Active",
     "County": "Tazewell",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-03-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7470,7 +7470,7 @@
     "Capacity (MW)": 185.0,
     "Status": "Pending Revision Approval",
     "County": "Washington",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-11-06T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7482,7 +7482,7 @@
     "Capacity (MW)": 188.0,
     "Status": "Active",
     "County": "Vermilion",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-05-23T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7494,7 +7494,7 @@
     "Capacity (MW)": 136.0,
     "Status": "Withdrawn",
     "County": "Mason",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-05-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7506,7 +7506,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "St. Clair",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-01-13T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7518,7 +7518,7 @@
     "Capacity (MW)": 500.0,
     "Status": "Active",
     "County": "Jasper",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-02-07T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7530,7 +7530,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "McLean",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-09-24T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7542,7 +7542,7 @@
     "Capacity (MW)": 199.9,
     "Status": "Active",
     "County": "Sangamon",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7554,7 +7554,7 @@
     "Capacity (MW)": 83.4,
     "Status": "Withdrawn",
     "County": "Jackson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7566,7 +7566,7 @@
     "Capacity (MW)": 190.0,
     "Status": "Pending Revision Approval",
     "County": "Williamson",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-19T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7578,7 +7578,7 @@
     "Capacity (MW)": 45.8,
     "Status": "Withdrawn",
     "County": "Randolph",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-01T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7590,7 +7590,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Fountain",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-19T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7602,7 +7602,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Marshall",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7614,7 +7614,7 @@
     "Capacity (MW)": 300.0,
     "Status": "Withdrawn",
     "County": "Vermillion",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7626,7 +7626,7 @@
     "Capacity (MW)": 150.0,
     "Status": "Active",
     "County": "Clark",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7638,7 +7638,7 @@
     "Capacity (MW)": 50.0,
     "Status": "Withdrawn",
     "County": "Jersey",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7650,7 +7650,7 @@
     "Capacity (MW)": 48.0,
     "Status": "Withdrawn",
     "County": "Decatur",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2021-08-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7662,7 +7662,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7674,7 +7674,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Active",
     "County": "Shelby",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-06-07T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7686,7 +7686,7 @@
     "Capacity (MW)": 38.0,
     "Status": "Withdrawn",
     "County": "Crawford",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7698,7 +7698,7 @@
     "Capacity (MW)": 195.64,
     "Status": "Active",
     "County": "Mercer",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-18T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7710,7 +7710,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Scott",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7722,7 +7722,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Withdrawn",
     "County": "Morgan",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-04-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7734,7 +7734,7 @@
     "Capacity (MW)": 40.0,
     "Status": "Withdrawn",
     "County": "Putnam",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2024-04-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7746,7 +7746,7 @@
     "Capacity (MW)": 250.0,
     "Status": "Active",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-04-09T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7758,7 +7758,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Coles",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-03-14T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7770,7 +7770,7 @@
     "Capacity (MW)": 220.0,
     "Status": "Active",
     "County": "Menard",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-06-12T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7782,7 +7782,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Putnam",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2024-12-03T05:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7794,7 +7794,7 @@
     "Capacity (MW)": 100.0,
     "Status": "Active",
     "County": "Perry",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-06-17T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7806,7 +7806,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Pulaski",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-09-29T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7818,7 +7818,7 @@
     "Capacity (MW)": 156.8,
     "Status": "Withdrawn",
     "County": "Christian",
-    "State": "IL",
+    "State": "Illinois",
     "Queue Date": "2025-06-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7830,7 +7830,7 @@
     "Capacity (MW)": 70.0,
     "Status": "Active",
     "County": "Vigo",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-06-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7842,7 +7842,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Pending Transfer",
     "County": "Cass",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-06-16T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"
@@ -7854,7 +7854,7 @@
     "Capacity (MW)": 200.0,
     "Status": "Active",
     "County": "Montgomery",
-    "State": "IN",
+    "State": "Indiana",
     "Queue Date": "2025-06-13T04:00:00+00:00",
     "Proposed Completion Date": NaN,
     "ISO": "MISO"

@@ -1,9 +1,84 @@
 {
   "schema_version": 1,
-  "generated_at": null,
-  "status": "not_run",
-  "healthy_markets": 0,
-  "total_markets": 0,
-  "elapsed_seconds": 0,
-  "markets": []
+  "generated_at": "2026-07-18T20:59:35.278202+00:00",
+  "status": "degraded",
+  "healthy_markets": 4,
+  "total_markets": 6,
+  "elapsed_seconds": 25.45,
+  "markets": [
+    {
+      "iso": "CAISO",
+      "states": [
+        "California"
+      ],
+      "healthy": true,
+      "error": null,
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
+      "records": 1515
+    },
+    {
+      "iso": "ERCOT",
+      "states": [
+        "Texas"
+      ],
+      "healthy": false,
+      "error": "Anomaly guard: 443 changes (29.8%) exceeds the configured daily safety limit",
+      "new": 53,
+      "changed": 317,
+      "withdrawn": 73,
+      "records": 1432
+    },
+    {
+      "iso": "ISONE",
+      "states": [
+        "Massachusetts"
+      ],
+      "healthy": true,
+      "error": null,
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
+      "records": 241
+    },
+    {
+      "iso": "MISO",
+      "states": [
+        "Illinois",
+        "Indiana"
+      ],
+      "healthy": true,
+      "error": null,
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
+      "records": 655
+    },
+    {
+      "iso": "NYISO",
+      "states": [
+        "New York"
+      ],
+      "healthy": false,
+      "error": "Empty queue returned",
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
+      "records": 0
+    },
+    {
+      "iso": "PJM",
+      "states": [
+        "New Jersey",
+        "Ohio"
+      ],
+      "healthy": true,
+      "error": null,
+      "new": 0,
+      "changed": 0,
+      "withdrawn": 0,
+      "records": 1207
+    }
+  ]
 }
