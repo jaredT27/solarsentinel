@@ -152,6 +152,10 @@ PJM_REQUIRED_SOURCE_COLUMNS = {
     "Submitted Date",
     "Projected In Service Date",
 }
+NYISO_QUEUE_EXPORT_URL = (
+    "https://www.nyiso.com/documents/20142/1407078/"
+    "NYISO-Interconnection-Queue.xlsx"
+)
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -675,6 +679,55 @@ def fetch_pjm_planning_queue() -> pd.DataFrame:
     return queue[[*STANDARD_COLUMNS, "ISO"]]
 
 
+def fetch_nyiso_queue() -> pd.DataFrame:
+    """Fetch NYISO's workbook with a session that can complete CDN polling.
+
+    NYISO can return HTTP 202 while preparing the download and associates the
+    eventual workbook with cookies from that first response. Recreating a
+    stateless request on every retry never observes the completed download on
+    some cloud runners, so retain one session until the XLSX is ready.
+    """
+    session = requests.Session()
+    headers = {
+        "Accept": (
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,"
+            "application/octet-stream;q=0.9,*/*;q=0.8"
+        ),
+        "User-Agent": "SolarSentinel/1.0 (+https://sentinel-alerts.vercel.app)",
+    }
+
+    for attempt in range(1, 7):
+        response = session.get(NYISO_QUEUE_EXPORT_URL, headers=headers, timeout=90)
+        if response.status_code == 202:
+            retry_after = response.headers.get("Retry-After", "5")
+            try:
+                delay = max(1, min(float(retry_after), 15))
+            except ValueError:
+                delay = 5
+            logger.warning(
+                "NYISO workbook is being prepared (202); retrying in %.0fs (%d/6)",
+                delay,
+                attempt,
+            )
+            time.sleep(delay)
+            continue
+
+        response.raise_for_status()
+        if not response.content.startswith(b"PK"):
+            raise ValueError("NYISO export did not return an XLSX workbook")
+
+        # Reuse gridstatus's maintained workbook parser after making delivery
+        # reliable. The instance override is local to this call and thread.
+        adapter = gridstatus.NYISO()
+        adapter.get_raw_interconnection_queue = lambda: io.BytesIO(response.content)
+        queue = adapter.get_interconnection_queue()
+        queue["ISO"] = "NYISO"
+        logger.info("  -> %d total projects returned by NYISO", len(queue))
+        return queue
+
+    raise RuntimeError("NYISO workbook remained pending after 6 attempts")
+
+
 @retry(
     stop=stop_after_attempt(5),
     wait=wait_exponential(multiplier=1, min=5, max=30),
@@ -686,6 +739,8 @@ def _fetch_iso_queue_with_retry(iso_name: str) -> pd.DataFrame:
     """Internal: call an ISO adapter with retries for transient errors."""
     if iso_name == "PJM":
         return fetch_pjm_planning_queue()
+    if iso_name == "NYISO":
+        return fetch_nyiso_queue()
 
     iso_cls = getattr(gridstatus, iso_name, None) or getattr(
         gridstatus, iso_name.capitalize(), None,
