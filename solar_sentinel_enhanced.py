@@ -707,9 +707,13 @@ def fetch_nyiso_queue() -> pd.DataFrame:
             NYISO_QUEUE_EXPORT_URL,
             headers=headers,
             timeout=(10, 20),
+            stream=True,
         )
         if response.status_code == 202:
             retry_after = response.headers.get("Retry-After", "5")
+            # A cloud runner can receive an indefinitely trickled 202 body.
+            # We only need the headers, so release the connection immediately.
+            response.close()
             try:
                 delay = max(1, min(float(retry_after), 5))
             except ValueError:
@@ -723,13 +727,15 @@ def fetch_nyiso_queue() -> pd.DataFrame:
             continue
 
         response.raise_for_status()
-        if not response.content.startswith(b"PK"):
+        content = response.content
+        response.close()
+        if not content.startswith(b"PK"):
             raise ValueError("NYISO export did not return an XLSX workbook")
 
         # Reuse gridstatus's maintained workbook parser after making delivery
         # reliable. The instance override is local to this call and thread.
         adapter = gridstatus.NYISO()
-        adapter.get_raw_interconnection_queue = lambda: io.BytesIO(response.content)
+        adapter.get_raw_interconnection_queue = lambda: io.BytesIO(content)
         queue = adapter.get_interconnection_queue()
         queue["ISO"] = "NYISO"
         logger.info("  -> %d total projects returned by NYISO", len(queue))
