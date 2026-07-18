@@ -1,0 +1,23 @@
+{
+  "subscribers": [
+    {
+      "name": "Example subscriber",
+      "email": "analyst@example.com",
+      "telegram_chat_id": "-1000000000000",
+      "states": ["IL", "TX"],
+      "tier": "bundle_5",
+      "active": false,
+      "filters": {
+        "states": ["IL", "TX"],
+        "isos": ["MISO", "ERCOT"],
+        "generation_types": ["solar", "battery", "storage"],
+        "change_types": ["NEW", "CHANGED", "WITHDRAWN"],
+        "counties": [],
+        "statuses": [],
+        "keywords": [],
+        "min_capacity_mw": 25,
+        "max_capacity_mw": null
+      }
+    }
+  ]
+}

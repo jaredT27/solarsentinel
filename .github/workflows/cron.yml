@@ -61,20 +61,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ── 5. Run Solar Sentinel Enhanced ─────────────────────────
+      # ── 5. Verify reliability and filtering logic ──────────────
+      - name: Run unit tests
+        run: python -m pytest -q
+
+      # ── 6. Run Solar Sentinel Enhanced ─────────────────────────
       - name: Run Solar Sentinel Enhanced
+        id: scan
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           PJM_API_KEY: ${{ secrets.PJM_API_KEY }}
         run: |
+          set +e
           FORCE_FLAG=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             FORCE_FLAG="--force"
           fi
           python solar_sentinel_enhanced.py $FORCE_FLAG
+          SCAN_EXIT=$?
+          echo "exit_code=$SCAN_EXIT" >> "$GITHUB_OUTPUT"
+          exit 0
 
-      # ── 6. Commit updated snapshots back to the repo ───────────
+      # ── 7. Commit validated snapshots, health, and history ─────
       # This ensures the next run can diff against today's data.
       - name: Commit snapshot updates
         run: |
@@ -84,3 +93,12 @@ jobs:
           # Only commit if there are changes
           git diff --cached --quiet || git commit -m "chore: update queue snapshots $(date -u +%Y-%m-%d)"
           git push
+
+      # ── 8. A partial market failure must not appear green ──────
+      - name: Enforce complete market health
+        if: always()
+        run: |
+          if [ "${{ steps.scan.outputs.exit_code }}" != "0" ]; then
+            echo "One or more configured markets were unhealthy. See data/scan_status.json and the admin report."
+            exit 1
+          fi
