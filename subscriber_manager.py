@@ -336,8 +336,7 @@ def cmd_add(args: argparse.Namespace) -> None:
     if "custom_filter" in selected_addons:
         console.print()
         console.print(
-            "[bold]Custom Capacity Filter:[/bold] Only include projects above this MW threshold "
-            "in the subscriber's email digest."
+            "[bold]Custom Capacity Filter:[/bold] Only deliver projects above this MW threshold."
         )
         mw_input = Prompt.ask("[bold]Minimum MW threshold[/bold]", default="50")
         try:
@@ -345,6 +344,34 @@ def cmd_add(args: argparse.Namespace) -> None:
         except ValueError:
             console.print("[yellow]Invalid number, defaulting to 50 MW.[/yellow]")
             custom_min_mw = 50.0
+
+    console.print()
+    console.print("[bold]Personalized alert filters[/bold] [dim](press Enter to use the defaults)[/dim]")
+    generation_input = Prompt.ask(
+        "[bold]Technologies[/bold]",
+        default="solar,battery,bess,photovoltaic,storage,sun,bat",
+    )
+    change_input = Prompt.ask(
+        "[bold]Change types[/bold]",
+        default="NEW,CHANGED,WITHDRAWN",
+    )
+    counties_input = Prompt.ask(
+        "[bold]Counties[/bold] [dim](optional, comma-separated)[/dim]",
+        default="",
+    )
+    keywords_input = Prompt.ask(
+        "[bold]Project/developer keywords[/bold] [dim](optional)[/dim]",
+        default="",
+    )
+
+    personalized_filters = {
+        "states": states,
+        "generation_types": [item.strip() for item in generation_input.split(",") if item.strip()],
+        "change_types": [item.strip().upper() for item in change_input.split(",") if item.strip()],
+        "counties": [item.strip() for item in counties_input.split(",") if item.strip()],
+        "keywords": [item.strip() for item in keywords_input.split(",") if item.strip()],
+        "min_capacity_mw": custom_min_mw if custom_min_mw is not None else 5.0,
+    }
 
     # Build record.
     record = {
@@ -357,6 +384,7 @@ def cmd_add(args: argparse.Namespace) -> None:
         "addons": selected_addons,
         "added": date.today().isoformat(),
         "active": True,
+        "filters": personalized_filters,
     }
     if custom_min_mw is not None:
         record["custom_min_mw"] = custom_min_mw

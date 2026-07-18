@@ -30,3 +30,5 @@ logs/
 # NOTE: data/ is intentionally NOT ignored.
 # Snapshot JSON files are committed so GitHub Actions
 # can diff against them across daily runs.
+.vercel
+.env*

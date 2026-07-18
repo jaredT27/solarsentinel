@@ -74,6 +74,8 @@ filters:
     - bess
     - photovoltaic
     - storage
+    - sun
+    - bat
   # When true, snapshots retain ALL statuses (Active, Withdrawn, etc.)
   # so the diff engine can detect transitions like Active → Withdrawn.
   # When false, only Active projects are stored (MVP behaviour).
@@ -88,6 +90,16 @@ alerts:
   capacity_change_mw: 10
   # … OR by this percentage — whichever triggers first.
   capacity_change_pct: 15
+
+# ── Reliability Guards ─────────────────────────────────────────
+# Stop upstream format changes or truncated downloads from becoming
+# hundreds of false subscriber alerts. A guarded market is marked unhealthy
+# and its previous snapshot is preserved for inspection.
+reliability:
+  min_snapshot_ratio: 0.70
+  max_daily_change_ratio: 0.25
+  max_daily_alerts: 250
+  history_limit: 5000
 
 # ── Satellite Imagery ─────────────────────────────────────────
 imagery:

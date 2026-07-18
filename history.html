@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4f7fb">
+    <title>Alert History | Solar Sentinel</title>
+    <meta name="description" content="Search and filter Solar Sentinel interconnection queue changes by market, state, technology, capacity, and change type.">
+    <meta name="robots" content="noindex">
+    <link rel="icon" type="image/png" href="./assets/header-logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./history.css">
+    <script src="./history.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#history-results">Skip to alert history</a>
+    <div class="ambient ambient-one" aria-hidden="true"></div>
+    <div class="ambient ambient-two" aria-hidden="true"></div>
+
+    <header class="workspace-header glass">
+      <a class="brand" href="./" aria-label="Solar Sentinel home">
+        <img src="./assets/header-logo.png" alt="" width="46" height="46">
+        <span><strong>Solar Sentinel</strong><small>Alert history</small></span>
+      </a>
+      <nav aria-label="Workspace navigation">
+        <a href="./">Overview</a>
+        <a class="button button-small" href="https://cal.com/clauffice/15min" target="_blank" rel="noopener noreferrer">Book a demo</a>
+      </nav>
+    </header>
+
+    <main class="workspace" id="main-content">
+      <section class="workspace-intro" aria-labelledby="history-title">
+        <div>
+          <p class="eyebrow"><span></span> Intelligence workspace</p>
+          <h1 id="history-title">Alert history</h1>
+          <p>Search validated queue movement, save a working view, and turn it into a personalized alert profile.</p>
+        </div>
+        <div class="health-summary glass" data-health-summary aria-live="polite">
+          <span class="health-indicator" data-health-indicator></span>
+          <div><strong data-health-label>Checking coverage</strong><small data-health-time>Connecting to the latest scan…</small></div>
+          <span class="market-health" data-market-health>—</span>
+        </div>
+      </section>
+
+      <section class="filter-workspace glass" aria-labelledby="filters-heading">
+        <div class="filter-heading">
+          <div><p class="section-label">Working view</p><h2 id="filters-heading">Find the signal</h2></div>
+          <div class="view-actions">
+            <label class="saved-view-label" for="saved-view">Saved view</label>
+            <select id="saved-view" data-saved-view><option value="">Current filters</option></select>
+            <button class="quiet-button" type="button" data-save-view>Save view</button>
+          </div>
+        </div>
+
+        <div class="filters" data-filters>
+          <label class="search-field">
+            <span>Search projects, counties, entities or queue IDs</span>
+            <input type="search" placeholder="Search alert history" autocomplete="off" data-filter-search>
+          </label>
+          <label><span>Change</span><select data-filter-change><option value="">All changes</option><option value="NEW">New</option><option value="CHANGED">Changed</option><option value="WITHDRAWN">Withdrawn</option></select></label>
+          <label><span>Market</span><select data-filter-iso><option value="">All markets</option></select></label>
+          <label><span>State</span><select data-filter-state><option value="">All states</option></select></label>
+          <label><span>Technology</span><select data-filter-tech><option value="">All technologies</option></select></label>
+          <label><span>Minimum MW</span><input type="number" min="0" step="5" inputmode="decimal" placeholder="Any size" data-filter-min-mw></label>
+        </div>
+
+        <div class="filter-footer">
+          <p><strong data-result-count>0</strong> matching alerts</p>
+          <div>
+            <button class="text-button" type="button" data-reset-filters>Reset filters</button>
+            <a class="button button-small" href="mailto:Jared@Clauffice.com?subject=Solar%20Sentinel%20Personalized%20Alert%20Profile" data-request-profile>Request this alert profile</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="history-section" id="history-results" aria-labelledby="results-heading">
+        <div class="history-heading">
+          <div><p class="section-label">Validated changes</p><h2 id="results-heading">Latest alerts</h2></div>
+          <button class="quiet-button" type="button" data-export disabled>Export CSV</button>
+        </div>
+
+        <section class="history-table" aria-label="Alert results" aria-live="polite" aria-busy="true" data-history-region>
+          <div class="history-columns" aria-hidden="true">
+            <span>Observed</span><span>Change</span><span>Project</span><span>Market</span><span>Location</span><span>Capacity</span><span>Status</span>
+          </div>
+          <div class="history-rows" data-history-rows>
+            <div class="loading-state"><span></span><p>Loading alert history…</p></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <dialog class="alert-dialog" data-alert-dialog aria-labelledby="dialog-title">
+      <form method="dialog"><button class="dialog-close" type="submit" aria-label="Close alert details">Close</button></form>
+      <div data-alert-detail></div>
+    </dialog>
+
+    <footer class="workspace-footer">
+      <span>Solar Sentinel · Interconnection queue intelligence</span>
+      <a href="mailto:Jared@Clauffice.com">Jared@Clauffice.com</a>
+    </footer>
+  </body>
+</html>

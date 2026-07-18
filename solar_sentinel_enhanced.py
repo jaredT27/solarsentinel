@@ -34,6 +34,7 @@ from __future__ import annotations
 
 import argparse
 import html as html_lib
+import io
 import json
 import logging
 import logging.handlers
@@ -43,7 +44,7 @@ import time
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
-from datetime import date, datetime
+from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
 
@@ -63,6 +64,15 @@ from tenacity import (
     wait_exponential,
 )
 
+from sentinel_features import (
+    Subscriber,
+    append_history_events,
+    build_history_event,
+    load_subscribers,
+    subscriber_matches_alert,
+    write_scan_status,
+)
+
 # ---------------------------------------------------------------------------
 # Module logger (child loggers inherit this config)
 # ---------------------------------------------------------------------------
@@ -72,6 +82,9 @@ logger = logging.getLogger("solar_sentinel")
 # Where snapshot JSON files live (relative to this script).
 # ---------------------------------------------------------------------------
 DATA_DIR = Path(__file__).resolve().parent / "data"
+SUBSCRIBERS_FILE = Path(__file__).resolve().parent / "subscribers.json"
+HISTORY_FILE = DATA_DIR / "alert_history.json"
+SCAN_STATUS_FILE = DATA_DIR / "scan_status.json"
 
 # ---------------------------------------------------------------------------
 # Public interconnection-queue URLs for each ISO (used as deep-links in alerts)
@@ -81,7 +94,7 @@ ISO_QUEUE_URLS: dict[str, str] = {
     "ERCOT": "https://www.ercot.com/gridinfo/resource",
     "CAISO": "https://rimspub.caiso.com/rimsui/logon.do",
     "NYISO": "https://www.nyiso.com/interconnections",
-    "PJM":   "https://www.pjm.com/planning/service-requests/interconnection-queues",
+    "PJM":   "https://www.pjm.com/planning/service-requests",
     "ISONE": "https://irtt.iso-ne.com/reports/external",
 }
 
@@ -102,6 +115,7 @@ US_STATE_ABBREV: dict[str, str] = {
     "Vermont": "VT", "Virginia": "VA", "Washington": "WA", "West Virginia": "WV",
     "Wisconsin": "WI", "Wyoming": "WY",
 }
+US_STATE_NAMES: dict[str, str] = {code: name for name, code in US_STATE_ABBREV.items()}
 
 # Columns we normalise every ISO's DataFrame to.
 STANDARD_COLUMNS: list[str] = [
@@ -115,6 +129,29 @@ STANDARD_COLUMNS: list[str] = [
     "Queue Date",
     "Proposed Completion Date",
 ]
+
+# PJM's public interconnection queue is served by its Planning API, not by
+# Data Miner. The site client key below is shipped in PJM's public web bundle;
+# it is not a personal Data Miner subscription key. Keeping an environment
+# override gives us a fast recovery path if PJM rotates its public client key.
+PJM_PLANNING_EXPORT_URL = (
+    "https://services.pjm.com/PJMPlanningApi/api/Queue/ExportToXls"
+)
+PJM_PLANNING_CLIENT_KEY = os.getenv(
+    "PJM_PLANNING_CLIENT_KEY",
+    "E29477D0-70E0-4825-89B0-43F460BF9AB4",
+)
+PJM_REQUIRED_SOURCE_COLUMNS = {
+    "Project ID",
+    "Name",
+    "State",
+    "County",
+    "Status",
+    "MFO",
+    "Fuel",
+    "Submitted Date",
+    "Projected In Service Date",
+}
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -142,6 +179,13 @@ class AlertConfig:
     alert_on_withdrawn: bool = True
     capacity_change_mw: float = 10.0
     capacity_change_pct: float = 15.0
+
+@dataclass
+class ReliabilityConfig:
+    min_snapshot_ratio: float = 0.70
+    max_daily_change_ratio: float = 0.25
+    max_daily_alerts: int = 250
+    history_limit: int = 5000
 
 @dataclass
 class ImageryConfig:
@@ -172,9 +216,11 @@ class SentinelConfig:
     states: list[StateConfig]
     filters: FilterConfig
     alerts: AlertConfig
+    reliability: ReliabilityConfig
     imagery: ImageryConfig
     processing: ProcessingConfig
     logging_cfg: LoggingConfig
+    subscribers: list[Subscriber]
 
 
 def load_config(config_path: Path) -> SentinelConfig:
@@ -240,6 +286,14 @@ def load_config(config_path: Path) -> SentinelConfig:
         capacity_change_pct=float(a_raw.get("capacity_change_pct", 15.0)),
     )
 
+    r_raw = raw.get("reliability", {})
+    reliability = ReliabilityConfig(
+        min_snapshot_ratio=float(r_raw.get("min_snapshot_ratio", 0.70)),
+        max_daily_change_ratio=float(r_raw.get("max_daily_change_ratio", 0.25)),
+        max_daily_alerts=int(r_raw.get("max_daily_alerts", 250)),
+        history_limit=int(r_raw.get("history_limit", 5000)),
+    )
+
     i_raw = raw.get("imagery", {})
     imagery = ImageryConfig(
         zoom=int(i_raw.get("zoom", 14)),
@@ -270,9 +324,11 @@ def load_config(config_path: Path) -> SentinelConfig:
         states=states,
         filters=filters,
         alerts=alerts,
+        reliability=reliability,
         imagery=imagery,
         processing=processing,
         logging_cfg=logging_cfg,
+        subscribers=load_subscribers(SUBSCRIBERS_FILE),
     )
 
 
@@ -325,6 +381,8 @@ def setup_logging(cfg: LoggingConfig, *, debug: bool = False, quiet: bool = Fals
 
 class _SentinelEncoder(json.JSONEncoder):
     def default(self, obj: Any) -> Any:
+        if obj is pd.NaT:
+            return None
         if isinstance(obj, (datetime, date, pd.Timestamp)):
             return obj.isoformat()
         if isinstance(obj, float) and pd.isna(obj):
@@ -537,15 +595,98 @@ def get_google_earth_url(lat: float, lng: float) -> str:
 # QUEUE FETCHING — with tenacity retry
 # ═══════════════════════════════════════════════════════════════
 
+def fetch_pjm_planning_queue() -> pd.DataFrame:
+    """Fetch and normalize PJM's public Planning queue export.
+
+    PJM Data Miner does not publish the interconnection queue.  The public
+    service-request pages use this separate Planning API to export the serial
+    and cycle project inventory as an Excel workbook.
+    """
+    response = requests.post(
+        PJM_PLANNING_EXPORT_URL,
+        headers={
+            "api-subscription-key": PJM_PLANNING_CLIENT_KEY,
+            "Origin": "https://www.pjm.com",
+            "Referer": "https://www.pjm.com/",
+        },
+        timeout=90,
+    )
+    response.raise_for_status()
+
+    # XLSX files are ZIP containers. Reject HTML error pages and other
+    # malformed responses before pandas produces a misleading parser error.
+    if not response.content.startswith(b"PK"):
+        raise ValueError("PJM Planning export did not return an XLSX workbook")
+
+    source = pd.read_excel(io.BytesIO(response.content))
+    missing = PJM_REQUIRED_SOURCE_COLUMNS.difference(source.columns)
+    if missing:
+        raise ValueError(
+            "PJM Planning export schema changed; missing columns: "
+            + ", ".join(sorted(missing))
+        )
+    if source.empty:
+        raise ValueError("PJM Planning export returned no projects")
+
+    mfo = pd.to_numeric(source["MFO"], errors="coerce")
+    in_service = pd.to_numeric(
+        source.get("MW In Service", pd.Series(index=source.index, dtype=float)),
+        errors="coerce",
+    )
+    capacity = pd.concat([mfo, in_service], axis=1).min(axis=1, skipna=True)
+
+    # Some non-generation and migrated cycle records omit MFO. Preserve a
+    # useful capacity when PJM provides only its energy/capacity fields.
+    fallback_capacity = pd.concat(
+        [
+            pd.to_numeric(
+                source.get("MW Energy", pd.Series(index=source.index, dtype=float)),
+                errors="coerce",
+            ),
+            pd.to_numeric(
+                source.get("MW Capacity", pd.Series(index=source.index, dtype=float)),
+                errors="coerce",
+            ),
+        ],
+        axis=1,
+    ).max(axis=1, skipna=True)
+    capacity = capacity.fillna(fallback_capacity)
+
+    queue = source.rename(
+        columns={
+            "Project ID": "Queue ID",
+            "Name": "Project Name",
+            "Fuel": "Generation Type",
+            "Submitted Date": "Queue Date",
+            "Projected In Service Date": "Proposed Completion Date",
+        }
+    ).copy()
+    queue["Capacity (MW)"] = capacity
+    queue["ISO"] = "PJM"
+
+    for column in STANDARD_COLUMNS:
+        if column not in queue.columns:
+            queue[column] = pd.NA
+
+    logger.info(
+        "  -> %d total projects returned by PJM Planning API",
+        len(queue),
+    )
+    return queue[[*STANDARD_COLUMNS, "ISO"]]
+
+
 @retry(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=2, max=30),
+    stop=stop_after_attempt(5),
+    wait=wait_exponential(multiplier=1, min=5, max=30),
     retry=retry_if_exception_type(Exception),
     before_sleep=before_sleep_log(logger, logging.WARNING),
     reraise=True,
 )
 def _fetch_iso_queue_with_retry(iso_name: str) -> pd.DataFrame:
-    """Internal: call gridstatus with automatic retry on transient errors."""
+    """Internal: call an ISO adapter with retries for transient errors."""
+    if iso_name == "PJM":
+        return fetch_pjm_planning_queue()
+
     iso_cls = getattr(gridstatus, iso_name, None) or getattr(
         gridstatus, iso_name.capitalize(), None,
     )
@@ -596,7 +737,9 @@ def filter_projects(
         logger.warning("Missing 'Generation Type' column — returning empty")
         return pd.DataFrame()
 
-    gen_pattern = "|".join(cfg.generation_types)
+    # ISO-NE publishes compact fuel codes (SUN/BAT) rather than words.
+    generation_terms = [*cfg.generation_types, "sun", "bat"]
+    gen_pattern = "|".join(dict.fromkeys(generation_terms))
     gen_mask = df["Generation Type"].astype(str).str.contains(
         gen_pattern, case=False, na=False,
     )
@@ -630,6 +773,7 @@ def filter_projects(
 
     # -- Combine & normalise ---------------------------------------------------
     filtered = df.loc[gen_mask & state_mask & cap_mask & status_mask].copy()
+    filtered["State"] = filtered["State"].astype(str).str.strip().replace(US_STATE_NAMES)
     cols_present = [c for c in STANDARD_COLUMNS if c in filtered.columns] + ["ISO"]
     filtered = filtered[cols_present].reset_index(drop=True)
 
@@ -662,14 +806,34 @@ def load_snapshot(iso_name: str) -> dict[str, dict]:
 def save_snapshot(iso_name: str, projects: pd.DataFrame) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / f"snapshot_{iso_name}.json"
-    records: dict[str, dict] = {}
-    for _, row in projects.iterrows():
-        qid = str(row.get("Queue ID", ""))
-        if qid:
-            records[qid] = row.to_dict()
+    records = build_project_records(projects)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(records, f, indent=2, cls=_SentinelEncoder)
     logger.info("Saved snapshot for %s -- %d projects -> %s", iso_name, len(records), path)
+
+
+def build_project_records(projects: pd.DataFrame) -> dict[str, dict]:
+    """Build stable records without dropping multi-unit projects sharing a Queue ID."""
+    records: dict[str, dict] = {}
+    if projects.empty:
+        return records
+
+    queue_ids = projects["Queue ID"].astype(str) if "Queue ID" in projects else pd.Series(dtype=str)
+    duplicate_ids = set(queue_ids[queue_ids.duplicated(keep=False)])
+    for index, row in projects.iterrows():
+        record = row.to_dict()
+        qid = str(record.get("Queue ID", "")).strip()
+        if not qid:
+            continue
+        key = qid
+        if qid in duplicate_ids:
+            identity = "|".join(
+                str(record.get(field, "")).strip()
+                for field in ("Project Name", "State", "County", "Capacity (MW)")
+            )
+            key = f"{qid}::{identity or index}"
+        records[key] = record
+    return records
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -793,8 +957,13 @@ def _h(text: Any) -> str:
 
 
 def _fmt_date(val: Any) -> str:
-    if val is None or (isinstance(val, float) and pd.isna(val)):
+    if val is None or val is pd.NaT:
         return "N/A"
+    try:
+        if pd.isna(val):
+            return "N/A"
+    except (TypeError, ValueError):
+        pass
     if isinstance(val, (datetime, date, pd.Timestamp)):
         return val.strftime("%Y-%m-%d")
     s = str(val)
@@ -962,21 +1131,29 @@ def send_to_channels(
     cfg: SentinelConfig,
     *,
     dry_run: bool = False,
-) -> None:
-    """Route an alert to the all-alerts channel + any per-state channel."""
-    # Always send to the "all" channel.
-    targets: list[str] = [cfg.channels["all"]]
+) -> tuple[int, int]:
+    """Route an alert to shared channels and matching personalized subscribers."""
+    targets: set[str] = {cfg.channels["all"]}
 
     # Also send to per-state channel if configured.
     state_code = state_tag.lstrip("#")
     if state_code in cfg.channels and cfg.channels[state_code] != cfg.channels["all"]:
-        targets.append(cfg.channels[state_code])
+        targets.add(cfg.channels[state_code])
 
+    for subscriber in cfg.subscribers:
+        if subscriber_matches_alert(subscriber, project, change_type, state_code):
+            targets.add(subscriber.telegram_chat_id)
+
+    sent = 0
+    failed = 0
     for chat_id in targets:
-        send_telegram_alert(
+        ok = send_telegram_alert(
             project, change_type, state_tag, image_url, chat_id, cfg,
             dry_run=dry_run,
         )
+        sent += int(ok)
+        failed += int(not ok)
+    return sent, failed
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -991,6 +1168,9 @@ class ISOResult:
     new: int = 0
     changed: int = 0
     withdrawn: int = 0
+    records: int = 0
+    delivery_errors: int = 0
+    events: list[dict[str, Any]] = field(default_factory=list)
     error: str | None = None
 
 
@@ -1005,10 +1185,13 @@ def send_subscriber_summary(
     total_chg = sum(r.changed for r in results)
     total_wd = sum(r.withdrawn for r in results)
     all_tags = " ".join(r.tags for r in results if r.tags)
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    error_count = sum(1 for result in results if result.error)
+    scan_label = "scan complete" if error_count == 0 else f"scan degraded · {error_count} market error(s)"
+    scan_emoji = "\u2705" if error_count == 0 else "\u26a0\ufe0f"
 
     text = (
-        f"\u2705 <b>Solar Sentinel scan complete</b>\n"
+        f"{scan_emoji} <b>Solar Sentinel {scan_label}</b>\n"
         f"\U0001f4c5 {now}\n"
         f"\u2600\ufe0f {total_new} new  |  \U0001f504 {total_chg} changed  |  "
         f"\u26a0\ufe0f {total_wd} withdrawn\n"
@@ -1034,7 +1217,7 @@ def send_admin_health_report(
     dry_run: bool = False,
 ) -> None:
     """Detailed daily report to the admin channel — always sent."""
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
 
     # ── Per-ISO lines ─────────────────────────────────────────────
     iso_lines: list[str] = []
@@ -1114,19 +1297,37 @@ def process_iso_group(
     # 2. Filter
     filtered_df = filter_projects(raw_df, state_names, cfg.filters)
     if filtered_df.empty:
-        logger.info("No matching projects in %s for %s", iso_name, state_names)
-        save_snapshot(iso_name, filtered_df)
+        result.error = f"No matching solar/storage projects returned for {', '.join(state_names)}"
         return result
 
-    # 3. Build current dict keyed by Queue ID
-    current: dict[str, dict] = {}
-    for _, row in filtered_df.iterrows():
-        qid = str(row.get("Queue ID", ""))
-        if qid:
-            current[qid] = row.to_dict()
+    # 3. Build stable project records. Some ISOs repeat Queue IDs by unit.
+    current = build_project_records(filtered_df)
+    result.records = len(current)
 
     # 4. Load previous snapshot (empty if --force)
     previous = {} if force else load_snapshot(iso_name)
+
+    # A newly enabled market has no trustworthy comparison point. Save the
+    # first complete inventory as its baseline instead of presenting every
+    # existing project as a new customer event. --force remains the explicit
+    # opt-in for re-alerting the entire current queue.
+    if not previous and not force:
+        logger.info(
+            "%s has no previous snapshot; saving %d records as its baseline",
+            iso_name,
+            len(current),
+        )
+        save_snapshot(iso_name, filtered_df)
+        return result
+
+    # Reject suspicious upstream truncation before missing rows become false withdrawals.
+    if previous and len(current) < len(previous) * cfg.reliability.min_snapshot_ratio:
+        result.error = (
+            f"Snapshot guard: {len(current)} records is below "
+            f"{cfg.reliability.min_snapshot_ratio:.0%} of the previous {len(previous)}"
+        )
+        logger.error("%s — %s", iso_name, result.error)
+        return result
 
     # 5. Diff
     diff = diff_projects(current, previous, cfg.alerts)
@@ -1134,38 +1335,67 @@ def process_iso_group(
     result.changed = len(diff.changed_projects)
     result.withdrawn = len(diff.withdrawn_projects)
 
+    event_total = result.new + result.changed + result.withdrawn
+    change_ratio = event_total / max(len(previous), 1)
+    if previous and (
+        event_total > cfg.reliability.max_daily_alerts
+        or change_ratio > cfg.reliability.max_daily_change_ratio
+    ):
+        result.error = (
+            f"Anomaly guard: {event_total} changes ({change_ratio:.1%}) exceeds "
+            "the configured daily safety limit"
+        )
+        logger.error("%s — %s", iso_name, result.error)
+        return result
+
     # 6. Build state_name → tag lookup
     tag_map = {s.name: s.tag for s in states}
 
-    # 7. Alert — NEW
-    if cfg.alerts.alert_on_new:
-        for proj in diff.new_projects:
-            state = str(proj.get("State", "")).strip()
-            tag = tag_map.get(state, f"#{state[:2].upper()}")
-            coords = geocode_project(proj.get("County"), proj.get("State"), cfg.processing.geocode_delay_sec)
-            img = get_satellite_image_url(*coords, cfg) if coords else None
-            send_to_channels(proj, "NEW", tag, img, cfg, dry_run=dry_run)
+    def dispatch(project: dict[str, Any], change_type: str) -> None:
+        state = str(project.get("State", "")).strip()
+        state_code = US_STATE_ABBREV.get(state, state[:2].upper())
+        tag = tag_map.get(state, f"#{state_code}")
+        coords = geocode_project(project.get("County"), state, cfg.processing.geocode_delay_sec)
+        image_url = get_satellite_image_url(*coords, cfg) if coords else None
+        result.events.append(
+            build_history_event(
+                project,
+                change_type,
+                state_code,
+                image_url=image_url,
+                source_url=ISO_QUEUE_URLS.get(iso_name),
+            )
+        )
+        _, failed = send_to_channels(
+            project, change_type, tag, image_url, cfg, dry_run=dry_run,
+        )
+        result.delivery_errors += failed
 
-    # 8. Alert — CHANGED
-    if cfg.alerts.alert_on_changed:
-        for proj in diff.changed_projects:
-            state = str(proj.get("State", "")).strip()
-            tag = tag_map.get(state, f"#{state[:2].upper()}")
-            coords = geocode_project(proj.get("County"), proj.get("State"), cfg.processing.geocode_delay_sec)
-            img = get_satellite_image_url(*coords, cfg) if coords else None
-            send_to_channels(proj, "CHANGED", tag, img, cfg, dry_run=dry_run)
-
-    # 9. Alert — WITHDRAWN
-    if cfg.alerts.alert_on_withdrawn:
-        for proj in diff.withdrawn_projects:
-            state = str(proj.get("State", "")).strip()
-            tag = tag_map.get(state, f"#{state[:2].upper()}")
-            coords = geocode_project(proj.get("County"), proj.get("State"), cfg.processing.geocode_delay_sec)
-            img = get_satellite_image_url(*coords, cfg) if coords else None
-            send_to_channels(proj, "WITHDRAWN", tag, img, cfg, dry_run=dry_run)
+    alert_groups = (
+        (cfg.alerts.alert_on_new, diff.new_projects, "NEW"),
+        (cfg.alerts.alert_on_changed, diff.changed_projects, "CHANGED"),
+        (cfg.alerts.alert_on_withdrawn, diff.withdrawn_projects, "WITHDRAWN"),
+    )
+    for enabled, projects, change_type in alert_groups:
+        if not enabled:
+            continue
+        for project in projects:
+            try:
+                dispatch(project, change_type)
+            except Exception as exc:
+                result.delivery_errors += 1
+                logger.exception(
+                    "Failed to prepare/deliver %s alert for %s %s",
+                    change_type,
+                    iso_name,
+                    project.get("Queue ID", "unknown"),
+                )
+                if result.error is None:
+                    result.error = f"Alert delivery failure: {exc}"
 
     # 10. Save snapshot
-    save_snapshot(iso_name, filtered_df)
+    if result.error is None:
+        save_snapshot(iso_name, filtered_df)
 
     return result
 
@@ -1240,7 +1470,7 @@ def main() -> int:
     setup_logging(cfg.logging_cfg, debug=args.debug, quiet=args.quiet)
 
     logger.info("=" * 60)
-    logger.info("Solar Sentinel Enhanced starting  %s", datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"))
+    logger.info("Solar Sentinel Enhanced starting  %s", datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC"))
     if args.dry_run:
         logger.info("*** DRY-RUN MODE — no Telegram messages will be sent ***")
     if args.force:
@@ -1292,12 +1522,22 @@ def main() -> int:
     )
     logger.info("=" * 60)
 
+    # Persist history and coverage health before reporting the final outcome.
+    history_events = [event for result in results for event in result.events]
+    append_history_events(
+        HISTORY_FILE,
+        history_events,
+        limit=cfg.reliability.history_limit,
+    )
+    write_scan_status(SCAN_STATUS_FILE, results, elapsed)
+
     # ── Telegram summaries ────────────────────────────────────────
     send_subscriber_summary(results, cfg, dry_run=args.dry_run)
     send_admin_health_report(results, elapsed, cfg, dry_run=args.dry_run)
 
-    # Exit 1 only if every single ISO failed.
-    return 1 if total_err == len(results) else 0
+    # A partial scan is degraded, not successful. The workflow still commits
+    # healthy snapshots/status before surfacing this non-zero exit code.
+    return 1 if total_err else 0
 
 
 if __name__ == "__main__":

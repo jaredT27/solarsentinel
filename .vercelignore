@@ -1,0 +1,10 @@
+.env
+.venv/
+logs/
+tests/
+web/
+__pycache__/
+*.pyc
+data/snapshot_*.json
+data/weekly_baselines/
+output/
