@@ -702,16 +702,20 @@ def fetch_nyiso_queue() -> pd.DataFrame:
         ),
     }
 
-    for attempt in range(1, 5):
-        response = session.get(NYISO_QUEUE_EXPORT_URL, headers=headers, timeout=90)
+    for attempt in range(1, 4):
+        response = session.get(
+            NYISO_QUEUE_EXPORT_URL,
+            headers=headers,
+            timeout=(10, 20),
+        )
         if response.status_code == 202:
             retry_after = response.headers.get("Retry-After", "5")
             try:
-                delay = max(1, min(float(retry_after), 15))
+                delay = max(1, min(float(retry_after), 5))
             except ValueError:
                 delay = 5
             logger.warning(
-                "NYISO workbook is being prepared (202); retrying in %.0fs (%d/4)",
+                "NYISO workbook is being prepared (202); retrying in %.0fs (%d/3)",
                 delay,
                 attempt,
             )
@@ -731,7 +735,7 @@ def fetch_nyiso_queue() -> pd.DataFrame:
         logger.info("  -> %d total projects returned by NYISO", len(queue))
         return queue
 
-    raise RuntimeError("NYISO workbook remained pending after 4 attempts")
+    raise RuntimeError("NYISO workbook remained pending after 3 attempts")
 
 
 @retry(
@@ -745,8 +749,6 @@ def _fetch_iso_queue_with_retry(iso_name: str) -> pd.DataFrame:
     """Internal: call an ISO adapter with retries for transient errors."""
     if iso_name == "PJM":
         return fetch_pjm_planning_queue()
-    if iso_name == "NYISO":
-        return fetch_nyiso_queue()
 
     iso_cls = getattr(gridstatus, iso_name, None) or getattr(
         gridstatus, iso_name.capitalize(), None,
@@ -763,7 +765,14 @@ def fetch_iso_queue(iso_name: str) -> pd.DataFrame:
     """
     logger.info("Fetching %s interconnection queue …", iso_name)
     try:
-        df = _fetch_iso_queue_with_retry(iso_name)
+        # NYISO implements its own session-aware, tightly bounded retry loop.
+        # Running it through the generic five-pass wrapper can otherwise hold
+        # the entire daily workflow open when NYISO blocks cloud egress.
+        df = (
+            fetch_nyiso_queue()
+            if iso_name == "NYISO"
+            else _fetch_iso_queue_with_retry(iso_name)
+        )
         df["ISO"] = iso_name
         logger.info("  -> %d total projects returned by %s", len(df), iso_name)
         return df
