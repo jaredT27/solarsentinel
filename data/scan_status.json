@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T12:47:22.410561+00:00",
+  "generated_at": "2026-07-19T20:55:26.428431+00:00",
   "status": "degraded",
   "healthy_markets": 5,
   "total_markets": 6,
-  "elapsed_seconds": 51.68,
+  "elapsed_seconds": 17.06,
   "markets": [
     {
       "iso": "CAISO",
