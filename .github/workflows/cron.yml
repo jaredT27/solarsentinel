@@ -1,18 +1,15 @@
-# Solar Sentinel Enhanced — Daily Interconnection Queue Monitor
+# Solar Sentinel Enhanced — Manual Interconnection Queue Monitor
 #
-# Runs every day at 12:00 UTC (7 AM ET / 6 AM CT).
-# Can also be triggered manually from the Actions tab.
+# Automatic scans are paused until active subscribers are onboarded.
+# The workflow remains available manually from the Actions tab.
 #
 # Snapshots in data/ are committed back to the repo after each run
 # so that the next run can diff against the previous state.
 # Log files are NOT committed (they stay on the runner).
 
-name: Solar Sentinel Enhanced Daily Scan
+name: Solar Sentinel Enhanced Manual Scan
 
 on:
-  schedule:
-    # Every day at noon UTC
-    - cron: "0 12 * * *"
   workflow_dispatch:
     # Allow manual trigger from the Actions tab
     inputs:
