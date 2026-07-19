@@ -73,6 +73,8 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
           set +e
+          SCAN_STARTED=$(date -u +%s)
+          echo "started_at=$SCAN_STARTED" >> "$GITHUB_OUTPUT"
           FORCE_FLAG=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             FORCE_FLAG="--force"
@@ -96,11 +98,11 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update queue snapshots $(date -u +%Y-%m-%d)"
           git push
 
-      # ── 8. A partial market failure must not appear green ──────
-      - name: Enforce complete market health
+      # ── 8. Fail on actionable outages, not the known NYISO CDN issue ──
+      - name: Enforce market health policy
         if: always()
-        run: |
-          if [ "${{ steps.scan.outputs.exit_code }}" != "0" ]; then
-            echo "One or more configured markets were unhealthy. See data/scan_status.json and the admin report."
-            exit 1
-          fi
+        run: >-
+          python scripts/enforce_scan_health.py
+          --scan-exit "${{ steps.scan.outputs.exit_code }}"
+          --started-at "${{ steps.scan.outputs.started_at }}"
+          --allow-nyiso-degraded
